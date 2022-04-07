@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/vim/"}
 ---
 # vim
-[✏️](https://github.com/meleu/my-notes/edit/master/vim.md)
 
 
 ## links
