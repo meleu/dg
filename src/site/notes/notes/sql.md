@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/sql/"}
 ---
 # SQL
-[✏️](https://github.com/meleu/my-notes/edit/master/sql.md)
 
 ## Source of Information
 
