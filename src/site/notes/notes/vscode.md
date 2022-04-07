@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/vscode/"}
 ---
 # Visual Studio Code
-[✏️](https://github.com/meleu/my-notes/edit/master/vscode.md)
 
 ## debugar via VSCode
 
