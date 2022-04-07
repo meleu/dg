@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/date/"}
 ---
 # date
-[✏️](https://github.com/meleu/my-notes/edit/master/date.md)
 
 ## most used format (by me)
 
