@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/maven/"}
 ---
 # Maven
-[✏️](https://github.com/meleu/my-notes/edit/master/maven.md)
 
 ## Opções Utilizadas no Maven
 
