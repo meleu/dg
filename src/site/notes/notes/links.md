@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/links/"}
 ---
 # links
-[✏️](https://github.com/meleu/my-notes/edit/master/links.md)
 
 My own list of awesome links.
 
