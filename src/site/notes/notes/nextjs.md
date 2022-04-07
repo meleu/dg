@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/nextjs/"}
 ---
 # NextJS
-[✏️](https://github.com/meleu/my-notes/edit/master/nextjs.md)
 
 ## Diferenças SSG x SPA x SSR
 
