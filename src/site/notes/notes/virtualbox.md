@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/virtualbox/"}
 ---
 # VirtualBox
-[✏️](https://github.com/meleu/my-notes/edit/master/apache.md)
 
 ## Installing
 
