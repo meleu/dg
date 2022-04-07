@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/kubernetes/"}
 ---
 # Kubernetes
-[✏️](https://github.com/meleu/my-notes/edit/master/kubernetes.md)
 
 ## Videos
 
