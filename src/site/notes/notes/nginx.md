@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/nginx/"}
 ---
 # NginX
-[✏️](https://github.com/meleu/my-notes/edit/master/nginx.md)
 
 ## Introdução
 
