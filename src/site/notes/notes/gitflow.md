@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/gitflow/"}
 ---
 # gitflow
-[✏️](https://github.com/meleu/my-notes/edit/master/gitflow.md)
 
 ## installing
 
