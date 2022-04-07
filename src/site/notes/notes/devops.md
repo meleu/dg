@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/devops/"}
 ---
 # DevOps
-[✏️](https://github.com/meleu/my-notes/edit/master/devops.md)
 
 ## Videos
 
