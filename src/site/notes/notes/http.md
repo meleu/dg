@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/http/"}
 ---
 # HTTP
-[✏️](https://github.com/meleu/my-notes/edit/master/http.md)
 
 
 ## HTTP verbs:
