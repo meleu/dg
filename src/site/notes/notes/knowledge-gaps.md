@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/knowledge-gaps/"}
 ---
 # Knowledge Gaps
-[✏️](https://github.com/meleu/my-notes/edit/master/gaps.md)
 
 ## Redis
 
