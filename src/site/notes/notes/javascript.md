@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/javascript/"}
 ---
 # JavaScript
-[✏️](https://github.com/meleu/my-notes/edit/master/javascript.md)
 
 ## videos
 
