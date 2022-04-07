@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/nodejs/"}
 ---
 # Node JS
-[✏️](https://github.com/meleu/my-notes/edit/master/nodejs.md)
 
 ## Node Version Manager
 
