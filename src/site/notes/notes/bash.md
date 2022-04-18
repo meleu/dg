@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bash/"}
+{"dg-publish":true,"permalink":"/notes/bash/","tags":"gardenEntry"}
 ---
 # bash
 
