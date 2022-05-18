@@ -1,62 +1,22 @@
 ---
 {"dg-publish":true,"permalink":"/notes/tmux/"}
 ---
-## upcase video series
 
-- link: <https://thoughtbot.com/upcase/tmux>
+# tmux
 
-### Part 1: Introduction
+- [[notes/tmux-upcase|tmux-upcase]]
+- <https://tmuxcheatsheet.com>
+- [[notes/tmux-blau|tmux-blau]]
+- <https://www.youtube.com/watch?v=LzXaMBQOs4w> go to 15 min, talks about plugins
+  - <https://github.com/devdrops/my-dotfiles/blob/main/tmux/.tmux.conf>
 
-tmux stands for terminal multiplexer.
-
-Install with your system's package manager.
-
-#### Initial Commands
-
-Initial commands:
-- `C-b` - the default prefix
-- `<prefix> %` - split horizontally
-- `<prefix> "` - split vertically
-- `<prefix> o` - jump to the other pane
-- `<prefix> c` - creates a new window
-
-Check `man tmux` and `/KEY BINDINGS` for more.
-
-#### Config file
-
-`~/.tmux.conf`
-```
-# use C-a as the prefix key
-unbind C-b
-set -g prefix C-a
-```
-
-Reload the config file:
-```
-$ tmux source-file ~/.tmux.conf
-```
-
-
-#### session vs. window vs. pane
-
-When you type `tmux` you're starting a new session.
-
-You can also start a new session with:
-```
-tmux new-session -s session-name
-```
-
-And list the running sessions with:
-```
-tmux list-sessions
-```
 
 ---
 
 
 ## cheatsheet
 
-### **By resources**
+### By resources
 
 #### *sessions*
 
@@ -168,7 +128,7 @@ set-buffer           setb       -- Set contents of a paster buffer
 show-buffer          showb      -- Display the contents of a paste buffer
 ```
 
-### **By functionality**
+### By functionality
 
 #### *options*
 
@@ -189,7 +149,7 @@ list-commands        lscm       -- List supported sub-commands
 list-keys            lsk        -- List all key-bindings
 ```
 
-### **Typical usage**
+### Typical usage
 
 #### *flags*
 
@@ -227,13 +187,13 @@ tmux show-buffer -b <buffer-name>
 tmux paste-buffer -b <buffer-name> -t <target-pane>
 ```
 
-### **Working with sessions**
+### Working with sessions
 
 ```
 $ Rename the current session.
 ```
 
-### **Working with clients**
+### Working with clients
 
 ```
 d Detach the current client.
@@ -245,7 +205,7 @@ r Force redraw of the attached client.
 s Select a new session for the attached client interactively.
 ```
 
-### **Working with windows**
+### Working with windows
 
 ```
 c Create a new window.
@@ -262,7 +222,7 @@ f Prompt to search for text in open windows.
 i Display some information about the current window.
 ```
 
-### **Working with panes**
+### Working with panes
 
 ```
 " Split the current pane into two, top and bottom
@@ -283,7 +243,7 @@ Space Arrange the current window in the next preset layout
 M-1 to M-5 Arrange panes (preset layouts)
 ```
 
-### **Copy mode**
+### Copy mode
 Set `vi` (or `emacs`) mode with:
 
 ```
@@ -324,7 +284,7 @@ set-window-option -g mode-keys vi   <or emacs>
        Transpose chars                        C-t
 ```       
 
-### **additional useful key bindings**
+### additional useful key bindings
 
 ```
 bind-key -t vi-copy v begin-selection
@@ -340,7 +300,7 @@ bind-key -n S-Right next-window
 bind-key -n S-Left previous-window
 ```
 
-### **sources**
+### sources
 
 - <https://gist.github.com/Bekbolatov/6840069e51382965fdad>
 
