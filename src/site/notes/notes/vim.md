@@ -3,14 +3,66 @@
 ---
 # vim
 
+- [[notes/vim-upcase|vim-upcase]]
+- [[notes/neovim-upcase|neovim-upcase]]
+- [[notes/vim-seven-habits-of-effective-text-editing|vim-seven-habits-of-effective-text-editing]]
+- [[notes/vim-macros|vim-macros]]
+
+## things to do after vimtutor
+
+By reading the contents of [this repository](https://github.com/dahu/learnvim) I realized that this is the things to do after finishing the vimtutor:
+
+- learn how to navigate the documentation
+    - `ctrl-]` to follow a vimdoc link
+    - `ctrl-o` or `ctrl-t` to go back
+- `:help quickref` skim over quickref just to know it exists and what's there (it's like a cheatsheet)
+- learn about text-objects
+    - `:help Q_to` cheatsheet
+    - `:help text-objects` - verbose
+- when lurking other people's `.vimrc`, a one-sentence description of the options assigned with `set` can be seen in `:help option-list`
+
+## things I wanna do
+
+- Apply `gq` (break lines at column 80) in the whole file and keep the cursor position.
+
+
+## things I wanna learn
+
+- macros
+- windows/buffers management
+- linting
+- do something on save
 
 ## links
+
+- <https://github.com/dahu/learnvim>
+
+- text objects and macros in vim: <https://cloudacademy.com/course/text-objects-macros-vim-1413/text-objects/>
+- ctags: <https://kulkarniamit.github.io/whatwhyhow/howto/use-vim-ctags.html>
 
 - <https://thoughtbot.com/upcase/onramp-to-vim> - the best video series I found to get started with vim.
 - [Vim: tutorial on customization and configuration - by Leeren](https://www.youtube.com/watch?v=JFr28K65-5E) - advanced, very well reviewed
 - [Vim as an IDE - by Leeren](https://www.youtube.com/watch?v=Gs1VDYnS-Ac) - VimConf talk
 - <https://thoughtbot.com/upcase/the-art-of-vim> - some useful vim tips
 - <https://alldrops.info> - useful vim drops
+
+- From the neovim tutor
+  - *Learn Vim Progressively*:
+    http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+  - *Learning Vim in 2013*:
+    http://benmccormick.org/learning-vim-in-2014/
+  - *Vimcasts*:
+    http://vimcasts.org/
+  - *Vim Video-Tutorials by Derek Wyatt*:
+    http://derekwyatt.org/vim/tutorials/
+  - *Learn Vimscript the Hard Way*:
+    http://learnvimscriptthehardway.stevelosh.com/
+  - *7 Habits of Effective Text Editing*:
+    http://www.moolenaar.net/habits.html
+  - *vim-galore*:
+    https://github.com/mhinz/vim-galore
+
+
 - video in portuguese: <https://www.youtube.com/watch?v=hdZMqMeruSQ>
     - 8:30 - 15:00: useful options for `.vimrc`
     - 15:00 - ??:??: plugins to make vim behave like vscode
@@ -106,7 +158,7 @@ The [vim-plug](https://github.com/junegunn/vim-plug) is useful to install/update
 
 Here's a way to install it at startup:
 - add this to your `.vimrc`
-```
+```vim
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
