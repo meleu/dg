@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitflow/"}
+{"dg-publish":true,"permalink":"/notes/gitflow/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # gitflow
 
 ## installing
