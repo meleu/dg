@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/devops/"}
+{"dg-publish":true,"permalink":"/notes/devops/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # DevOps
 
 ## Videos
