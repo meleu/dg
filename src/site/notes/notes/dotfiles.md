@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dotfiles/"}
+{"dg-publish":true,"permalink":"/notes/dotfiles/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # smart way to manage your dotfiles
 
