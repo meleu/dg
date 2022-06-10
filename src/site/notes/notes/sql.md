@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sql/"}
+{"dg-publish":true,"permalink":"/notes/sql/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # SQL
 
 ## Source of Information
