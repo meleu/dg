@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/http/"}
+{"dg-publish":true,"permalink":"/notes/http/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # HTTP
 
 
