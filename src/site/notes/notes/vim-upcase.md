@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim-upcase/"}
+{"dg-publish":true,"permalink":"/notes/vim-upcase/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # upcase video course: Onramp to vim
 
