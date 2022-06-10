@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/knowledge-gaps/"}
+{"dg-publish":true,"permalink":"/notes/knowledge-gaps/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Knowledge Gaps
 
 ## Redis
