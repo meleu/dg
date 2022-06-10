@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dom/"}
+{"dg-publish":true,"permalink":"/notes/dom/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Document Object Model
 
 O mais básico do básico de DOM manipulation.
