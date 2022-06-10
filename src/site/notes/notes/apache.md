@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/apache/"}
+{"dg-publish":true,"permalink":"/notes/apache/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Apache Web Server
 
 ## Virtual Hosting
