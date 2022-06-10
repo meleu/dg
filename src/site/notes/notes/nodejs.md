@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nodejs/"}
+{"dg-publish":true,"permalink":"/notes/nodejs/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Node JS
 
 ## Node Version Manager
