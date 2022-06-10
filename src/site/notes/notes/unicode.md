@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/unicode/"}
+{"dg-publish":true,"permalink":"/notes/unicode/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # unicode
 
 Useful info about unicode characters:
