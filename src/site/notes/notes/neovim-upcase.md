@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/neovim-upcase/"}
+{"dg-publish":true,"permalink":"/notes/neovim-upcase/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # NeoVim - upcase
 
 - <https://thoughtbot.com/upcase/videos/meet-neovim>
