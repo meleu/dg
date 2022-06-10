@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/leadership/"}
+{"dg-publish":true,"permalink":"/notes/leadership/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Leadership
 
 ## Videos
