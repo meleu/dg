@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/virtualbox/"}
+{"dg-publish":true,"permalink":"/notes/virtualbox/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # VirtualBox
 
 ## Installing
