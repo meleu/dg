@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/ralibretro-release/"}
+{"dg-publish":true,"permalink":"/notes/ra/ralibretro-release/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Using Github Actions to Release RALibretro
 
 read the docs here:
