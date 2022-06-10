@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jq/"}
+{"dg-publish":true,"permalink":"/notes/jq/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # jq
 
 ## minify JSON with jq
