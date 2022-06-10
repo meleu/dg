@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/css/"}
+{"dg-publish":true,"permalink":"/notes/css/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # CSS
 
 ## courses
