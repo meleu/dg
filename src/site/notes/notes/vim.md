@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim/"}
+{"dg-publish":true,"permalink":"/notes/vim/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # vim
 
 - [[notes/vim-upcase|vim-upcase]]
@@ -57,8 +58,7 @@ By reading the contents of [this repository](https://github.com/dahu/learnvim) I
     http://derekwyatt.org/vim/tutorials/
   - *Learn Vimscript the Hard Way*:
     http://learnvimscriptthehardway.stevelosh.com/
-  - *7 Habits of Effective Text Editing*:
-    http://www.moolenaar.net/habits.html
+- [[notes/vim-seven-habits-of-effective-text-editing|vim-seven-habits-of-effective-text-editing]]
   - *vim-galore*:
     https://github.com/mhinz/vim-galore
 
