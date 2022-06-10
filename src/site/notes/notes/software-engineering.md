@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/software-engineering/"}
+{"dg-publish":true,"permalink":"/notes/software-engineering/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Software Engineering Concepts
 
 ## Technical Debt
