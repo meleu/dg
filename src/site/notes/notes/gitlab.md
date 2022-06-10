@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitlab/"}
+{"dg-publish":true,"permalink":"/notes/gitlab/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # gitlab CI/CD
+
+## certification
+
+- [GitLab Certified CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-specialist/)
+
 
 ## test this
 
@@ -42,9 +48,4 @@ services:
 #    entrypoint: ["dockerd-entrypoint.sh"]
     command: ["--insecure-registry=registry-domain-name-1", "--insecure-registry=registry-domain-name-2"]
 ```
-
-## Questions?
-
-- How to get (via API requests) the repositories where a pipeline finished successfully in the master branch?
-
 
