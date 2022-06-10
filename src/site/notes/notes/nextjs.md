@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nextjs/"}
+{"dg-publish":true,"permalink":"/notes/nextjs/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # NextJS
 
 ## Diferenças SSG x SPA x SSR
