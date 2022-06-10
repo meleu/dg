@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim-macros/"}
+{"dg-publish":true,"permalink":"/notes/vim-macros/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # vim macros
 
 - <https://www.vimfromscratch.com/articles/vim-macros>
