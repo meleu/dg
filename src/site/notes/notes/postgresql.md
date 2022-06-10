@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/postgresql/"}
+{"dg-publish":true,"permalink":"/notes/postgresql/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # PostgreSQL
 
 ## install via docker
