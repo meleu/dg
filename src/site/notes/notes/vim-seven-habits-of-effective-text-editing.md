@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim-seven-habits-of-effective-text-editing/"}
+{"dg-publish":true,"permalink":"/notes/vim-seven-habits-of-effective-text-editing/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Seven habits of effective text editing
 
 - <https://www.moolenaar.net/habits.html>
