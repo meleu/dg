@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jsonpath/"}
+{"dg-publish":true,"permalink":"/notes/jsonpath/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # JSONPath
 
 ## Video Tutorial
