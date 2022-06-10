@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jekyll/"}
+{"dg-publish":true,"permalink":"/notes/jekyll/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Jekyll
 
 ## Installation
