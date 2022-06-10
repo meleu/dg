@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/presentations/"}
+{"dg-publish":true,"permalink":"/notes/presentations/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Presentations
 
 
