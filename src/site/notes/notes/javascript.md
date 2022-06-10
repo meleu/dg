@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/javascript/"}
+{"dg-publish":true,"permalink":"/notes/javascript/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # JavaScript
 
 ## videos
