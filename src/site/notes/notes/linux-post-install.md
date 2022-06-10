@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/linux-post-install/"}
+{"dg-publish":true,"permalink":"/notes/linux-post-install/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Things to do right after a fresh install
 
 ## Debian/Ubuntu packages
