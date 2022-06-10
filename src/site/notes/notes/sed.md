@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sed/"}
+{"dg-publish":true,"permalink":"/notes/sed/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # sed
 
 ## sed like grep
