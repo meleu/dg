@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ssh/"}
+{"dg-publish":true,"permalink":"/notes/ssh/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # SSH
 
 ## SSH Tunneling
