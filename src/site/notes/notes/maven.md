@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/maven/"}
+{"dg-publish":true,"permalink":"/notes/maven/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Maven
 
 ## Opções Utilizadas no Maven
