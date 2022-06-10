@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links/"}
+{"dg-publish":true,"permalink":"/notes/links/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # links
 
 My own list of awesome links.
