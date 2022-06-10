@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/note-taking/"}
+{"dg-publish":true,"permalink":"/notes/note-taking/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Note Taking
 
 
