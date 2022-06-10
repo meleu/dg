@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/date/"}
+{"dg-publish":true,"permalink":"/notes/date/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # date
 
 ## most used format (by me)
