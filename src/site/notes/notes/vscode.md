@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vscode/"}
+{"dg-publish":true,"permalink":"/notes/vscode/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Visual Studio Code
 
 ## debugar via VSCode
