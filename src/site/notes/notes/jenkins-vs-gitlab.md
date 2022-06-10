@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jenkins-vs-gitlab/"}
+{"dg-publish":true,"permalink":"/notes/jenkins-vs-gitlab/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Jenkins vs GitLab
 
 
