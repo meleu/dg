@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tmux-upcase/"}
+{"dg-publish":true,"permalink":"/notes/tmux-upcase/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # upcase video series
 
 - link: <https://thoughtbot.com/upcase/tmux>
