@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nginx/"}
+{"dg-publish":true,"permalink":"/notes/nginx/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # Resumo dos meus estudos de NginX
 
