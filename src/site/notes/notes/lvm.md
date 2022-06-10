@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/lvm/"}
+{"dg-publish":true,"permalink":"/notes/lvm/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Linux LVM
 
 ## Preparar os HDs para usar com LVM
