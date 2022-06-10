@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/using-obsidian-digital-garden/"}
+{"dg-publish":true,"permalink":"/notes/using-obsidian-digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # using obsidian-digital-garden
 
 This is my oversimplified version of the plugin's instructions [here](https://github.com/oleeskild/obsidian-digital-garden).
