@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/react/"}
+{"dg-publish":true,"permalink":"/notes/react/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # React
 
 ## Notes about "The Beginner's Guide to React"
