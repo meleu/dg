@@ -10,9 +10,9 @@ I'm a DevOps Engineer from Brazil.
 
 I love solving problems with code. I also appreciate meaningful human interactions.
 
-In [[about|about]] there are more information about me.
+In [[about|about]] there are more information about me. Maybe you can also have an idea about who I am by seeing the list of [[books|books]] I read.
 
-In [[now|now]] page there's a (short) list of things I'm currently focused on.
+In [[now|now]] page there's a list of things I'm currently focused on.
 
 This website works like my [[notes/digital garden|digital garden]]. I believe that writing is thinking, so most of the notes here are written for myself to aid my thinking, learning and creating.
 
