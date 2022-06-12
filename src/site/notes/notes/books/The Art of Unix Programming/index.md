@@ -20,14 +20,14 @@ Lembrei que tinha esse livro na minha (enorme) lista de "livros que quero ler" e
 
 ## Citações
 
-> Those who do not understand Unix are comdemned to reinvent it, poorly.
--- Henry Spencer Usenet signatuyre, November 1987
+> Those who do not understand Unix are condemned to reinvent it, poorly.
+-- Henry Spencer Usenet signature, November 1987
 
 ---
 
 Um sinal de que conhecer sobre as "fundações" (ou "princípios fundamentais") de um determinado assunto é uma atitude que vale a pena:
 
-> Machines have increased a thousandfold in power, languages have mutated, industry jpractice has gone through multiple revolutions - and Unix hangs in there, still producing, still paying the bills, and still commanding loyalty from many of the best and brightest software technologists on the planet.
+> Machines have increased a thousandfold in power, languages have mutated, industry practice has gone through multiple revolutions - and Unix hangs in there, still producing, still paying the bills, and still commanding loyalty from many of the best and brightest software technologists on the planet.
 
 ---
 
@@ -52,7 +52,7 @@ Entendi isso como "a importância de empoderar os leigos em programação."
 8. [[Regra da Robustez|Regra da Robustez]]: Robustez é o filho da transparência e simplicidade.
 9. [[Regra da Representacao|Regra da Representacao]]: Agrupe conhecimento em dados para que a lógica do programa seja estúpida e robusta.
 10. [[Regra da Menor Surpresa|Regra da Menor Surpresa]]: Ao projetar interfaces, sempre faça a coisa menos surpreendente.
-11. [[private/cambly/Rediet/Regra do Silencio|Regra do Silencio]]: Quando um programa não tem nada surpreendente para dizer, ele deve dizer nada.
+11. [[Regra do Silencio|Regra do Silencio]]: Quando um programa não tem nada surpreendente para dizer, ele deve dizer nada.
 12. [[Regra do Reparo|Regra do Reparo]]: Quando precisar falhar, falhe ruidosamente e o mais rápido possível.
 13. [[Regra da Economia|Regra da Economia]]: O tempo do programador é caro; conserve-o em preferência ao tempo de máquina. (Minha observação: a intenção é economizar tempo do mantenedor do código, escrevendo código claro em preferência a código performático e obscuro.)
 14. [[Regra da Geracao|Regra da Geracao]]: Evite hacking manual; escreva programas para escrever programas quando puder.
