@@ -20,8 +20,9 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
-- [[12 Regras Para a Vida|12 Regras Para a Vida]]
+- [[notes/books/12 Regras Para a Vida|12 Regras Para a Vida]]
 - [[Eu, Robô|Eu, Robô]]
 - [[1984|1984]]
 - [[O Médico e o Monstro|O Médico e o Monstro]]
@@ -60,7 +61,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Manual de DevOps|Manual de DevOps]]
 - [[System Design Interview|System Design Interview]]
 - [[Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
-- [[notes/books/Kubernetes Basico|Kubernetes Basico]]
+- [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
 
@@ -90,7 +91,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[O homem mais rico da Babilônia|O homem mais rico da Babilônia]]
 - [[notes/books/O Apanhador no Campo de Centeio|O apanhador no campo de centeio]]
 - [[101 perguntas e respostas para investidores iniciantes|101 perguntas e respostas para investidores iniciantes]]
-- ⭐ [[notes/books/Segredos da Mente Milionaria|Segredos da Mente Milionaria]]
+- ⭐ [[notes/books/Segredos da Mente Milionária|Segredos da Mente Milionária]]
 - [[Os capitaes da areia|Os capitaes da areia]]
 - ⭐ [[Flores para Algernon|Flores para Algernon]]
 - [[Admirável mundo novo|Admirável mundo novo]]
