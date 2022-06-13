@@ -7,4 +7,4 @@
 
 See:
 
-- [[UNIX and Linux System Administration Handbook|UNIX and Linux System Administration Handbook]], chapter 2
+- [[notes/books/UNIX and Linux System Administration Handbook/UNIX and Linux System Administration Handbook|UNIX and Linux System Administration Handbook]], chapter 2
