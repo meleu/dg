@@ -12,4 +12,4 @@ Definition from <https://nesslabs.com/digital-garden-set-up>:
 Tools I use to build my digital garden:
 
 - [[notes/obsidian|obsidian]]
-- [[notes/using obsidian-digital-garden|using obsidian-digital-garden]] <-- follow the instructions here
+- [[notes/using obsidian-digital-garden|using obsidian-digital-garden]] plugin <-- follow the instructions here
