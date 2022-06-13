@@ -10,7 +10,7 @@
 
 ## books
 
-- [[notes/books/Kubernetes Basico|Kubernetes Basico]]
+- [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[notes/books/Cloud Native DevOps with Kubernetes|Cloud Native DevOps with Kubernetes]]
 
 
@@ -99,6 +99,6 @@ Same thing as ReplicaSets, but in the field `kind:` replace `ReplicaSet` with `D
 
 ## livros
 
-- [[notes/books/Kubernetes Basico|Kubernetes Basico]]
+- [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[Padroes para Kubernetes|Padroes para Kubernetes]]
 
