@@ -6,9 +6,9 @@
 
 ## Hi, I'm meleu! 👋
 
-I'm a DevOps Engineer from Brazil.
+I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
-I love solving problems with code. I also appreciate meaningful human interactions.
+I love solving problems with code and meaningful human interactions.
 
 In [[about|about]] there are more information about me. Maybe you can also have an idea about who I am by seeing the list of [[books|books]] I read.
 
