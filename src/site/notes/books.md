@@ -22,7 +22,7 @@ Maybe this list can tell a bit about who I am.
 
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
-- [[notes/books/12 Regras Para a Vida|12 Regras Para a Vida]]
+- [[notes/books/12 Regras Para a Vida/12 Regras Para a Vida|12 Regras Para a Vida]]
 - [[Eu, Robô|Eu, Robô]]
 - [[1984|1984]]
 - [[O Médico e o Monstro|O Médico e o Monstro]]
@@ -98,7 +98,7 @@ Maybe this list can tell a bit about who I am.
 - [[As virgens suicidas|As virgens suicidas]]
 - [[Carta sobre a felicidade (Epicuro para Meneceu)|Carta sobre a felicidade (Epicuro para Meneceu)]]
 - ⭐ [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
-- [[Independência Financeira - O Guia do Pai Rico|Independência Financeira - O Guia do Pai Rico]]
+- [[notes/Independência Financeira - O Guia do Pai Rico|Independência Financeira - O Guia do Pai Rico]]
 
 
 #### unfinished
