@@ -25,8 +25,8 @@
 
 - [[O Projeto Fênix|O Projeto Fênix]] - The Phoenix Project, by Gene Kim, Kevin Behr and George Spafford
 - [[Manual de DevOps|Manual de DevOps]] - The DevOps Handbook, by Gene Kim, Jez Humble, Patrick Debois, John Willis
-- [[Continuous Delivery|Continuous Delivery]], by Dave Farley and Jez Humble
-- [[Microsserviços prontos para a produção|Microsserviços prontos para a produção]] - Production Ready Microservices, by Susan Fowler
+- [[notes/books/Continuous Delivery|Continuous Delivery]], by Dave Farley and Jez Humble
+- [[notes/Microsserviços prontos para a produção|Microsserviços prontos para a produção]] - Production Ready Microservices, by Susan Fowler
 - Web Operations by John Allspaw and Jesse Robbins
 
 
