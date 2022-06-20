@@ -8,6 +8,12 @@
 
 - [[notes/learning/gcp/00 - Introducing GCP|00 - Introducing GCP]]
 - [[notes/learning/gcp/01.00 - Getting Started with GCP|01.00 - Getting Started with GCP]]
+- [[notes/learning/gcp/01.01 - The GCP resource hierarchy|01.01 - The GCP resource hierarchy]]
+- [[notes/learning/gcp/01.02 - GCP IAM|01.02 - GCP IAM]]
+- [[notes/learning/gcp/01.03 - Interacting with GCP|01.03 - Interacting with GCP]]
+
+
+## Introduction
 - [[notes/learning/gcp/02 - VPC and Virtual Machines in GCP|02 - VPC and Virtual Machines in GCP]]
 
 ---
