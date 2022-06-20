@@ -6,7 +6,7 @@
 
 ## Por que eu li esse livro?
 
-Recomendação do Primo 
+Recomendação do Primo Rico
 
 ## Citações
 
@@ -16,8 +16,6 @@ Sobre a veracidade do "Diabo" que foi entrevistado:
 
 
 ### Fracasso: uma benção disfarçada
-
-^ceb8eb
 
 > De cristo até Edson, os homens que mais realizaram foram os que mais se depararam com formas duradouras de fracasso temporario.
 
