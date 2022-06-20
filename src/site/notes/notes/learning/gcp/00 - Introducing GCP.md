@@ -20,7 +20,7 @@
     - Virtualized: User-configured. Provider-managed and maintained.
     - Serverless: Fully automated.
 
-- [[notes/Every company is a data company|Every company is a data company]]:
+- [[atomic-ideas/Every company is a data company|Every company is a data company]]:
     - At some point, most of software will be considered as a commodity. Therefore the most valuable asset of a company will be the data it has about the users.
 
 - GCP computing archtectures
