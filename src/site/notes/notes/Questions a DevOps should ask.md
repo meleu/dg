@@ -9,7 +9,7 @@
     - Do you do this in a repeatable, reliable basis?
 
 
-### broad/conceptual
+### cultural
 
 - If somebody thinks of a good idea, how do we deliver it to users as quickly as possible?
 - How do we enable developers, testers, build and operations personnel to work together effectively?
