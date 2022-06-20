@@ -4,6 +4,13 @@
 
 # 📚 books I read
 
+## currently reading
+
+- [[notes/books/Crime e Castigo|Crime e Castigo]]
+- [[notes/books/7-habitos-eficazes/Os 7 Hábitos das pessoas Altamente Eficazes|Os 7 Hábitos das pessoas Altamente Eficazes]]
+
+---
+
 As they say "tell me who you hang out with, and I'll tell you who you are"...
 
 Maybe this list can tell a bit about who I am.
@@ -13,16 +20,13 @@ Maybe this list can tell a bit about who I am.
 1. The list here is uncategorized and purely chronological (I like to read fiction, non-fictional, technical books and whatever gets my interest).
 2. Most of the non-technical books are in portuguese.
 
-## currently reading
-
-- [[notes/books/Crime e Castigo|Crime e Castigo]]
-- [[notes/books/Os 7 Hábitos das pessoas Altamente Eficazes|Os 7 Hábitos das pessoas Altamente Eficazes]]
+---
 
 ## 2022
 
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
-- [[notes/books/12 Regras Para a Vida/12 Regras Para a Vida|12 Regras Para a Vida]]
+- [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]]
 - [[Eu, Robô|Eu, Robô]]
 - [[1984|1984]]
 - [[O Médico e o Monstro|O Médico e o Monstro]]
@@ -60,7 +64,7 @@ Maybe this list can tell a bit about who I am.
 - [[How to take smart notes|How to take smart notes]]
 - ⭐ [[Manual de DevOps|Manual de DevOps]]
 - [[System Design Interview|System Design Interview]]
-- [[Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
+- [[notes/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
 - [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
@@ -98,7 +102,7 @@ Maybe this list can tell a bit about who I am.
 - [[As virgens suicidas|As virgens suicidas]]
 - [[Carta sobre a felicidade (Epicuro para Meneceu)|Carta sobre a felicidade (Epicuro para Meneceu)]]
 - ⭐ [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
-- [[notes/Independência Financeira - O Guia do Pai Rico|Independência Financeira - O Guia do Pai Rico]]
+- [[notes/books/Independência Financeira - O Guia do Pai Rico|Independência Financeira - O Guia do Pai Rico]]
 
 
 #### unfinished
