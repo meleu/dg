@@ -39,7 +39,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[notes/books/Sapiens|Sapiens]]
 - [[Antifragil|Antifragil]]
 - [[Me Poupe!|Me Poupe!]]
-- ⭐ [[notes/books/Code Complete|Code Complete]]
+- ⭐ [[notes/books/code-complete/Code Complete|Code Complete]]
 - [[Como Ler Livros|Como Ler Livros]]
 - [[Ghost in the Shell|Ghost in the Shell]]
 - [[O Livro de Deus|O Livro de Deus]]
