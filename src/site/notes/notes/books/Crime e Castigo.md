@@ -8,4 +8,4 @@ An interesting thing is that I found some similarities with [[notes/books/O Apan
 
 The main difference is that Crime and Punishment is heavier, and darker. Addressing more miserable situations, mainly the ones caused by poverty.
 
-Another thing that caught my attention and that it's an idea that came to my mind maybe a couple of years ago. And it's about "using the good as an excuse to do the evil".
+Another thing that caught my attention and that it's an idea that came to my mind maybe a couple of years ago. And it's about "using the good as an excuse to do the evil". It's a topic also addressed in [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]], by Jordan Peterson.
