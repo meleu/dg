@@ -4,9 +4,6 @@
 
 # Meus Princípios
 
-#life
-
- 
  Altamente influenciado por Ray Dalio e seu livro "Princípios", iniciei e escrever meus próprios princípios. Espera-se que isso me ajude a tomar melhores decisões.
  
 ## Vida
@@ -24,9 +21,19 @@
 
 - Estabeleça um "zero virtual" para a sua conta corrente.
     - Minha conta corrente nunca pode chegar a zero. Ela possui um zero "virtual" de X mil reais. Quando o saldo da minha conta é menor que X mil reais, eu estou me devendo dinheiro e devo me pagar o mais rápido possível. (uma ideia que tive por não ficar controlando pra onde vão meus gastos)
+    - **obs**.: isso não funciona com todo mundo.
      
 - Focarei em construir ativos antes de começar a comprar passivos. [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
 
 - Não estabeleça um teto para sua receita. [[notes/books/Segredos da Mente Milionária|Segredos da Mente Milionária]]
     - Como tempo é um recurso finito, trocar tempo por dinheiro é estabelecer um limite para sua receita.
+    - Esse princípio me estimula a me aventurar em desenvolvimento web, onde posso desenvolver algo que vai me gerar receita simplesmente por resolver o problema de alguém. As vezes não sendo necessário a minha atuação frequente.
+
+
+## Trabalho
+
+- Se estiver em situação financeira ruim, arrume uma maneira não-ultrajante de sair dessa condição. Em outras palavras: não seja tão exigente em buscar o trabalho dos sonhos.
+
+- **Otimizar para o aprendizado.** Aprender coisas novas ou aprimorar habilidades que já tenho é algo que eu valorizo **muito**. Procure ambientes onde as outras pessoas também tenham esse ímpeto.
+    - Se você percebe que é a pessoa mais habilidosa em um determinado grupo, provavelmente está na hora de procurar outro grupo.
 
