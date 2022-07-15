@@ -23,10 +23,11 @@
 ## Getting Started
 
 - <https://learn.hashicorp.com/collections/vault/getting-started>
-- <https://www.udemy.com/course/hashicorp-vault/>
-- [[notes/learning/hashicorp-vault-pluralsight/index|notes/learning/hashicorp-vault-pluralsight/index]]
-- [[notes/learning/hashicorp-certified-vault-associate-pluralsight/index|notes/learning/hashicorp-certified-vault-associate-pluralsight/index]]
-- [[notes/learning/getting-started-hashicorp-vault/index|notes/learning/getting-started-hashicorp-vault/index]]
+- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/Getting Started with HashiCorp Vault - udemy|Getting Started with HashiCorp Vault - udemy]]
+- [[notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/Getting Started with HashiCorp Vault - Pluralsight|Getting Started with HashiCorp Vault - Pluralsight]]
+- [[notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/Hashicorp Certified Vault Associate - pluralsight|Hashicorp Certified Vault Associate - pluralsight]]
+- [[notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/Installing and Configuring Hashicorp Vault - pluralsight|Installing and Configuring Hashicorp Vault - pluralsight]]
+- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/Integrating Hashicorp Vault in DevOps Workflows - pluralsight|Integrating Hashicorp Vault in DevOps Workflows - pluralsight]]
 
 
 ## Useful links
