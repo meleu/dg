@@ -4,9 +4,12 @@
 
 # Hábito Eficaz 1 - Seja Proativo
 
-O capítulo inteiro basicamente serve para te convencer que você deve se considerar como o "autor" da sua própria vida.
+O capítulo inteiro basicamente serve para te convencer que você deve se considerar o "autor" da sua própria vida.
 
-Ou usando uma metáfora [[computacional:|computacional:]] Você é o programador da sua vida.
+Ou usando uma metáfora computacional Você é o programador da sua vida.
+
+Vi em outro lugar, acredito que no [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]], algo assim "Você precisa assumir o papel de protagonista da sua vida, ou pode acabar sendo figurante na vida de outra pessoa."
+
 
 ### Citações
 
@@ -36,6 +39,7 @@ Ou usando uma metáfora [[computacional:|computacional:]] Você é o programador
 | Eu preciso                     | Eu prefiro                          |
 | Ah, se eu pudesse              | Eu vou fazer                        |
 
+Isso me lembrou o [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]], que ensina que ao invés de dizer "eu não posso comprar isso", devemos nos perguntar "o que preciso fazer para comprar isso?"
 
 ### Sugestões de Aplicação
 
@@ -47,3 +51,6 @@ Ou usando uma metáfora [[computacional:|computacional:]] Você é o programador
 
 4. Tente o teste de proatividade de 30 dias. Tome consciência da mudança no seu Círculo de Influência.
 
+---
+
+[[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente|Habito Eficaz 2 - Comece com o objetivo em mente]]
