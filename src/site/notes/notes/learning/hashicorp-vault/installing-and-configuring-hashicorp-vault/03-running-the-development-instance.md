@@ -4,7 +4,7 @@
 
 # Running the Development Instance
 
-Installing Vault: [[notes/learning/getting-started-hashicorp-vault/05-installing-vault|05-installing-vault]]
+Installing Vault: [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault|05-installing-vault]]
 
 ## Development Mode
 
