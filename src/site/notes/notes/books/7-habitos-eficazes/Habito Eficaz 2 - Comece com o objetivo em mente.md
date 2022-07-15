@@ -14,6 +14,7 @@ Esse trecho me lembrou muito o [[notes/books/12-regras/12 Regras Para a Vida|12 
 
 > As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
 
+Daí a importância de termos [[Princípios (Ray Dalio)|Princípios (Ray Dalio)]].
 
 ### Liderar vs. Gerenciar
 
@@ -21,7 +22,7 @@ No livro ele usa uma metáfora usando um exemplo onde precisamos abrir caminho n
 
 Muito frequentemente gastamos uma energia pensando nessa otimização dos processos sem nem perceber o que estamos fazendo. Sem nem refletir se estamos realmente indo para o caminho que queremos ir.
 
-> O líder é aquele que sobe na árvore mais alta, estuda a situação em seu conjunto e grita: " Estamos na mata errada".
+> O líder é aquele que sobe na árvore mais alta, estuda a situação em seu conjunto e grita: "Estamos na mata errada".
 > 
 > E como reagem os produtores e gerenciadores, com frequência? Dizem: "Cale a boca! Estamos conseguindo avançar!"
 
@@ -47,9 +48,9 @@ Fonte de:
 
 4. Vá até o quadro no Apêndice A, mostrando diferentes centros, e faça um círculo em torno de todos aqueles com os quais se identifica. Será que eles mostram um padrão de comportamento em sua vida? Está satisfeito com as implicações de sua análise?
 
-5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal.
+5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal. (link: [[notes/material para missao pessoal|material para missao pessoal]])
 
-6. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#Escolha um projeto com o qual se defrontará em um futuro próximo|#Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+6. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#6 Escolha um projeto com o qual se defrontará em um futuro próximo|#6 Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
 
 7. Mostre os princípios do Hábito 2 para sua família e amigos ou colegas de trabalho, e sugira que todos iniciem juntos o processo de desenvolver uma missão familiar ou grupal.
 
