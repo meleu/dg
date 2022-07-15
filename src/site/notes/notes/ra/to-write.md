@@ -6,3 +6,4 @@
 
 - [[nerd-corner-syncthing|nerd-corner-syncthing]]
 - [[nerd-corner-hascheevos|nerd-corner-hascheevos]]
+- portable devices to play with RetroAchievements
