@@ -24,12 +24,13 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
 - [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]]
 - [[Eu, Robô|Eu, Robô]]
 - [[1984|1984]]
-- [[O Médico e o Monstro|O Médico e o Monstro]]
+- [[O Medico e o Monstro|O Medico e o Monstro]]
 - [[notes/books/Em busca de sentido|Em busca de sentido]]
 - [[O Melhor do Mundo - Seth Godin|O Melhor do Mundo - Seth Godin]]
 - [[Do Mil ao Milhao|Do Mil ao Milhao]]
@@ -43,7 +44,7 @@ Maybe this list can tell a bit about who I am.
 - [[Como Ler Livros|Como Ler Livros]]
 - [[Ghost in the Shell|Ghost in the Shell]]
 - [[O Livro de Deus|O Livro de Deus]]
-- [[Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
+- [[notes/Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
 - [[Business Model You|Business Model You]]
 
 
@@ -101,7 +102,7 @@ Maybe this list can tell a bit about who I am.
 - [[As virgens suicidas|As virgens suicidas]]
 - [[Carta sobre a felicidade (Epicuro para Meneceu)|Carta sobre a felicidade (Epicuro para Meneceu)]]
 - ⭐ [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
-- [[notes/books/Independência Financeira - O Guia do Pai Rico|Independência Financeira - O Guia do Pai Rico]]
+- [[notes/books/Independencia Financeira - O Guia do Pai Rico|Independencia Financeira - O Guia do Pai Rico]]
 
 
 #### unfinished
