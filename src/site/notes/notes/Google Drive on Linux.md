@@ -8,6 +8,8 @@
 
 > [!warning]
 > This solution doesn't allow me to access the google drive from the terminal. Therefore, it's useless for me.
+> 
+> See [[notes/Google Drive on Linux#google-drive-ocamlfuse|#google-drive-ocamlfuse]].
 
 First try was using the "Online Accounts" configs of GNOME in PopOS. The file manager shows my google drive (note: it didn't work on the first try). But it's only visible in the Gnome's File Manager (not accessible in the terminal).
 
