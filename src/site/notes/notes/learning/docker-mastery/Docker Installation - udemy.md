@@ -4,6 +4,8 @@
 
 ## Installation
 
+- back to [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]]
+
 > [!NOTE]
 > I wrote this while doing the [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]] course. For installing docker I suggest to follow the steps in the official documentation.
 
