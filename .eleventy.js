@@ -28,6 +28,10 @@ module.exports = function(eleventyConfig) {
             ulClass: 'task-list',
             liClass: 'task-list-item'
         })
+        .use(require('markdown-it-plantuml'), {
+            openMarker: '```plantuml',
+            closeMarker: '```'
+        })
         .use(namedHeadingsFilter)
         .use(function(md) {
             //https://github.com/DCsunset/markdown-it-mermaid-plugin
@@ -109,7 +113,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdownLib);
 
-    eleventyConfig.addTransform('link', function(str) {
+    eleventyConfig.addFilter('link', function(str) {
         return str && str.replace(/\[\[(.*?\|.*?)\]\]/g, function(match, p1) {
             //Check if it is an embedded excalidraw drawing or mathjax javascript
             if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
@@ -127,6 +131,7 @@ module.exports = function(eleventyConfig) {
 
             let permalink = `/notes/${slugify(fileName)}`;
             const title = linkTitle ? linkTitle : fileName;
+            let deadLink = false;
 
 
             try {
@@ -136,14 +141,14 @@ module.exports = function(eleventyConfig) {
                     permalink = frontMatter.data.permalink;
                 }
             } catch {
-                //Ignore if file doesn't exist
+                deadLink = true;
             }
 
-            return `<a class="internal-link" href="${permalink}${headerLinkPath}">${title}</a>`;
+            return `<a class="internal-link ${deadLink?'is-unresolved':''}" href="${permalink}${headerLinkPath}">${title}</a>`;
         });
     })
 
-    eleventyConfig.addTransform('highlight', function(str) {
+    eleventyConfig.addFilter('highlight', function(str) {
         return str && str.replace(/\=\=(.*?)\=\=/g, function(match, p1) {
             return `<mark>${p1}</mark>`;
         });
@@ -155,7 +160,7 @@ module.exports = function(eleventyConfig) {
             let titleDiv = "";
             let calloutType = "";
             const calloutMeta = /\[!(\w*)\](\s?.*)/g;
-            if(!content.match(calloutMeta)){
+            if (!content.match(calloutMeta)) {
                 return match;
             }
 
@@ -167,7 +172,7 @@ module.exports = function(eleventyConfig) {
                 return "";
             });
 
-            return `<div class="callout-${calloutType} admonition admonition-example admonition-plugin">
+            return `<div class="callout-${calloutType?.toLowerCase()} admonition admonition-example admonition-plugin">
                 ${titleDiv}
                 ${content}
             </div>`;
