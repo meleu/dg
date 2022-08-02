@@ -17,12 +17,16 @@ After reading the first 7 chapters I realized that this book has a lot of "proga
 - [[notes/books/code-complete/Code Complete - 0. Preface|Code Complete - 0. Preface]]
 - [[notes/books/code-complete/Code Complete - 1. Welcome to Software Construction|Code Complete - 1. Welcome to Software Construction]]
 - [[notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development|Code Complete - 2. Metaphors for a Richer Understanding of Software Development]]
+- [[notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On|Code Complete - 3.2. Determine the Kind of Software You're Working On]]
+
 
 ---
 
 
 ## What did I learn?
 
-[[notes/books/code-complete/Code Complete#Algorithm vs Heuristic|#Algorithm vs Heuristic]]
+- [[notes/books/code-complete/Code Complete#Algorithm vs Heuristic|#Algorithm vs Heuristic]] <- fix this broken link
+- [[notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On|Code Complete - 3.2. Determine the Kind of Software You're Working On]]
 
 
+---
