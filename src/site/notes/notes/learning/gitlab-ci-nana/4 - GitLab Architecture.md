@@ -4,6 +4,8 @@
 
 # 4 - GitLab Architecture
 
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+
 ### 2 - GitLab Executors
 
 - Shell Executor
