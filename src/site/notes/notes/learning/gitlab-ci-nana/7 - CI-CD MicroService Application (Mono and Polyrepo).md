@@ -4,6 +4,8 @@
 
 ## 7 - CI-CD MicroService Application (Mono and Polyrepo)
 
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+
 ### 01 - What are Microservices?
 
 #### How to break down a monolithic code base into microservices?
