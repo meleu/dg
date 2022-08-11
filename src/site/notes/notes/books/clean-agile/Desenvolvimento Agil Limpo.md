@@ -6,6 +6,14 @@
 
 Livro do Uncle Bob
 
+## Anotações por Capítulos
+
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 1. Introducao|Desenvolvimento Agil Limpo - 1. Introducao]]
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil|Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 3. Praticas de Negocios|Desenvolvimento Agil Limpo - 3. Praticas de Negocios]]
+
+---
+
 ## Prefácio
 
 Agilidade é uma metodologia para times pequenos!
@@ -16,10 +24,3 @@ Agilidade é uma metodologia para times pequenos!
 
 Esse final, "colaboração de muitas equipes pequenas", soa como a "filosofia Unix" ([[notes/books/The Art of Unix Programming/The Art of Unix Programming|The Art of Unix Programming]]) e arquitetura de [[notes/microsservicos|microsservicos]] aplicados à gestão de equipes.
 
----
-
-## Anotações por Capítulos
-
-- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 1. Introducao|Desenvolvimento Agil Limpo - 1. Introducao]]
-- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil|Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
-- 
