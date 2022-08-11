@@ -4,7 +4,7 @@
 
 # How to know if you are working in the right project
 
-As stated in [[notes/Practical Object-Oriented Design|Practical Object-Oriented Design]], programmers don't need to choose between pleasure and productivity. "The programming techniques that make code a joy to write overlap with those that most efficiently produce software".
+As stated in [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]], programmers don't need to choose between pleasure and productivity. "The programming techniques that make code a joy to write overlap with those that most efficiently produce software".
 
 I interpret this as a fundamental principle of my profession, and a corolary to this is: **if you're working on a project where writing code is not a joy, there's something wrong in the project and you must do something about it.**
 
@@ -18,4 +18,4 @@ Things to consider:
 
 ## references
 
-- [[notes/Practical Object-Oriented Design|Practical Object-Oriented Design]]
+- [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]
