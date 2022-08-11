@@ -9,7 +9,6 @@ Falo aqui da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.co
 Neste artigo vou falar da motivação de ter comprado esse teclado, de quanto custou, primeiras impressões. Pretendo também descrever como foi esse processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
 
 
-
 ## motivação
 
 **Por que comprei um teclado tão caro?**
@@ -59,6 +58,8 @@ Deixar o mouse no meio é bem mais confortável do que esticar o braço pra dire
 
 
 ## customização
+
+[TODO: preciso elaborar mais essa parte]
 
 Ao comprar o teclado você recebe um email com links para a documentação, e no [Getting Started](https://ergodox-ez.com/pages/getting-started) tem algumas orientações básicas. Inclusive orientações de como customizar seu teclado.
 
