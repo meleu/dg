@@ -4,6 +4,8 @@
 
 # Desenvolvimento Agil Limpo - 1. Introducao
 
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+
 ## Principal Aprendizado
 
 A culminação do capítulo é a seguinte:
@@ -29,7 +31,13 @@ Outros pontos interessantes:
         - Mudanças nessas expectativas devem ser informadas o mais cedo possível
         - Se o cronograma não for negociável, decidir exatamente quais features são realmente imprescindíveis.
 
+
 ---
+
+[TOC]
+
+---
+
 
 Um constatação em relação a quando um movimento se torna popular (como o movimento ágil) e que no meu entendimento está acontecendo agora (2022) com movimento DevOps.
 
@@ -276,7 +284,7 @@ Lição aprendida depois de trabalhar como programador durante vinte ou trinta a
 
 **Se queremos reduzir o nosso cronograma, a única opção é *aumentar* a qualidade.**
 
-**Nota**: Essa constatação é similar ao que vi no [[notes/Practical Object-Oriented Design|Practical Object-Oriented Design]]:
+**Nota**: Essa constatação é similar ao que vi no [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]:
 
 > The programming techniques that make code a joy to write overlap with those that most efficiently produce software.
 
