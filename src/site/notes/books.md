@@ -44,7 +44,7 @@ Maybe this list can tell a bit about who I am.
 - [[Como Ler Livros|Como Ler Livros]]
 - [[Ghost in the Shell|Ghost in the Shell]]
 - [[O Livro de Deus|O Livro de Deus]]
-- [[notes/Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
+- [[notes/books/Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
 - [[Business Model You|Business Model You]]
 
 
@@ -65,7 +65,7 @@ Maybe this list can tell a bit about who I am.
 - [[How to take smart notes|How to take smart notes]]
 - ⭐ [[Manual de DevOps|Manual de DevOps]]
 - [[System Design Interview|System Design Interview]]
-- [[notes/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
+- [[notes/books/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
 - [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
