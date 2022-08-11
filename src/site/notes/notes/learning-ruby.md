@@ -4,7 +4,7 @@
 
 # learning-ruby
 
-[[notes/The Well-Grounded Rubyist|The Well-Grounded Rubyist]]
+[[notes/books/The Well-Grounded Rubyist|The Well-Grounded Rubyist]]
 
 ## Ruby in Twenty Minutes
 
@@ -99,5 +99,5 @@ greeter.say_hi
 
 ## references
 
-- [[notes/The Well-Grounded Rubyist|The Well-Grounded Rubyist]] - 1.1. Basic Ruby language literacy
+- [[notes/books/The Well-Grounded Rubyist|The Well-Grounded Rubyist]] - 1.1. Basic Ruby language literacy
 - <https://www.ruby-lang.org/en/documentation/quickstart/>
