@@ -40,5 +40,10 @@ Se você não escreve diariamente, você não leva a sério o trabalho intelectu
     - notas permanentes
     - notas de literatura - 17:50
 
+há uma menção a um cara chamado Andy Matuschak: <https://andymatuschak.org/>
 
-há uma menção a um cara chamado Andy Matuschak
+
+## Vídeo 3 - Tomar notas no Notion
+
+<https://youtu.be/gp-l2SL0TLA>
+
