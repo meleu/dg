@@ -3,11 +3,12 @@
 ---
 
 # Software Engineering Books To Read
+
 - [[notes/books/code-complete/Code Complete|Code Complete]] - 2nd Edition - Steve McConnel
 
 - [[notes/books/The Art of Unix Programming/The Art of Unix Programming|The Art of Unix Programming]] - Eric S. Raymond
 
-- Manual de DevOps
+- [[Manual de DevOps|Manual de DevOps]]
 
 - Continuous Delivery
 
@@ -15,7 +16,7 @@
     - Clean Code
     - Clean Coder
     - Clean Architecture
-    - Clean Agile (Desenvolvimento Ágil Limpo)
+    - [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
 
 - Refactoring (Refatoração: Aperfeiçoando o Design de Códigos Existentes) - Martin Fowler
 
@@ -26,4 +27,6 @@
 - [[Pragmatic Programmer|Pragmatic Programmer]] - David Thomas & Andrew Hunt
 
 
+## See also
 
+- [[notes/TDD-Refactoring literature|TDD-Refactoring literature]]
