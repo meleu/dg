@@ -10,7 +10,7 @@
 
 A culminação do capítulo é a seguinte:
 
-> [!important]
+> [!important] Importante 
 A agilidade é um processo em que:
 > - um projeto é subdividido em iterações.
 > - O *output* de cada iteração é calculada e usada para avaliar continuamente o planejamento.
@@ -229,7 +229,14 @@ Esse gerenciamento deve sempre levar em consideração a Restrição Tripla (esc
 
 ### Gerenciando a Restrição Tripla
 
-Restrição Tripla: escolha 3 entre bom, rápido, barato e concluído.
+Restrição Tripla: escolha 3 entre
+
+- bom (qualidade)
+- rápido (tempo)
+- barato (custo)
+- concluído (escopo)
+
+(entre parenteses são os termousados no cap. 4 do [[Programacao eXtrema explicada|Programacao eXtrema explicada]])
 
 Ações que o Gerente pode tomar, e suas consequências relacionadas aos itens da Restrição Tripla:
 
@@ -263,7 +270,7 @@ Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exe
 
 Um detalhe que muitas vezes é despercebido é que a lei de Brooks se refere a um projeto já atrasado.
 
-O que acontece é que quando entram mais pessoas no projeto, a produtividade cai. Pois os profissionais experientes precisam despender um tempo explicando o projeto para os novatos. Só após os novatos se tornarem produtivos é que a produtividade começar a ficar maior do que no início.
+O que acontece é que quando entram mais pessoas no projeto, a produtividade cai. Pois os profissionais experientes precisam despender um tempo explicando o projeto para os novatos. Só após os novatos se tornarem produtivos é que a produtividade começa a ficar maior do que no início.
 
 O principal trade-off aqui é: você precisa de tempo e melhorias suficientes afim de compensar a perda de produtividade inicial.
 
