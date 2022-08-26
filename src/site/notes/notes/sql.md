@@ -4,6 +4,7 @@
 
 # SQL
 
+
 ## Source of Information
 
 Some notes here were taken while studying the first lessons of "SQL Fundamentals" from <datacamp.com>
