@@ -10,7 +10,7 @@ Interesting things I learned while reading this chapter.
 
 > Mastering [[notes/vim|vim]] is perhaps the single best productivity enhancement available to administrators.
 
-For scripting it's suggested [[notes/bash|bash]], [[python|python]] and [[ruby|ruby]]. Should I learn ruby? 🤔 (see [[notes/learning-ruby|learning-ruby]])
+For scripting it's suggested [[notes/bash|bash]], [[python|python]] and [[notes/ruby|ruby]].
 
 There's also a mention to a tool called [[expect|expect]]. I googled about it and became surprised how I didn't know such an old tool. Yeah, maybe I need to invest some time learning it.
 
