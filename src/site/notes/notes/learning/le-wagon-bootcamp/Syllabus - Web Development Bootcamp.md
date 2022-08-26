@@ -28,6 +28,7 @@
 - Arquitetura de Software
     - 🤓 - [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]
 - Banco de dados relacional
+    - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
 
 
 ## Fase 2 - Desenvolvimento Web
@@ -48,6 +49,7 @@
         - 🤓 - <https://www.origamid.com/curso/bootstrap-4/>
 - JavaScript/ES6
     - DOM
+    - 🤓 - <https://domevents.dev/>
 - Empacotando tudo com Rails
     - 🤓 - [Colocar uma aplicação Ruby on Rails em containers](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
 - Construindo um clone de Airbnb
@@ -55,3 +57,14 @@
 
 ## Fase 3 - Projetos finais
 
+- logbots.app
+- portfolio <https://meleu.dev/portfolio/>
+    - RetroAchievements (disclaimer: I'm not the creator)
+    - RANews
+    - RADocs
+    - meleu.sh
+    - RABot
+- RANews like <https://increment.com>
+- 1loc.sh
+- retrochampions
+- controlesuacarteira
