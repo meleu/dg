@@ -10,9 +10,9 @@ Livro do Uncle Bob
 
 ## Principais Aprendizados
 
-- Devo estudar XP, TDD e Refatoração. Incorporar essas práticas no dia-a-dia. (ler [[notes/TDD-Refactoring literature|TDD-Refactoring literature]])
 - Agilidade é para times pequenos
-- Pilares da agilidade:
+- Práticas importantes: XP, TDD, Refatoração e Design Simples. Incorporar essas práticas no dia-a-dia. (ver [[notes/TDD-Refactoring literature|TDD-Refactoring literature]])
+- Pilares (Técnicos) da agilidade:
     - TDD
     - Refatoração
     - Design Simples
@@ -28,6 +28,7 @@ Livro do Uncle Bob
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil|Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 3. Praticas de Negocios|Desenvolvimento Agil Limpo - 3. Praticas de Negocios]]
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 4. Praticas de Equipe|Desenvolvimento Agil Limpo - 4. Praticas de Equipe]]
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas|Desenvolvimento Agil Limpo - 5. Praticas Tecnicas]]
 
 ---
 
@@ -43,12 +44,3 @@ Não! Coisas significativas **não** são feitas por equipes grandes. Elas são 
 
 Essa ideia de "colaboração de muitas equipes pequenas" soa como a "filosofia Unix" ([[notes/books/The Art of Unix Programming/The Art of Unix Programming|The Art of Unix Programming]]) e arquitetura de [[notes/microsservicos|microsservicos]] aplicados à gestão de equipes.
 
----
-
-## Tópicos para se aprofundar
-
-- Testes de Aceitação
-- TDD
-- eXtreme Programming (XP)
-- Ciclo de Vida de Ron Jeffries
-- DDD - Domain Driven Development
