@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Book Review: Pai Rico, Pai Pobre
