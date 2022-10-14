@@ -22,9 +22,12 @@
 
 ## CSS games
 
-- selectors: <https://https://flukeout.github.io/>
+- CSS selectors: CSS Diner <https://flukeout.github.io/>
 - flexbox: <https://flexboxfroggy.com>
 - grid: <https://cssgridgarden.com>
+- <https://codingfantasy.com/>
+- [17 games to practice CSS](https://bookercodes.hashnode.dev/css-practice?source=tw0922#heading-try-one-of-these-17-games-to-practice-css)
+- <https://csskatas.com/> - maybe cool to practice tailwind
 
 
 ## how to organize your CSS code
@@ -35,12 +38,13 @@
 
 ---
 
+<!-- basicblock-start oid="ObsRsO8RujveTSFrhYQjpQwk" -->
 ## smooth scrolling
-#anki
+::
 ```css
 scroll-behavior: smooth;
 ```
-^1661278561207
+<!-- basicblock-end -->
 
 
 ## [flexbox] place something in the center of the screen
@@ -73,11 +77,14 @@ Premissas:
 - funciona ~~em qualquer~~ na esmagadora maioria dos navegadores.
 
 Eis o código CSS:
-perfect fullpage background image #anki
+
+<!-- basicblock-start oid="Obs4sikA3Y4NWay2uozGSk7N" -->
+perfect fullpage background image
+::
 ```css
 html {
   background: url("background.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 ```
-^1661285400438
+<!-- basicblock-end -->
