@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/js-roadmap/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/js-roadmap/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # My "learning JavaScript/TypeScript" roadmap
