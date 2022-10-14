@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/dev-ops-bootcamp-nana/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/dev-ops-bootcamp-nana/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # DevOps Bootcamp - Techworld with Nana
