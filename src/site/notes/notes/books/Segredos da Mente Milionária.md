@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/segredos-da-mente-milionaria/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/segredos-da-mente-milionaria/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Segredos da Mente Milionária
