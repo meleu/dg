@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/hashicorp-certified-vault-associate-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/hashicorp-certified-vault-associate-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Hashicorp Certified Vault Associate: Getting Started
