@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/instant-gratification/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/atomic-ideas/instant-gratification/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # instant gratification
