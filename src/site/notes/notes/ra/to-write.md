@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/to-write/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/ra/to-write/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Things to write for RANews
