@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-3-node-dockerfile-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-3-node-dockerfile-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Docker for NodeJS - 3. Node Dockerfile Best Practices
