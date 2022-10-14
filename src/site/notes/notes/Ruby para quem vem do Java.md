@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ruby-para-quem-vem-do-java/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/ruby-para-quem-vem-do-java/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Ruby para quem está vindo do Java
