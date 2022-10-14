@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/mais-esperto-que-o-diabo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/mais-esperto-que-o-diabo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Mais Esperto que o Diabo
