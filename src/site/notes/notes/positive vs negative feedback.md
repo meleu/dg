@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/positive-vs-negative-feedback/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/positive-vs-negative-feedback/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # positive vs negative feedback
