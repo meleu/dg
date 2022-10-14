@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/ebook-suno-10-livros-que-todo-investidor-deveria-ler/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/ebook-suno-10-livros-que-todo-investidor-deveria-ler/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # ebook suno - 10 livros que todo investidor deveria ler
