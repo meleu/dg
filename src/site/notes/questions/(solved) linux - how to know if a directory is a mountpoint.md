@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions/solved-linux-how-to-know-if-a-directory-is-a-mountpoint/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/questions/solved-linux-how-to-know-if-a-directory-is-a-mountpoint/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
