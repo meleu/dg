@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/discurso-sobre-a-servidao-voluntaria/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/discurso-sobre-a-servidao-voluntaria/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Discurso Sobre a Servidão Voluntária
