@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs/the-best-way-i-found-to-learn-ruby/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/blogs/the-best-way-i-found-to-learn-ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
