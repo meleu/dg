@@ -11,4 +11,4 @@ Once the habit is settled, negative feedback is what makes you see where you nee
 
 ## references
 
-- I think it came from [[notes/learning/efficient-learning|efficient-learning]]
+- I think it came from [[notes/learning/ztm-efficient-learning|ztm-efficient-learning]]
