@@ -71,4 +71,4 @@ My favorite ones come in the top
 - Atom [dark]
 - Things [dark]
 - Typewriter [dark]
-- :-1: Default theme is not cool
+- 👎 Default theme is not cool
