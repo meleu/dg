@@ -4,6 +4,10 @@
 
 # Habito Eficaz 3 - Primeiro o mais importante
 
+[TOC]
+
+---
+
 ### Perguntas para trabalhar no Hábito 3
 
 > [!question]
