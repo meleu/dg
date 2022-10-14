@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-valor-do-amanha/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/o-valor-do-amanha/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # O Valor do Amanha
