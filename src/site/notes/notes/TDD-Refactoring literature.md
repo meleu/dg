@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tdd-refactoring-literature/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/tdd-refactoring-literature/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # TDD/Refactoring literature
