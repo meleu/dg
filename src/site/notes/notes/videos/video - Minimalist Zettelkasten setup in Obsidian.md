@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-minimalist-zettelkasten-setup-in-obsidian/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-minimalist-zettelkasten-setup-in-obsidian/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # video - Minimalist Zettelkasten setup in Obsidian
