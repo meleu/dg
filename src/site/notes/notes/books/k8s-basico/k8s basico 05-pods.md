@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-05-pods/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-05-pods/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # k8s basico - Capítulo 5: Pods
