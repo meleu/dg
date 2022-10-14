@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-1-seja-proativo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-1-seja-proativo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Hábito Eficaz 1 - Seja Proativo
