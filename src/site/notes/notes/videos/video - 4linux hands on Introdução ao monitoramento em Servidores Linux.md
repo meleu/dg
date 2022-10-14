@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-4linux-hands-on-introducao-ao-monitoramento-em-servidores-linux/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-4linux-hands-on-introducao-ao-monitoramento-em-servidores-linux/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Introdução ao monitoramento em Servidores Linux
