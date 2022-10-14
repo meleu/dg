@@ -11,6 +11,7 @@
 - <https://github.com/PauloGoncalvesBH/treinamento-git>
 - <https://egghead.io/q/git>
 - <https://blog.bitsrc.io/how-to-utilize-submodules-within-git-repos-5dfdd1c62d09> - How to Utilize Submodules within Git Repos
+- game <https://ohmygit.org>
 
 ## Basic Git Workflow
 
@@ -25,6 +26,17 @@
 
 
 ## random tips
+
+### squash commits non-interactively
+
+```bash
+# squash last 3 commits
+git reset --soft HEAD~3
+git commit -m 'new commit message'
+```
+
+https://stackoverflow.com/a/7275658/6354514
+
 
 ### how to find large commits in git history
 
