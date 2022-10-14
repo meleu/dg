@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions/linux-how-to-synchronize-two-directories-to-have-the-same-contents/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/questions/linux-how-to-synchronize-two-directories-to-have-the-same-contents/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # linux - how to synchronize two directories to have the same contents?
