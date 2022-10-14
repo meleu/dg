@@ -129,7 +129,7 @@ Maybe this list can tell a bit about who I am.
 
 ## read in the past
 
-- ⭐ [[notes/books/A insustentável leveza do ser|A insustentável leveza do ser]]
+- ⭐ [[notes/books/A insustentavel leveza do ser|A insustentavel leveza do ser]]
 - ⭐ [[notes/books/O Barão nas Árvores|O Barão nas Árvores]]
 - [[notes/books/O cavaleiro inexistente|O cavaleiro inexistente]]
 - [[O visconde partido ao meio|O visconde partido ao meio]]
