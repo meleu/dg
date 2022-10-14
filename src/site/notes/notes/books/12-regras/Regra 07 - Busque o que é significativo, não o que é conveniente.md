@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-07-busque-o-que-e-significativo-nao-o-que-e-conveniente/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-07-busque-o-que-e-significativo-nao-o-que-e-conveniente/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Regra 07: Busque o que é significativo, não o que é conveniente
