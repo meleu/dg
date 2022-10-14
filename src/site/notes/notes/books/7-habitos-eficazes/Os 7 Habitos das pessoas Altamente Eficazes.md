@@ -5,6 +5,7 @@
 
 # Os 7 Hábitos das pessoas Altamente Eficazes
 
+
 Conceitos chave:
 
 - Ética do Caráter vs. Ética da Personalidade
