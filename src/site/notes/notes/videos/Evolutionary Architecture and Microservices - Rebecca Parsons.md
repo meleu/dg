@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/evolutionary-architecture-and-microservices-rebecca-parsons/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/videos/evolutionary-architecture-and-microservices-rebecca-parsons/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Evolutionary Architecture & Microservices - Rebecca Parsons
