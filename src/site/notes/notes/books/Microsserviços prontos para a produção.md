@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/microsservicos-prontos-para-a-producao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/microsservicos-prontos-para-a-producao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Microsserviços prontos para a produção
