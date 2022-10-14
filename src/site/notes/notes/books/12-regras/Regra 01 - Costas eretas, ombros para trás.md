@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-01-costas-eretas-ombros-para-tras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-01-costas-eretas-ombros-para-tras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Regra 01: Costas eretas, ombros para trás
