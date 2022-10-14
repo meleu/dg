@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/questions-a-dev-ops-should-ask/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/questions-a-dev-ops-should-ask/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Questions a DevOps should ask
