@@ -7,7 +7,7 @@
 ## currently reading
 
 - [[As Viagens de Gulliver|As Viagens de Gulliver]]
-- [[notes/books/7-habitos-eficazes/Os 7 Hábitos das pessoas Altamente Eficazes|Os 7 Hábitos das pessoas Altamente Eficazes]]
+- [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes|Os 7 Habitos das pessoas Altamente Eficazes]]
 - [[Personal Kanban|Personal Kanban]]
 
 ---
