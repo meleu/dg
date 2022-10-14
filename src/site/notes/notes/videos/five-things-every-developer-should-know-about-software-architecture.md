@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/five-things-every-developer-should-know-about-software-architecture/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/videos/five-things-every-developer-should-know-about-software-architecture/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # GOTO 2020 • Five Things Every Developer Should Know about Software Architecture • Simon Brown
