@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/neovim-upcase/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/neovim-upcase/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # NeoVim - upcase
