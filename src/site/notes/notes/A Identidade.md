@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/a-identidade/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/a-identidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # A Identidade
