@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links-free-ap-is/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/links-free-ap-is/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 ## Free APIs
