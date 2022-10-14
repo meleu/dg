@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/new-blog-at-hashnode/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/new-blog-at-hashnode/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # new blog at hashnode
