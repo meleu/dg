@@ -4,7 +4,7 @@
 
 # Articles
 
-Although this website is my [[notes/digital garden|digital garden]], sometimes I write some (kinda) "finished" articles. And here's where I list them.
+Although this website is my [[notes/digital garden|digital garden]], sometimes I write some (kinda) "finished" articles. And here's where a list
 
 (Articles writen in portuguese are [[artigos|listed here]].)
 
