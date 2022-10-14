@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-a-path-to-better-programming-uncle-bob-and-allen-holub/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-a-path-to-better-programming-uncle-bob-and-allen-holub/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # A Path to Better Programming - Uncle Bob & Allen Holub
