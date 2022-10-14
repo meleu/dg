@@ -16,7 +16,7 @@ In this website you can have:
 - 📚 which [[books|books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
 - ⌛ what I am focused on [[now|now]]
 
-This web works like my 🌱 [[notes/digital garden|digital garden]]. I believe that writing is thinking, so most of the notes here are written for myself to aid my thinking, learning and creating.
+This website works like my 🌱 [[notes/digital garden|digital garden]]. I believe that writing is thinking, so most of the notes here are written for myself to aid my thinking, learning and creating.
 
 If you're curious enough to explore this garden, keep in mind that sometimes it's a bilingual experience (I prefer to write in 🇬🇧🇺🇸 English, but 🇧🇷🇵🇹 Portuguese is my native language).
 
