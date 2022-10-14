@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Desenvolvimento Ágil Limpo
