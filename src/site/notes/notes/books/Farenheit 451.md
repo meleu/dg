@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/farenheit-451/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/farenheit-451/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Book Review: Farenheit 451
