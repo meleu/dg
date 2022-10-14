@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/03-running-the-development-instance/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/03-running-the-development-instance/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Running the Development Instance
