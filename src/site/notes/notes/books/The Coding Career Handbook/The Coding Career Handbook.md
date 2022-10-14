@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-coding-career-handbook/the-coding-career-handbook/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/the-coding-career-handbook/the-coding-career-handbook/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # The Coding Career Handbook
