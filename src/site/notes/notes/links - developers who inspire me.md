@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links-developers-who-inspire-me/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/links-developers-who-inspire-me/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## developers who inspire me
