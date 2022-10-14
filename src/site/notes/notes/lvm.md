@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/lvm/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/lvm/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Linux LVM
