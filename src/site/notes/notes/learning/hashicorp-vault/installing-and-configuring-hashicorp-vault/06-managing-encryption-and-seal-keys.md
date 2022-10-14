@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/06-managing-encryption-and-seal-keys/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/06-managing-encryption-and-seal-keys/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Managing Encryption and Seal Keys
