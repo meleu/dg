@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/simple-http-server/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/simple-http-server/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 From: <https://gist.github.com/willurd/5720255>
