@@ -17,8 +17,8 @@
 
 <https://www.youtube.com/playlist?list=PLEx5khR4g7PLCoWS5k9u2WQ8RdKqhKEKn> - GOTO talks about DevOps. Below I'm listing the ones I watched and liked the most.
 
-- [[notes/videos/3-practices-for-effective-devops-adoption|3-practices-for-effective-devops-adoption]] - 3 Practices for Effective DevOps Adoption - good insights for cultural changes advocates.
-- [[notes/videos/five-years-of-devops|five-years-of-devops]] - GOTO 2014 • Five Years of DevOps: Where are we Now?
+- [[notes/videos/video - 3-practices-for-effective-devops-adoption|video - 3-practices-for-effective-devops-adoption]] - 3 Practices for Effective DevOps Adoption - good insights for cultural changes advocates.
+- [[notes/videos/video - five-years-of-devops|video - five-years-of-devops]] - GOTO 2014 • Five Years of DevOps: Where are we Now?
 
 
 ## Books
