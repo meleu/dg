@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # What I'm into *now*
