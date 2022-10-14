@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links-post-mortems/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/links-post-mortems/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## post-mortems
