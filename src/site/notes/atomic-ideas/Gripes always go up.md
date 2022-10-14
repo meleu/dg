@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/gripes-always-go-up/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/gripes-always-go-up/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Gripes always go up
