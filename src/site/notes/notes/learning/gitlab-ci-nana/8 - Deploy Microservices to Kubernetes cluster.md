@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/8-deploy-microservices-to-kubernetes-cluster/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/8-deploy-microservices-to-kubernetes-cluster/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 ## 8 - Deploy Microservices to Kubernetes cluster
