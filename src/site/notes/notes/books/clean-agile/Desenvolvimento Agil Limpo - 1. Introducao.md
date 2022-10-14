@@ -264,7 +264,7 @@ Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exe
 
 - mexe com o "rápido" e "barato".
 
-[[notes/Lei de Brooks|Lei de Brooks]]
+[[Lei de Brooks|Lei de Brooks]]
 
 > Adicionar pessoas a um projeto de software **atrasado** resulta em um atraso ainda maior.
 
