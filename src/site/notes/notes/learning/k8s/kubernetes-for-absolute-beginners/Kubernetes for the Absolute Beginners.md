@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-for-absolute-beginners/kubernetes-for-the-absolute-beginners/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-for-absolute-beginners/kubernetes-for-the-absolute-beginners/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Kubernetes for the Absolute Beginners
