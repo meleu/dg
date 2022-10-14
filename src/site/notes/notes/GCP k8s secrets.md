@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gcp-k8s-secrets/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/gcp-k8s-secrets/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # GCP k8s secrets
