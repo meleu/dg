@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-clareza/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-clareza/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Regra da Clareza - The Art of Unix Programming
