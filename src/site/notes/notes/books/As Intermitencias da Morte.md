@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/as-intermitencias-da-morte/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/as-intermitencias-da-morte/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # As Intermitências da Morte
