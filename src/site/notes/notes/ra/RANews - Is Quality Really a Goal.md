@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/ra-news-is-quality-really-a-goal/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/ra/ra-news-is-quality-really-a-goal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
