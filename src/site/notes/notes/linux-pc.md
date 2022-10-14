@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/linux-pc/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/linux-pc/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Tricks for Linux in a Personal Computer (maybe useful for servers)
