@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitlab/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/gitlab/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # gitlab CI/CD
