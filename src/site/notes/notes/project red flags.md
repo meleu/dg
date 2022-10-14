@@ -39,9 +39,11 @@ vcs tem algum link sobre esse tema?
 
 ## references
 
+- <https://dev.to/engenheiracoelho/20-perguntas-para-fazer-nas-entrevistas-tecnicas-j8b>
 - [[private/cambly/Anita/Anita - Reverse Interview|Anita - Reverse Interview]]
 - Ver também:
     - <https://github.com/viraptor/reverse-interview>
     - <https://medium.com/@edwardog/questions-to-ask-your-future-web-dev-employer-f7a161b5bc70>
 - [[O Mitico Homem-Mes|O Mitico Homem-Mes]]
 - [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]
+- See also: [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
