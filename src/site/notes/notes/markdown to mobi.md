@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/markdown-to-mobi/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/markdown-to-mobi/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # markdown to mobi
