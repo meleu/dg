@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/getting-started-with-hashi-corp-vault-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/getting-started-with-hashi-corp-vault-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Getting Started with HashiCorp Vault - Ned Bellavance - Pluralsight
