@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/starting-a-blog-with-hugo-and-papermod/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/starting-a-blog-with-hugo-and-papermod/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # starting a blog with hugo and papermod
