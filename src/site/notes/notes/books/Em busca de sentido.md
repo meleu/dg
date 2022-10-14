@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/em-busca-de-sentido/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/em-busca-de-sentido/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Em Busca de Sentido
