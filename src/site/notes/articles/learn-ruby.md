@@ -3,7 +3,7 @@
 ---
 
 
-[[artigos/aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
+[[articles/aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
 
 ## Intro
 
