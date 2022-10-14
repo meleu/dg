@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Installing Vault
