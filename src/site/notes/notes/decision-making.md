@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/decision-making/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/decision-making/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Decision Making
