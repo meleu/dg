@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions/linux-gnome-how-to-create-a-custom-launcher-for-gnome-shell/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/questions/linux-gnome-how-to-create-a-custom-launcher-for-gnome-shell/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
