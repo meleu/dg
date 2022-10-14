@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/integrating-hashicorp-vault-in-dev-ops-workflows-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/integrating-hashicorp-vault-in-dev-ops-workflows-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Integrating Hashicorp Vault in DevOps Workflows
