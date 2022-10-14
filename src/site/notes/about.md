@@ -15,7 +15,7 @@
 
 - ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to open source projects related to this hobby (mainly [RetroAchievements](https://retroachievements.org)).
 
-- 📚 Avid book reader. Maybe you can know more about me seeing the list of [[books|books]] I read.
+- 📚 Avid book reader. Maybe you can know more about me seeing the list of [[moc/books|books]] I read.
 
 
 ## meleu in 2 minutes
