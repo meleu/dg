@@ -6,8 +6,7 @@
 
 ## Redis
 
-I don't know what is the exact usefulness of redis and what kind of problem
-it tries to solve.
+I don't know what is the exact usefulness of redis and what kind of problem it tries to solve.
 
 
 ## NAT
