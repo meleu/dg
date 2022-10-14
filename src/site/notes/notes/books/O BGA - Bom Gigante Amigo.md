@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-bga-bom-gigante-amigo/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/o-bga-bom-gigante-amigo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
