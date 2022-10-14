@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ruby-and-vs-code/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/ruby-and-vs-code/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Ruby and VS Code
