@@ -22,4 +22,4 @@ It doesn't need to be exactly 12. Here are mine ones:
 
 ---
 
-I saw this in [[notes/videos/building-a-second-brain|building-a-second-brain]].
+I saw this in [[notes/videos/video - building-a-second-brain|video - building-a-second-brain]].
