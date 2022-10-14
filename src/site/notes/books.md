@@ -147,3 +147,4 @@ Maybe this list can tell a bit about who I am.
 - [[notes/books/As cronicas do gelo e fogo|As cronicas do gelo e fogo]]
 - [[notes/books/A Invencao de Hugo Cabret|A Invencao de Hugo Cabret]]
 - [[notes/books/O BGA - Bom Gigante Amigo|O BGA - Bom Gigante Amigo]]
+- [[Clube da Luta|Clube da Luta]]
