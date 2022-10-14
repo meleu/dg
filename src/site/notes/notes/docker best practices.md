@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/docker-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # docker best practices
