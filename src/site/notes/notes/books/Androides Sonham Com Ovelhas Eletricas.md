@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/androides-sonham-com-ovelhas-eletricas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/androides-sonham-com-ovelhas-eletricas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Androides Sonham Com Ovelhas Eletricas
