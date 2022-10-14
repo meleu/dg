@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Filho Rico Filho Vencedor
