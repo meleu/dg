@@ -3,6 +3,8 @@
 ---
 
 
+[[artigos/aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
+
 ## Intro
 
 In this article I'm going to share things that are working quite well for me to learn the Ruby language.
