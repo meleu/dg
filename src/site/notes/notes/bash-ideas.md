@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bash-ideas/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/bash-ideas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # bash ideas - useful scripts to be written (and eventually used)
