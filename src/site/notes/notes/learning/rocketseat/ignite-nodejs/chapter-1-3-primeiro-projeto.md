@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/rocketseat/ignite-nodejs/chapter-1-3-primeiro-projeto/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/rocketseat/ignite-nodejs/chapter-1-3-primeiro-projeto/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Chapter 1: Primeiro Projeto com Node.JS
