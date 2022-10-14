@@ -10,7 +10,7 @@ I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
 I love solving problems with code and meaningful human interactions.
 
-This website is my 🌱 [[notes/digital garden|digital garden]]. I believe that writing is thinking, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I see that [learning in public](https://www.swyx.io/learn-in-public/) is beneficial for me.
+This website is my 🌱 [[notes/digital garden|digital garden]], therefore the contents is not very organized. I believe that **writing is thinking**, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I see [learning in public](https://www.swyx.io/learn-in-public/) is a good practice.
 
 Here you can also see:
 
