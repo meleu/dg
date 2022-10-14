@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-02-cuide-de-si-mesmo-como-cuidaria-de-alguem-sob-sua-responsabilidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-02-cuide-de-si-mesmo-como-cuidaria-de-alguem-sob-sua-responsabilidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
