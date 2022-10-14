@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/my-software-engineering-principles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/my-software-engineering-principles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # my software engineering principles
