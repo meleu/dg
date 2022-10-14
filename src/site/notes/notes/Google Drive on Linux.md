@@ -4,6 +4,10 @@
 
 # Google Drive on Linux
 
+[TOC]
+
+---
+
 ## PopOS! / GNOME
 
 > [!warning]
