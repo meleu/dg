@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fundamental-questions-for-it-professionals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/fundamental-questions-for-it-professionals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # fundamental questions for IT professionals
