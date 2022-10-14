@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-1-introducao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-1-introducao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Desenvolvimento Agil Limpo - 1. Introducao
