@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/a-invencao-de-hugo-cabret/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/a-invencao-de-hugo-cabret/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
