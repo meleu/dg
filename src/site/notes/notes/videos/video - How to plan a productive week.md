@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-how-to-plan-a-productive-week/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/videos/video-how-to-plan-a-productive-week/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # video - How to plan a productive week
