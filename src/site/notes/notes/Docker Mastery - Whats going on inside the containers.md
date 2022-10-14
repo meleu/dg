@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-mastery-whats-going-on-inside-the-containers/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/docker-mastery-whats-going-on-inside-the-containers/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## What's going on in containers
