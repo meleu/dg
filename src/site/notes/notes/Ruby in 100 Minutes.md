@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ruby-in-100-minutes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/ruby-in-100-minutes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 ## Ruby in 100 Minutes
