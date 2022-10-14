@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/5-ci-cd-pipeline-for-node-js-application/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/5-ci-cd-pipeline-for-node-js-application/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # 5 - CI-CD pipeline for Node.js Application
