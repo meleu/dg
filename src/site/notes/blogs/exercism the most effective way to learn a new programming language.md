@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs/exercism-the-most-effective-way-to-learn-a-new-programming-language/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blogs/exercism-the-most-effective-way-to-learn-a-new-programming-language/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 
