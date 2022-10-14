@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/01-where-to-start/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/01-where-to-start/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Chapter 1 - Where to Start
