@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim-seven-habits-of-effective-text-editing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/vim-seven-habits-of-effective-text-editing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Seven habits of effective text editing
