@@ -4,10 +4,13 @@
 
 # Artigos
 
-Aqui tem a lista dos artigos de minha autoria. Artigos sobre linha de comando e shell-scripting eu publico em <https://meleu.sh>. Artigos que eu traduzi ficam [[traducoes|aqui]].
+A maioria dos meus artigos em português são publicados em <https://meleu.sh> e são sobre linha de comando, shell-scripting com uma pegada de DevOps. Artigos que não se enquadram nesse nicho eu acabo publicando aqui mesmo.
 
-| File                                      | Título                                            | Criado em          |
-| ----------------------------------------- | ------------------------------------------------- | ------------------ |
-| [[artigos/aprenda-ruby.md\|aprenda-ruby]] | A melhor maneira que encontrei para aprender Ruby | September 16, 2022 |
+Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
+
+
+| File                                      | Título                                            |
+| ----------------------------------------- | ------------------------------------------------- |
+| [[artigos/aprenda-ruby.md\|aprenda-ruby]] | A melhor maneira que encontrei para aprender Ruby |
 
 
