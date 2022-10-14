@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/google-search-tips/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/google-search-tips/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # google search tips
