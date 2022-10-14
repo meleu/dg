@@ -9,8 +9,8 @@ A maioria dos meus artigos em português são publicados em <https://meleu.sh> e
 Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
 
 
-| File                    | Título |
-| ----------------------- | ------ |
-| [[artigos.md\|artigos]] | \-     |
+| File                                       | Título                                            | Criado em          |
+| ------------------------------------------ | ------------------------------------------------- | ------------------ |
+| [[articles/aprenda-ruby.md\|aprenda-ruby]] | A melhor maneira que encontrei para aprender Ruby | September 16, 2022 |
 
 
