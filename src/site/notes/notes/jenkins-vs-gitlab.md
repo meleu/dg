@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jenkins-vs-gitlab/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/jenkins-vs-gitlab/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Jenkins vs GitLab
