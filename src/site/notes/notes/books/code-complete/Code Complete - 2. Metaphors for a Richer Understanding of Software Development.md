@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-2-metaphors-for-a-richer-understanding-of-software-development/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-2-metaphors-for-a-richer-understanding-of-software-development/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Chapter 2 - Metaphors for a Richer Understanding of Software Development
