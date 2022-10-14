@@ -15,8 +15,8 @@
 
 ## 2022 goals
 
-- [ ] Learn Ruby
-- [ ] do the Le Wagon bootcamp
 - [ ] CKAD
+- [ ] Learn Ruby
+- [ ] do the Le Wagon bootcamp (postponed to april/2023)
 - [ ] ~~GCP Associate Certificate Engineer~~ changed my mind
 
