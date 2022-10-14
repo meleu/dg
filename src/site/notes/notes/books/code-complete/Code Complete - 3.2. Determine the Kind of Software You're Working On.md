@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-3-2-determine-the-kind-of-software-you-re-working-on/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-3-2-determine-the-kind-of-software-you-re-working-on/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Code Complete - 3.2. Determine the Kind of Software You're Working On
