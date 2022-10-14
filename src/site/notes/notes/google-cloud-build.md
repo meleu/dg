@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/google-cloud-build/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/google-cloud-build/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Google Cloud Build
