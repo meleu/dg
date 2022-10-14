@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/linux-post-install/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/linux-post-install/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Things to do right after a fresh install
