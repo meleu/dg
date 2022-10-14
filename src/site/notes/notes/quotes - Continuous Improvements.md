@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/quotes-continuous-improvements/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/quotes-continuous-improvements/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # quotes - Continuous Improvements
