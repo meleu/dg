@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/digital-zettelkasten-principles-methods-and-examples/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/digital-zettelkasten-principles-methods-and-examples/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Digital Zettelkasten - Principles, Methods, and Examples
