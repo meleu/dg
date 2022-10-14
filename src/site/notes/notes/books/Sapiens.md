@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/books/sapiens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # Sapiens
 
 ## principal aprendizado
