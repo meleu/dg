@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/as-cronicas-do-gelo-e-fogo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/as-cronicas-do-gelo-e-fogo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 
