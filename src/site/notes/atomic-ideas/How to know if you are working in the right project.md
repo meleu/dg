@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/how-to-know-if-you-are-working-in-the-right-project/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/how-to-know-if-you-are-working-in-the-right-project/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # How to know if you are working in the right project
