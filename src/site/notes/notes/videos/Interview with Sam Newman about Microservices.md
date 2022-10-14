@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/interview-with-sam-newman-about-microservices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/videos/interview-with-sam-newman-about-microservices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## Interview with Sam Newman about Microservices
