@@ -15,8 +15,8 @@ This website is my 🌱 [[notes/digital garden|digital garden]]. I believe that 
 Here you can also see:
 
 - 🧑‍💻 more information [[about|about]] me.
-- 📰 some [[articles|articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
-- 📚 which [[books|books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
+- 📰 some [[moc/articles|articles]] I write about nerdy things (sometimes in [[moc/artigos|portuguese]]).
+- 📚 which [[moc/books|books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
 - ⌛ what I am focused on [[now|now]].
 - 🧰 the tools I [[uses|use]] in my daily routine.
 - 💭 random thoughts...
