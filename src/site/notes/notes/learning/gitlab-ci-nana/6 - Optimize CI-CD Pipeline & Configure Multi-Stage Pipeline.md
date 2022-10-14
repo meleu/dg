@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/6-optimize-ci-cd-pipeline-and-configure-multi-stage-pipeline/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/6-optimize-ci-cd-pipeline-and-configure-multi-stage-pipeline/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## 6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline
