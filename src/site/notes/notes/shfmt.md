@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/shfmt/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/shfmt/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # How To Format Shell Programs Using Shfmt In Linux
