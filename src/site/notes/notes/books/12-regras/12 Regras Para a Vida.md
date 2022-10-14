@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # 12 Regras Para a Vida
