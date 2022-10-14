@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/hackers-and-painters/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/hackers-and-painters/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Book Review: Hackers and Painters
