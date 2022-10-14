@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Book Review: Code Complete
