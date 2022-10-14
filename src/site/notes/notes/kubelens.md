@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/kubelens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/kubelens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # kubelens
