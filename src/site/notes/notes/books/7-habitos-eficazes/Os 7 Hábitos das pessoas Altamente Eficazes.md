@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/os-7-habitos-das-pessoas-altamente-eficazes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/os-7-habitos-das-pessoas-altamente-eficazes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
