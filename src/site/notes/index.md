@@ -23,3 +23,4 @@ The notes I believe that can be useful to others, I list [[articles|here (Englis
 
 If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience.
 
+- **See also: <https://meleu.sh>** (in Portuguese)
