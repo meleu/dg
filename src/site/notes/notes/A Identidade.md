@@ -4,7 +4,7 @@
 
 # A Identidade
 
-- Livro de Milan Kundera (mesmo autor de [[notes/books/A insustentável leveza do ser|A insustentável leveza do ser]]).
+- Livro de Milan Kundera (mesmo autor de [[notes/books/A insustentavel leveza do ser|A insustentavel leveza do ser]]).
 
 Legalzinho.
 
