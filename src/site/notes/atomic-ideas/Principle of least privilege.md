@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/principle-of-least-privilege/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/principle-of-least-privilege/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 Principle of least privilege:
