@@ -7,7 +7,7 @@
 
 ## meleu in 15 seconds
 
-- I'm a Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
+- 👨‍💻 I'm a Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
 
 - 🐧 Linux nerd since the late 90s
 
@@ -15,7 +15,7 @@
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- 🕹️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to open source projects related to this hobby (mainly [RetroAchievements](https://retroachievements.org)).
+- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to open source projects related to this hobby (mainly [RetroAchievements](https://retroachievements.org)).
 
 - 📚 I'm also an avid book reader, Maybe you can know more about me seeing the list of [[books|books]] I read.
 
