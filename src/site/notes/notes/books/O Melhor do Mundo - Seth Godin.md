@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-melhor-do-mundo-seth-godin/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/o-melhor-do-mundo-seth-godin/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # O Melhor do Mundo - Seth Godin
