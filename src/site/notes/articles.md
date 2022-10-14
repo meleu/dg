@@ -4,8 +4,14 @@
 
 # Articles
 
-| File                                   | Title                                                                | Created at         |
-| -------------------------------------- | -------------------------------------------------------------------- | ------------------ |
-| [[articles/exercism.md\|exercism]]     | exercism: the most effective way to learn a new programming language | September 16, 2022 |
-| [[articles/learn-ruby.md\|learn-ruby]] | The best way I found to learn Ruby                                   | September 16, 2022 |
+Although this website is my [[notes/digital garden|digital garden]], sometimes I write some (kinda) "finished" articles. And here's where I list them.
+
+(Articles writen in portuguese are [[artigos|listed here]].)
+
+
+
+| File                                   | Title                                                                |
+| -------------------------------------- | -------------------------------------------------------------------- |
+| [[articles/exercism.md\|exercism]]     | exercism: the most effective way to learn a new programming language |
+| [[articles/learn-ruby.md\|learn-ruby]] | The best way I found to learn Ruby                                   |
 
