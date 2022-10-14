@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/7-ci-cd-micro-service-application-mono-and-polyrepo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/7-ci-cd-micro-service-application-mono-and-polyrepo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 ## 7 - CI-CD MicroService Application (Mono and Polyrepo)
