@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/05-cloud-and-infrastructure-as-a-service-with-digitalocean/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/05-cloud-and-infrastructure-as-a-service-with-digitalocean/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Cloud & Infrastructure as a Service Basics with DigitalOcean
