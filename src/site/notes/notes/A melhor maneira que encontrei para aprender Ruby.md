@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/a-melhor-maneira-que-encontrei-para-aprender-ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/a-melhor-maneira-que-encontrei-para-aprender-ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # A melhor maneira que encontrei para aprender Ruby
