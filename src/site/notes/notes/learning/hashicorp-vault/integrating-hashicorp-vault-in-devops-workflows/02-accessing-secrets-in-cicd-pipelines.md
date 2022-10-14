@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/02-accessing-secrets-in-cicd-pipelines/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/02-accessing-secrets-in-cicd-pipelines/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Vault: Accessing Secrets in CI/CD Pipelines
