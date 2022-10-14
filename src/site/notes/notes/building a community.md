@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/building-a-community/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/building-a-community/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # building a community
