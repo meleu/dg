@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/04-vault-architecture/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/04-vault-architecture/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Learning the Vault Architecture
