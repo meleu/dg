@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/05-configuring-vault-policies/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/05-configuring-vault-policies/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Configuring Vault Policies
