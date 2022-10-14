@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/css-variables/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/css-variables/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 ## CSS variables
