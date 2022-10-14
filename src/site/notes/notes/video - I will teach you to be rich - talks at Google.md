@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/video-i-will-teach-you-to-be-rich-talks-at-google/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/video-i-will-teach-you-to-be-rich-talks-at-google/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # video - I will teach you to be rich - talks at Google
