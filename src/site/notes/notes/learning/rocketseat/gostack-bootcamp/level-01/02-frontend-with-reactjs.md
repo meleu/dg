@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Front-end With ReactJS
