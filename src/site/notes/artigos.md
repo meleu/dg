@@ -13,4 +13,3 @@ Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
 | ------------------------------------------ | ------------------------------------------------- |
 | [[articles/aprenda-ruby.md\|aprenda-ruby]] | A melhor maneira que encontrei para aprender Ruby |
 
-
