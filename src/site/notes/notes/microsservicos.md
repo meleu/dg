@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/microsservicos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/microsservicos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Estudando Microsserviços
