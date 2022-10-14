@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/software-engineering-books-to-read/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/software-engineering-books-to-read/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Software Engineering Books To Read
