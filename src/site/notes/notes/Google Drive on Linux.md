@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/google-drive-on-linux/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/google-drive-on-linux/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Google Drive on Linux
