@@ -3,6 +3,8 @@
 ---
 
 
+[[articles/learn-ruby|English version]]
+
 ## Intro
 
 Esse artigo contem uma lista de coisas que estão funcionando muito bem para o meu aprendizado da linguagem Ruby. Estou compartilhando aqui pois acredito que também possa ter alguma valia para pessoas que tenham um perfil parecido.
