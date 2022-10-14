@@ -6,8 +6,9 @@
 
 ## currently reading
 
-- [[notes/books/Crime e Castigo|Crime e Castigo]]
+- [[As Viagens de Gulliver|As Viagens de Gulliver]]
 - [[notes/books/7-habitos-eficazes/Os 7 Hábitos das pessoas Altamente Eficazes|Os 7 Hábitos das pessoas Altamente Eficazes]]
+- [[Personal Kanban|Personal Kanban]]
 
 ---
 
@@ -24,6 +25,8 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[notes/A Identidade|A Identidade]]
+- [[notes/books/Crime e Castigo|Crime e Castigo]]
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
@@ -32,7 +35,7 @@ Maybe this list can tell a bit about who I am.
 - [[1984|1984]]
 - [[O Medico e o Monstro|O Medico e o Monstro]]
 - [[notes/books/Em busca de sentido|Em busca de sentido]]
-- [[O Melhor do Mundo - Seth Godin|O Melhor do Mundo - Seth Godin]]
+- [[notes/books/O Melhor do Mundo - Seth Godin|O Melhor do Mundo - Seth Godin]]
 - [[Do Mil ao Milhao|Do Mil ao Milhao]]
 
 #### unfinished
@@ -66,7 +69,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Manual de DevOps|Manual de DevOps]]
 - [[System Design Interview|System Design Interview]]
 - [[notes/books/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
-- [[notes/books/kubernetes-basico/Kubernetes Basico|Kubernetes Basico]]
+- [[notes/books/k8s-basico/Kubernetes Basico|Kubernetes Basico]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
 
