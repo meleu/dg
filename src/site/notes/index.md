@@ -17,9 +17,9 @@ This website works like my 🌱 [[notes/digital garden|digital garden]]. Here yo
 - 📚 which [[books|books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
 - ⌛ what I am focused on [[now|now]]
 
-I believe that writing is thinking, so most of the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I like to [learn in public](https://www.swyx.io/learn-in-public/)
+I believe that writing is thinking, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I like to [learn in public](https://www.swyx.io/learn-in-public/)
 
-The notes I believe that can be useful to others, I list [[articles|here (English)]] and [[artigos|here (Portuguese)]]. Sometimes I also like to translate valuable/timeless [[traducoes|articles to portuguese]].
+The notes I believe that can be useful to others, I list [[articles|here (English)]] and [[artigos|here (Portuguese)]]. Sometimes I also like to [[traducoes|translate valuable/timeless articles to portuguese]].
 
-If you're curious enough to explore this garden, keep in mind that sometimes it's a bilingual experience (I prefer to write in 🇬🇧🇺🇸 English, but 🇧🇷🇵🇹 Portuguese is my native language).
+If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience.
 
