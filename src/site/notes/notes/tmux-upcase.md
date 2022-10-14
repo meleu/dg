@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tmux-upcase/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/tmux-upcase/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # upcase video series
