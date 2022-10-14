@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dom/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/dom/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Document Object Model
