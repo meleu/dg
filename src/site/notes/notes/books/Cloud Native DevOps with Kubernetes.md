@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/cloud-native-dev-ops-with-kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/books/cloud-native-dev-ops-with-kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Cloud Native DevOps with Kubernetes
