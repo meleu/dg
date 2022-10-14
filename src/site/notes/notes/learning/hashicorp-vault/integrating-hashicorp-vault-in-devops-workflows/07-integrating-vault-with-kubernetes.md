@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/07-integrating-vault-with-kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/07-integrating-vault-with-kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Integrating Vault With Kubernetes
