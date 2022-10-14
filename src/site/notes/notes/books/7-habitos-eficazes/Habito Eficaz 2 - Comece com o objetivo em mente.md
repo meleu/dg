@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-2-comece-com-o-objetivo-em-mente/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-2-comece-com-o-objetivo-em-mente/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 # Hábito Eficaz 2 - Comece com o objetivo em mente
