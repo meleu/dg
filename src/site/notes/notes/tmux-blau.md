@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tmux-blau/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/tmux-blau/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 ## vídeos do blau
