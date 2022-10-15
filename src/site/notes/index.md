@@ -8,13 +8,11 @@
 
 I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
-I love solving problems with code and meaningful human interactions.
+This is my 🌱 [[notes/digital garden|digital garden]], therefore most of the contents is not "finished", but evolving.
 
-This is my 🌱 [[notes/digital garden|digital garden]], therefore most of the contents is not "finished".
+I believe that **writing is thinking**, so the notes here are written to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
-I believe that **writing is thinking**, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) is a good practice.
-
-Still, there are things that might be interesting for you, for example:
+Regardless, there are some things that might be interesting to you, for example:
 
 - 🧑‍💻 information [[about|about]] me.
 - 📰 some [[moc/articles|articles]] I write about nerdy things (sometimes in [[moc/artigos|portuguese]]).
