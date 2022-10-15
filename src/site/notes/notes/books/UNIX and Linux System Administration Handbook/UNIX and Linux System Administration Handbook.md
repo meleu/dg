@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/unix-and-linux-system-administration-handbook/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # UNIX and Linux System Administration Handbook
+
+#books/tech 
 
 The version I have is the 5th edition.
 
