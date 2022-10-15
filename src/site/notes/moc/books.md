@@ -69,7 +69,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Manual de DevOps|Manual de DevOps]]
 - [[System Design Interview|System Design Interview]]
 - [[notes/books/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
-- [[notes/books/k8s-basico/Kubernetes Basico|Kubernetes Basico]]
+- [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
 
