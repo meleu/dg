@@ -12,4 +12,5 @@ Veja também alguns [[moc/traducoes|artigos que eu traduzi]] de outros autores.
 | File                                       | Título                                            |
 | ------------------------------------------ | ------------------------------------------------- |
 | [[articles/aprenda-ruby.md\|aprenda-ruby]] | A melhor maneira que encontrei para aprender Ruby |
+| [[articles/ergodox-ez.md\|ergodox-ez]]     | Teclado Ergodox EZ vale a pena?                   |
 
