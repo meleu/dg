@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/the-coding-career-handbook/the-coding-career-handbook/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # The Coding Career Handbook
+
+#books/tech 
 
 ## 12. Specialize in the New
 
