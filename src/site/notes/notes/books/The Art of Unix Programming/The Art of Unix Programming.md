@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/the-art-of-unix-programming/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # The Art of Unix Programming
 
-#livro/nerd #unix
+#books/tech 
 
 ## Por que eu li esse livro?
 
