@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/androides-sonham-com-ovelhas-eletricas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Androides Sonham Com Ovelhas Eletricas
 
-#livro/scifi
+# Androides Sonham Com Ovelhas Elétricas
+
+#books/fiction 
 
 Lido em fevereiro/2019
 
