@@ -5,6 +5,8 @@
 
 # Code Complete
 
+#books/tech 
+
 ## Why did I read this book?
 
 Many good reviews saying that experienced programmers benefit from the knowledge in this book.
