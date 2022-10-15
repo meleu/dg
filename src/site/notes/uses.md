@@ -8,11 +8,11 @@ These are the tools I use:
 
 ## software
 
-- OS: Linux Pop OS!
+- OS: currently trying Linux Pop OS! (and liking it so far)
 - shell: [[notes/bash|bash]]
 - terminal multiplexer: [[notes/tmux|tmux]]
 - editor of choice: [[notes/vim|vim]] (migrating to [[neovim|neovim]])
-- editor for more complex code: [[notes/vscode|vscode]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim))
+- editor for bigger code base: [[notes/vscode|vscode]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim))
 - personal knowledge management: [[notes/obsidian|obsidian]]
 - spaced repetition: [[anki|anki]]
 
@@ -22,4 +22,5 @@ These are the tools I use:
 - computer: Anything able to run Linux and the softwares listed above.
 - keyboard: [[articles/ergodox-ez|ergodox-ez]]
 - mouse: vertical mouse
+- standing desk
 
