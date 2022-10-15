@@ -20,6 +20,6 @@ These are the tools I use:
 ## hardware
 
 - computer: Anything able to run Linux and the softwares listed above.
-- keyboard: [[notes/ergodox-ez|ergodox-ez]]
+- keyboard: [[articles/ergodox-ez|ergodox-ez]]
 - mouse: vertical mouse
 
