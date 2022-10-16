@@ -5,6 +5,8 @@
 
 # O Barão nas Árvores
 
+#books/fiction 
+
 Eu cheguei a este livro olhando o catálogo da Companhia das Letras. E quando me deparei com o título "O Barão nas Árvores" na mesma hora lembrei da música "Sobre as Folhas" da extinta banda pernambucana "Cordel do Fogo Encatado" (no álbum "Transfiguração"). Isso já foi suficiente para eu ficar interessado em ler o livro. Li e gostei! :)
 
 Tenho receio de fazer resenhas fazendo revelações do enredo. Mas quando a revelação é sobre algo que acontece bem no comecinho do é mais fácil de ser perdoado! :)
