@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/practical-object-oriented-design/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # Practical Object-Oriented Design
+
+#books/tech 
 
 ### Being a programmer
 I've found in the first pages of this book the reason why I love to be a programmer.
