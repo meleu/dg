@@ -13,6 +13,12 @@ Lido em... não lembro (2012-2016)
 
 Era uma época que eu estava gostando muito de desenhar e eu acreditava que o livro ia me ajudar a superar aqueles "bloqueios de criatividade" que de vez em quando nos assombra.
 
+## O que eu aprendi?
+
+Não persiga originalidade, isso é uma ilusão. Ao invés disso copie pessoas que te inspiram e tente fazer conexões/combinações inesperadas.
+
+Estudo seus ídolos, e os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas que te inspiram.
+
 ## O livro em 3 frases
 
 1. 1
@@ -21,6 +27,5 @@ Era uma época que eu estava gostando muito de desenhar e eu acreditava que o li
 
 ## Citações
 
-## O que eu aprendi?
 
 ## Comentários
