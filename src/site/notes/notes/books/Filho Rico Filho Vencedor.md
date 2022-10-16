@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # Filho Rico Filho Vencedor
+
+#books/nonfiction 
 
 ## Por que li esse livro?
 
