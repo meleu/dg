@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/o-valor-do-amanha/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# O Valor do Amanha
+
+# O Valor do Amanhã
+
+#books/nonfiction 
 
 ## Por que eu li esse livro?
 
