@@ -29,7 +29,7 @@ Maybe this list can tell a bit about who I am.
 - [[notes/books/Crime e Castigo|Crime e Castigo]]
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples|Digital Zettelkasten - Principles, Methods, and Examples]]
-- [[notes/books/Discurso sobre a servidão voluntária|Discurso sobre a servidão voluntária]]
+- [[notes/books/Discurso sobre a servidao voluntaria|Discurso sobre a servidao voluntaria]]
 - [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]]
 - [[Eu, Robô|Eu, Robô]]
 - [[1984|1984]]
@@ -47,7 +47,6 @@ Maybe this list can tell a bit about who I am.
 - [[Como Ler Livros|Como Ler Livros]]
 - [[Ghost in the Shell|Ghost in the Shell]]
 - [[O Livro de Deus|O Livro de Deus]]
-- [[notes/books/Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
 - [[Business Model You|Business Model You]]
 
 
@@ -70,6 +69,7 @@ Maybe this list can tell a bit about who I am.
 - [[System Design Interview|System Design Interview]]
 - [[notes/books/Microsserviços prontos para a produção|Microsserviços prontos para a produção]]
 - [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
+- [[notes/books/Filho Rico Filho Vencedor|Filho Rico Filho Vencedor]]
 - [[O mais importante para o investidor|O mais importante para o investidor]]
 
 
@@ -131,7 +131,7 @@ Maybe this list can tell a bit about who I am.
 
 - ⭐ [[notes/books/A insustentavel leveza do ser|A insustentavel leveza do ser]]
 - ⭐ [[notes/books/O Barão nas Árvores|O Barão nas Árvores]]
-- [[notes/books/O cavaleiro inexistente|O cavaleiro inexistente]]
+- [[notes/books/O Cavaleiro Inexistente|O Cavaleiro Inexistente]]
 - [[O visconde partido ao meio|O visconde partido ao meio]]
 - [[notes/books/Roube Como Um Artista|Roube Como Um Artista]]
 - [[As aventuras de Tom Sawyer|As aventuras de Tom Sawyer]]
