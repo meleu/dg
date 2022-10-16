@@ -45,7 +45,7 @@ Isso me lembrou o livro do Seth Godin, *O Melhor do Mundo* (em inglês *The Dip*
 3. administrar o tempo atual, priorizar.
 4. não quer gerenciar o tempo, e sim a energia.
 
-Essa pegada da 4a. geração me faz lembrar do [[Essencialismo|Essencialismo]] e também me dá vontade de ler [[Personal Kanban|Personal Kanban]].
+Essa pegada da 4a. geração me faz lembrar do [[Essencialismo|Essencialismo]] e também me dá vontade de ler [[notes/books/Personal Kanban|Personal Kanban]].
 
 ### Quadrante II
 
