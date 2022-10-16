@@ -5,6 +5,8 @@
 
 # Os 5 Desafios das Equipes
 
+#books/nonfiction 
+
 Quando eu li eu acabei não vendo muito valor nesse livro, mas ao folheá-lo para decidir se iria doá-lo acabei me interessando pela lista das 5 disfunções das equipes.
 
 - [[notes/books/Os 5 Desafios das Equipes#1 Falta de confiança|#1 Falta de confiança]]
