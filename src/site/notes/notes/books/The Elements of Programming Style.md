@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/the-elements-of-programming-style/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # The Elements of Programming Style
+
+#books/tech 
 
 The look brings a lot of timeless wisdom, but unfortunately the examples are written in Fortran. 🙁
 
