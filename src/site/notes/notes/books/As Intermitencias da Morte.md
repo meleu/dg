@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/as-intermitencias-da-morte/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # As Intermitências da Morte
+
+#books/fiction 
 
 Em um determinado país, após a virada do ano a morte parou de chegar. O que a princípio parece ser uma benção demonstra ser um grande fardo.
 
