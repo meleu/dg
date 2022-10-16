@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/hackers-and-painters/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Book Review: Hackers and Painters
+
+# Hackers and Painters
+
+#books/nonfiction 
 
 ## Por que eu li esse livro?
 
