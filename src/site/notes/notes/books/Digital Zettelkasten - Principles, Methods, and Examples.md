@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/digital-zettelkasten-principles-methods-and-examples/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # Digital Zettelkasten - Principles, Methods, and Examples
+
+#books/nonfiction 
 
 It's a book from [Dave Kadavy](https://kadavy.net/).
 
