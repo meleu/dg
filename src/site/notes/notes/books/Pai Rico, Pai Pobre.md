@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Book Review: Pai Rico, Pai Pobre
 
-#livro/financas 
+# Pai Rico, Pai Pobre
+
+#books/nonfiction 
  
- Lido em 2019.
+Lido em 2019.
 
 ## Por que eu li esse livro?
 
