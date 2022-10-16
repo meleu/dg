@@ -41,7 +41,7 @@ Durante a leitura deste livro eu percebi que já tive contato com outros que par
     - [[Princípios (Ray Dalio)|Princípios (Ray Dalio)]]
     - [[Pense e Enriqueca|Pense e Enriqueca]]
 - Hábito 3: primeiro o mais importante
-    - [[Personal Kanban|Personal Kanban]]
+    - [[notes/books/Personal Kanban|Personal Kanban]]
 
 
 
