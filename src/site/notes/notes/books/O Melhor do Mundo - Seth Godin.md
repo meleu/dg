@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/o-melhor-do-mundo-seth-godin/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # O Melhor do Mundo - Seth Godin
+
+#books/nonfiction 
 
 O maior aprendizado que tive desse livro foi tomar consciência do "Vão".
 
