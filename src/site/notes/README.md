@@ -12,7 +12,7 @@ This is my 🌱 [[notes/digital garden|digital garden]], therefore most of the c
 
 I believe that **writing is thinking**, so the notes here are written to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
-Regardless, there are some things that might be interesting to you, for example:
+There are also some things that might be interesting to you, for example:
 
 - 🧑‍💻 information [[about|about]] me.
 - 📰 some [[moc/articles|articles]] I write about nerdy things (sometimes in [[moc/artigos|portuguese]]).
