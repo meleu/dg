@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/e-xtreme-programming-explained/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # eXtreme Programming Explained
+
+#books/tech 
 
 Livro de Kent Beck
 
