@@ -3,7 +3,9 @@
 ---
 
 
-# Desventuras em Serie
+# Desventuras em Série
+
+#books/fiction 
 
 É uma série com 13 livros.
 
