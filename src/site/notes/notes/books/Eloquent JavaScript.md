@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/eloquent-java-script/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Book Review: Eloquent JavaScript
 
-#livro/nerd #js
+# Eloquent JavaScript
+
+#books/tech 
 
 ## Por que eu li esse livro?
 
