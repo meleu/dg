@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/o-homem-mais-rico-da-babilonia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Book Review: O Homem Mais Rico da Babilonia
 
-#livro/financas
+# O Homem Mais Rico da Babilonia
+
+#books/nonfiction
 
 Lido em 2019.
 
