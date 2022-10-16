@@ -11,7 +11,6 @@ Algumas sacadas interessantes a respeito dos "4 quadrantes".
 
 
 
-
 ## Citações
 
 ### O dinheiro sustenta a vida
