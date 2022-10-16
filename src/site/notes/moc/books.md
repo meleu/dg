@@ -18,7 +18,7 @@ Maybe this list can tell a bit about who I am.
 
 **Notes**:
 
-1. The list here is uncategorized and purely chronological (I like to read fiction, non-fictional, technical books and whatever gets my interest).
+1. The list here is uncategorized and purely chronological (I like to read [[moc/books-fiction|fiction]], [[moc/books-nonfiction|nonfictional]], [[moc/books-tech|technical]] books and whatever gets my interest).
 2. Most of the non-technical books are in portuguese.
 
 ---
