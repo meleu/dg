@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/mais-esperto-que-o-diabo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
+
 # Mais Esperto que o Diabo
+
+#books/nonfiction #books/fiction 
 
 ## Por que eu li esse livro?
 
