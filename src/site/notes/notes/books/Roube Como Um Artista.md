@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/books/roube-como-um-artista/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Book Review: Roube Como Um Artista
 
-#livro/artes
+# Roube Como Um Artista
+
+#books/nonfiction 
 
 Lido em... não lembro (2012-2016)
 
