@@ -19,11 +19,11 @@
 | [[notes/books/Hackers and Painters.md\|Hackers and Painters]]                                                                         | Paul Graham                                                 | 2021        |
 | [[notes/books/I will teach you to be rich.md\|I will teach you to be rich]]                                                           | Ramit Sethi                                                 | 2020        |
 | [[notes/books/Segredos da Mente Milionária.md\|Segredos da Mente Milionária]]                                                         | T. Harv Eker                                                | 2019        |
-| [[notes/books/Pai Rico, Pai Pobre.md\|Pai Rico, Pai Pobre]]                                                                           | Robert Kiyosaki                                             | 2019        |
 | [[notes/books/O Valor do Amanha.md\|O Valor do Amanha]]                                                                               | Eduardo Giannetti                                           | 2019        |
 | [[notes/books/O Poder do Habito.md\|O Poder do Habito]]                                                                               | Charles Duhigg                                              | 2019        |
 | [[notes/books/O Homem Mais Rico da Babilonia.md\|O Homem Mais Rico da Babilonia]]                                                     | George Samuel Clason                                        | 2019        |
 | [[notes/books/Mais Esperto que o Diabo.md\|Mais Esperto que o Diabo]]                                                                 | Napoleon Hill                                               | 2019        |
 | [[notes/books/Independencia Financeira - O Guia do Pai Rico.md\|Independencia Financeira - O Guia do Pai Rico]]                       | Robert Kiyosaki                                             | 2019        |
+| [[notes/books/Pai Rico, Pai Pobre.md\|Pai Rico, Pai Pobre]]                                                                           | Robert Kiyosaki                                             | 2019        |
 | [[notes/books/Roube Como Um Artista.md\|Roube Como Um Artista]]                                                                       | Austin Kleon                                                | 2016        |
 
