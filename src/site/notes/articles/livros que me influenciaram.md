@@ -11,11 +11,20 @@ Fiz questão de não categorizar. Aqui tem livros de artes, finanças, programa�
 
 Todos esses temas fazem parte da minha vida como um todo e eu não faço questão alguma de tentar compartimentalizar cada tema separadamente.
 
-[TOC]
+---
+
+Conteúdo:
+
+- [[articles/livros que me influenciaram#Roube Como Um Artista|Roube Como Um Artista]]
+- [[articles/livros que me influenciaram#Androides Sonham Com Ovelhas Eletricas|Androides Sonham Com Ovelhas Eletricas]]
+- [[articles/livros que me influenciaram#O Valor do Amanha|O Valor do Amanha]]
+- [[articles/livros que me influenciaram#Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
+- [[articles/livros que me influenciaram#Segredos da Mente Milionária|Segredos da Mente Milionária]]
+- [[articles/livros que me influenciaram#Code Complete|Code Complete]]
 
 ---
 
-## [[notes/books/Roube Como Um Artista|Roube Como Um Artista]]
+## Roube Como Um Artista
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -41,7 +50,35 @@ Estude os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas qu
 
 ---
 
-## [[notes/books/O Valor do Amanha|O Valor do Amanha]]
+## Androides Sonham Com Ovelhas Eletricas
+
+Curiosidade: esse é o livro que inspirou o filme Blade Runner.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+#### ser dono de uma fraude
+
+No ambiente descrito no livro, animais verdadeiros são raros. Possuir um animal de estimação é extremamente raro e sinal de status e riqueza. Porém a tecnologia evoluiu de tal forma que existem réplicas de animais, que são mais acessíveis ao público geral. O trecho a seguir descreve o pensamento do Rick Deckard enquanto ele conversa com seu vizinho sobre criação de (réplicas de) animais:
+
+> A coisa que mais sonhava no mundo era em ter um cavalo, de fato qualquer animal. **Ser dono de uma fraude era algo que ia gradualmente desmoralizando qualquer um**. No entanto, do ponto de vista da sociedade, era necessário.
+
+O que ficou marcado aqui pra mim é o fato de que **ser dono de uma fraude é desmoralizante**.
+
+Mesmo que ninguém saiba, lá dentro do seu íntimo você sabe que existe uma fraude. E isso vai lentamente consumindo sua auto-estima. Você não quer reconhecer mas começa a sentir vergonha de si mesmo. Mesmo que se esforce pra não pensar nisso, lá no seu subconsciente você sabe que é "dono de uma fraude".
+
+Provavelmente você se tornará mal-humorado e irritadiço. Começará a criticar os outros e dar muita atenção e destaque ao erro dos outros. Isso é uma fuga para tentar esquecer que você é "dono de uma fraude".
+
+
+
+</div></div>
+
+
+---
+
+## O Valor do Amanha
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -70,7 +107,7 @@ Falando de outra forma: se eu deixar pra praticar exercícios físicos somente q
 
 ---
 
-## [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
+## Pai Rico, Pai Pobre
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -134,7 +171,7 @@ Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar c
 
 ---
 
-## [[notes/books/Segredos da Mente Milionária|Segredos da Mente Milionária]]
+## Segredos da Mente Milionária
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -201,7 +238,7 @@ Não é pra fazer isso só quando você "ficar rico". Você deve administrar seu
 
 ---
 
-## [[notes/books/code-complete/Code Complete|Code Complete]]
+## Code Complete
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -227,34 +264,6 @@ Isso foi bem 🤯 *mindblowing* pra mim. Me deixou alerta no meu trabalho, sempr
 **Observação**: não esquecer da [Lei de conservação da complexidade](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity) (aka [Tesler's Law](https://www.uxtoast.com/ux-laws/teslers-law)):
 
 > Toda aplicação tem uma quantidade inerente e irredutível de complexidade. A única questão é: quem vai lidar com isso - o usuário, o desenvolvedor da aplicação, ou o desenvolvedor da plataforma?
-
-
-
-</div></div>
-
-
----
-
-## [[notes/books/Androides Sonham Com Ovelhas Eletricas|Androides Sonham Com Ovelhas Eletricas]]
-
-Curiosidade: esse é o livro que inspirou o filme Blade Runner.
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-#### ser dono de uma fraude
-
-No ambiente descrito no livro, animais verdadeiros são raros. Possuir um animal de estimação é extremamente raro e sinal de status e riqueza. Porém a tecnologia evoluiu de tal forma que existem réplicas de animais, que são mais acessíveis ao público geral. O trecho a seguir descreve o pensamento do Rick Deckard enquanto ele conversa com seu vizinho sobre criação de (réplicas de) animais:
-
-> A coisa que mais sonhava no mundo era em ter um cavalo, de fato qualquer animal. **Ser dono de uma fraude era algo que ia gradualmente desmoralizando qualquer um**. No entanto, do ponto de vista da sociedade, era necessário.
-
-O que ficou marcado aqui pra mim é o fato de que **ser dono de uma fraude é desmoralizante**.
-
-Mesmo que ninguém saiba, lá dentro do seu íntimo você sabe que existe uma fraude. E isso vai lentamente consumindo sua auto-estima. Você não quer reconhecer mas começa a sentir vergonha de si mesmo. Mesmo que se esforce pra não pensar nisso, lá no seu subconsciente você sabe que é "dono de uma fraude".
-
-Provavelmente você se tornará mal-humorado e irritadiço. Começará a criticar os outros e dar muita atenção e destaque ao erro dos outros. Isso é uma fuga para tentar esquecer que você é "dono de uma fraude".
 
 
 
