@@ -16,11 +16,15 @@ Todos esses temas fazem parte da minha vida como um todo e eu não faço questã
 Conteúdo:
 
 - [[articles/livros que me influenciaram#Roube Como Um Artista|Roube Como Um Artista]]
+- [[articles/livros que me influenciaram#Hackers and Painters|Hackers and Painters]]
 - [[articles/livros que me influenciaram#Androides Sonham Com Ovelhas Eletricas|Androides Sonham Com Ovelhas Eletricas]]
 - [[articles/livros que me influenciaram#O Valor do Amanha|O Valor do Amanha]]
 - [[articles/livros que me influenciaram#Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
 - [[articles/livros que me influenciaram#Segredos da Mente Milionária|Segredos da Mente Milionária]]
 - [[articles/livros que me influenciaram#Code Complete|Code Complete]]
+
+
+
 
 ---
 
@@ -46,6 +50,45 @@ Estude os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas qu
 
 
 </div></div>
+
+
+---
+
+## Hackers and Painters
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### Principais Aprendizados
+
+**Escolha suas batalhas.**
+
+Em tradução livre, o trecho diz o seguinte:
+
+> (...) **escolha suas batalhas.**
+> 
+> Imagine que no futuro exista um movimento para banir a cor amarela. Propostas de pintar qualquer coisa de amarela são denunciadas como "amarelistas", bem como qualquer pessoa suspeita de gostar da cor. Pessoas que gostam da cor laranja são toleradas, mas vistas como suspeitas.
+> 
+> Imagine que você perceba que não há nada de errado com o amarelo. Se você sai por aí dizendo isso, você também será denunciado como um amarelista, e você vai se ver tendo um monte de discussões com os anti-amarelistas. Se o seu objetivo na vida é reabilitar a cor amarela, isso pode ser o que você quer. Mas se você está mais interessados em outras questões, ser rotulado como um amarelista será apenas uma perturbação. *Discuta com idiotas e você se torna um idiota.*
+
+Esse trecho do livro foi muito libertador pra mim! Parece que ele descreveu com palavras claras algo que eu já praticava meio que sem querer.
+
+Certamente existem infinitos temas e pautas que me incomodam, mas quando eu paro pra pensar "Será que estou mesmo querendo brigar por isso? Quero sacrificar o tempo com minha família para ficar debatendo sobre esse tema?"
+
+Antes de entrar em discussões sobre um tema polêmico, eu me faço as seguintes perguntas:
+
+- Isso é algo que está me incomodando?
+- Isso é algo que me afeta diretamente?
+- Isso é algo que vai melhorar/piorar a minha vida?
+
+Essas perguntas me ajudam a não desperdiçar meu tempo me envolvendo em discussões infrutíferas, que muito frequentemente não muda a opinião de ninguém e só gera animosidades desnecessárias.
+
+
+
+</div></div>
+
 
 
 ---
