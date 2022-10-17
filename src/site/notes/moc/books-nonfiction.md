@@ -15,8 +15,8 @@
 | [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md\|Os 7 Habitos das pessoas Altamente Eficazes]]        | Stephen Covey                                               | 2022        |
 | [[notes/books/12-regras/12 Regras Para a Vida.md\|12 Regras Para a Vida]]                                                             | Jordan Peterson                                             | 2022        |
 | [[notes/books/Os 5 Desafios das Equipes.md\|Os 5 Desafios das Equipes]]                                                               | Patrick Lencioni                                            | 2021        |
-| [[notes/books/Filho Rico Filho Vencedor.md\|Filho Rico Filho Vencedor]]                                                               | Robert Kiyosaki                                             | 2021        |
 | [[notes/books/Hackers and Painters.md\|Hackers and Painters]]                                                                         | Paul Graham                                                 | 2021        |
+| [[notes/books/Filho Rico Filho Vencedor.md\|Filho Rico Filho Vencedor]]                                                               | Robert Kiyosaki                                             | 2021        |
 | [[notes/books/I will teach you to be rich.md\|I will teach you to be rich]]                                                           | Ramit Sethi                                                 | 2020        |
 | [[notes/books/Segredos da Mente Milionária.md\|Segredos da Mente Milionária]]                                                         | T. Harv Eker                                                | 2019        |
 | [[notes/books/O Valor do Amanha.md\|O Valor do Amanha]]                                                                               | Eduardo Giannetti                                           | 2019        |
