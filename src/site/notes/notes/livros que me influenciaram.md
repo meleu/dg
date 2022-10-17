@@ -110,6 +110,50 @@ Outras citações marcantes:
 
 ### Principais Aprendizados
 
+**Dinheiro vs. Amor**
+
+> "O dinheiro não é mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
+
+Posteriormente descobri que o nome desse tipo de falácia é [falsa dicotomia](https://en.wikipedia.org/wiki/False_dilemma).
+
+
+**Separe uma grana pra curtir**
+
+Uma coisa que pode parecer surpresa pra maioria das pessoas, é que meu principal aprendizado deste livro foi:
+
+**Não adianta ser sovina!** Você também precisa gastar dinheiro para curtir a vida.
+
+Nas palavras do autor:
+
+> Temos uma natureza holística. Não podemos afetar uma parte da vida sem afetar outra. Algumas pessoas economizam ao extremo. Com isso o seu ser lógico e responsável fica satisfeito, mas o seu "instinto primitivo" não. No fim esse instinto primitivo, ávido por satisfação, diz: "Chega! Quero um pouco de atenção também!". E sabota os seus resultados.
+
+Portanto, separe uma grana para curtir!
+
+O livro não fala muito disso, mas o grande perigo desse "ensinamento" é não chamar a tenção para os perigos da **antecipação do consumo**, muito facilitada pelo uso do Cartão de Crédito.
+
+O grande problema é que via de regra as pessoas é não têm controle algum sobre seus gastos. Não ter noção nenhuma de pra onde seu dinheiro está indo.
+
+**Vida fácil, escolhas difíceis**
+
+Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma ideia em vários outros lugares) foi sobre **vida fácil**:
+
+> Se você só estiver disposto a realizar o que é fácil, a vida será difícil. Mas se concordar em fazer o que é difícil, a vida será fácil.
+
+Eu prefiro resumir assim: Vida fácil, escolhas difíceis. Vida difícil, escolhas fáceis.
+
+
+**Quando devo começar a me preocupar em administrar meu dinheiro?**
+
+Agora.
+
+Não é pra fazer isso só quando você "ficar rico". Você deve administrar seu dinheiro independente da quantidade de dinheiro que tem.
+
+> **O hábito de administrar o dinheiro é mais importante do que a quantidade de dinheiro que você tem.**
+> 
+> Quem pretende passar a controlar o dinheiro assim que "sair do buraco" se comporta da mesma forma que o obeso que diz "Vou começar a fazer exercícios e dieta depois que perder 10kg".
+
+
+
 
 </div></div>
 
@@ -124,6 +168,25 @@ Outras citações marcantes:
 
 
 ### Principais Aprendizados
+
+**Heurísticas > Algoritmos**
+
+Ou falando com minhas palavras: **Perguntas são mais valiosas que respostas.**
+
+Algoritmos nos fornecem soluções para um determinado problema. Heurísticas nos fornecem dicas de como criar algoritmos.
+
+Eu prefiro falar da seguinte forma: algoritmos nos fornecem respostas, heurísticas nos mostram quais são as perguntas. Eu acredito que as perguntas são mais valiosas pois elas mudam com menos frequência. As respostas podem variar muito dependendo do contexto, mas as perguntas permanecem as mesmas.
+
+**Controlar a complexidade**
+
+**O principal objetivo de um profissional de software é controlar a complexidade.**
+
+Isso foi bem 🤯 *mindblowing* pra mim. Me deixou alerta no meu trabalho, sempre atento a situações onde a complexidade das soluções está saindo de controle. Se uma determinada estratégia aumenta a complexidade, muito provavelmente este não é o melhor caminho.
+
+**Observação**: não esquecer da [Lei de conservação da complexidade](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity) (aka [Tesler's Law](https://www.uxtoast.com/ux-laws/teslers-law)):
+
+> Toda aplicação tem uma quantidade inerente e irredutível de complexidade. A única questão é: quem vai lidar com isso - o usuário, o desenvolvedor da aplicação, ou o desenvolvedor da plataforma?
+
 
 
 </div></div>
@@ -152,3 +215,5 @@ Provavelmente você se tornará mal-humorado e irritadiço. Começará a critica
 
 
 </div></div>
+
+
