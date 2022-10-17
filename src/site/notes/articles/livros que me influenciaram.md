@@ -7,9 +7,11 @@
 
 Aqui está uma lista de livros que influenciaram minha maneira de encarar a vida e o principal aprendizado que tive com cada um deles.
 
-Fiz questão de não categorizar. Aqui tem livros de artes, finanças, programação, filosofia e ficção.
+Fiz questão de não categorizar por tema. Aqui tem livros de artes, finanças, programação, filosofia e ficção. Não existe uma fronteira clara mostrando onde termina um tema e começa o outro, todos eles fazem parte da minha vida como um todo.
 
-Todos esses temas fazem parte da minha vida como um todo e eu não faço questão alguma de tentar compartimentalizar cada tema separadamente.
+Obviamente, com o tempo essa lista vai crescer.
+
+Última atualização: `= this.file.mday`.
 
 ---
 
