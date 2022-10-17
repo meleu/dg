@@ -5,6 +5,23 @@
 
 # Hi! 👋 I'm meleu
 
+---
+
+**Table of Contents**:
+
+- [[about#meleu in 15 seconds|meleu in 15 seconds]]
+- [[about#meleu in 2 minutes|meleu in 2 minutes]]
+- [[about#Interviews & Podcasts|Interviews & Podcasts]]
+- [[about#Main technologies in my toolbox|Main technologies in my toolbox]]
+- [[about#Open Source projects I'm proud of|Open Source projects I'm proud of]]
+	- [[about#Open Source projects I'm proud of|meleu.sh]]
+	- [[about#Open Source projects I'm proud of|RetroAchievements]]
+	- [[about#Open Source projects I'm proud of|RADocs]]
+	- [[about#Open Source projects I'm proud of|RANews]]
+	- [[about#Open Source projects I'm proud of|RABot]]
+
+---
+
 ## meleu in 15 seconds
 
 - 👨‍💻 I'm a Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
@@ -38,6 +55,14 @@ Since 2018, I started to manage Linux servers for a few customers/friends and al
 
 In 2021 I finally left the oil industry. I started my career as DevOps Engineer, mainly handling CI/CD pipelines and deploying containerized applications with Kubernetes. During that time I realized how beneficial it was for me to have a broad experience with industrial processes. It's a highly valuable knowledge to have in the DevOps world.
 
+
+## Interviews & Podcasts
+
+Because I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and the project.
+
+- [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
+- [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
+- [RA Talks #4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
 
 ## Main technologies in my toolbox
@@ -122,13 +147,4 @@ Technologies used:
 - JavaScript/NodeJS
 - [DiscordJS](https://discord.js.org/#/)
 - A bunch 3rd party APIs.
-
-
-## Interviews & Podcasts
-
-Because I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and the project.
-
-- [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
-- [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
-- [RA Talks #4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
