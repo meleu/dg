@@ -11,8 +11,6 @@ Fiz questão de não categorizar por tema. Aqui tem livros de artes, finanças, 
 
 Obviamente, com o tempo essa lista vai crescer.
 
-Última atualização: `= this.file.mday`.
-
 ---
 
 Conteúdo:
@@ -199,7 +197,7 @@ Quanto mais precisamos de dinheiro, mais poder ele exerce sobre nós. Todos nós
 
 **Ninguém fica rico trabalhando. As pessoas ficam ricas em casa.**
 
-Claro que falando dessa forma soa mais como um *clickbait*. O conceito completo é:
+Claro que falando dessa forma soa como um *clickbait*. Na verdade o conceito completo é o seguinte:
 
 > É no trabalho que você ganha dinheiro e é em casa que decide o que fazer com ele. O que você faz com o seu dinheiro é o que o torna rico ou pobre.
 
@@ -209,7 +207,7 @@ Muito provavelmente, se você ganhar mais, vai acabar gastando mais. E isso vai 
 
 Claro que ganhar mais dinheiro é bom, mas use estratégias inteligentes para isso.
 
-Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos.
+Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos. Desta forma você consegue cobrar mais por seu trabalho.
 
 Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar com qualidade. Isso só vai te prejudicar. A péssima qualidade do seu trabalho vai ser notada e isso vai arruinar seu networking.
 
