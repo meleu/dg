@@ -9,9 +9,9 @@ A maioria dos meus artigos em português são publicados em <https://meleu.sh>, 
 Veja também alguns [[moc/traducoes|artigos que eu traduzi]] de outros autores.
 
 
-| File                                                                     | Título                                            |
-| ------------------------------------------------------------------------ | ------------------------------------------------- |
-| [[articles/livros que me influenciaram.md\|livros que me influenciaram]] | Livros que me influenciaram                       |
-| [[articles/aprenda-ruby.md\|aprenda-ruby]]                               | A melhor maneira que encontrei para aprender Ruby |
-| [[articles/ergodox-ez.md\|ergodox-ez]]                                   | Teclado Ergodox EZ vale a pena?                   |
+| File                                                                     | Título                                            | Última modificação |
+| ------------------------------------------------------------------------ | ------------------------------------------------- | ------------------ |
+| [[articles/livros que me influenciaram.md\|livros que me influenciaram]] | Livros que me influenciaram                       | 2022-10-17         |
+| [[articles/ergodox-ez.md\|ergodox-ez]]                                   | Teclado Ergodox EZ vale a pena?                   | 2022-10-15         |
+| [[articles/aprenda-ruby.md\|aprenda-ruby]]                               | A melhor maneira que encontrei para aprender Ruby | 2022-10-14         |
 
