@@ -15,14 +15,14 @@ Para tentar aprender como me relacionar melhor com o dinheiro e não depender de
 
 ### Principais Aprendizados
 
-#### Dinheiro vs. Amor
+**Dinheiro vs. Amor**
 
 > "O dinheiro não é mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
 
 Posteriormente descobri que o nome desse tipo de falácia é [falsa dicotomia](https://en.wikipedia.org/wiki/False_dilemma).
 
 
-#### Separe uma grana pra curtir
+**Separe uma grana pra curtir**
 
 Uma coisa que pode parecer surpresa pra maioria das pessoas, é que meu principal aprendizado deste livro foi:
 
@@ -38,8 +38,7 @@ O livro não fala muito disso, mas o grande perigo desse "ensinamento" é não c
 
 O grande problema é que via de regra as pessoas é não têm controle algum sobre seus gastos. Não ter noção nenhuma de pra onde seu dinheiro está indo.
 
-
-#### Vida fácil, escolhas difíceis
+**Vida fácil, escolhas difíceis**
 
 Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma ideia em vários outros lugares) foi sobre **vida fácil**:
 
@@ -48,7 +47,7 @@ Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma
 Eu prefiro resumir assim: Vida fácil, escolhas difíceis. Vida difícil, escolhas fáceis.
 
 
-#### Quando devo começar a me preocupar em administrar meu dinheiro?
+**Quando devo começar a me preocupar em administrar meu dinheiro?**
 
 Agora.
 
