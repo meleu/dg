@@ -14,7 +14,6 @@
 - [[about#Interviews & Podcasts|Interviews & Podcasts]]
 - [[about#Main technologies in my toolbox|Main technologies in my toolbox]]
 - [[about#Open Source projects I'm proud of|Open Source projects I'm proud of]]
-	- [[about#Open Source projects I'm proud of|meleu.sh]]
 	- [[about#Open Source projects I'm proud of|RetroAchievements]]
 	- [[about#Open Source projects I'm proud of|RADocs]]
 	- [[about#Open Source projects I'm proud of|RANews]]
@@ -85,12 +84,6 @@ Because I put a lot of effort into the [RetroAchievements](https://retroachievem
 
 
 ## Open Source projects I'm proud of
-
-### meleu.sh
-
-- website: <https://meleu.sh>
-
-Sharing knowledge about command line and shell scripting (most of the articles are in Portuguese but I'm slowly translating some of them to English). Built with [hugo](https://gohugo.io/) Static Site Generator.
 
 
 ### RetroAchievements
