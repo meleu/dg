@@ -26,7 +26,7 @@ Posteriormente descobri que o nome desse tipo de falácia é [falsa dicotomia](h
 
 Uma coisa que pode parecer surpresa pra maioria das pessoas, é que meu principal aprendizado deste livro foi:
 
-**Não adianta ser sovina!** Você também precisa gastar dinheiro para curtir a vida.
+Não adianta ser sovina! Você também precisa gastar dinheiro para curtir a vida.
 
 Nas palavras do autor:
 
@@ -46,6 +46,14 @@ Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma
 
 Eu prefiro resumir assim: Vida fácil, escolhas difíceis. Vida difícil, escolhas fáceis.
 
+Exemplos práticos (meramente ilustrativos e super-simplificados):
+
+- O que é mais fácil: comer sorvete ou agrião?
+    - Quem terá uma vida mais fácil: quem come sorvete ou quem come agrião?
+- O que é mais fácil: jogar videogame ou ler um bom livro?
+    - Quem terá uma vida mais fácil: quem joga videogame ou quem lê?
+
+Observação: não estou fazendo nenhum juízo de valor. Aliás, eu adoro jogar videogame. O importante aqui é ter consciência de que quando eu estou (por exemplo) jogando videogame, eu estou fazendo a escolha fácil. Se o meu contexto no momento permitir, eu vou é jogar mesmo! Faça uma auto-avaliação honesta sempre que fazer essas escolhas.
 
 **Quando devo começar a me preocupar em administrar meu dinheiro?**
 
