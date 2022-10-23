@@ -21,5 +21,5 @@ These are the tools I use:
 
 - computer: Anything able to run Linux and the softwares listed above.
 - mouse: vertical mouse
-- keyboard: [[articles/ergodox-ez|ergodox-ez]]
+- keyboard: [[articles/Ergodox EZ|Ergodox EZ]]
 - desk: [[GenioDesk Pro|GenioDesk Pro]] standing desk
