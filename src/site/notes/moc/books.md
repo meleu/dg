@@ -6,7 +6,8 @@
 
 ## currently reading
 
-- [[As Viagens de Gulliver|As Viagens de Gulliver]]
+- [[O Estrangeiro|O Estrangeiro]]
+- [[notes/books/Building a Second Brain|Building a Second Brain]]
 - [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes|Os 7 Habitos das pessoas Altamente Eficazes]]
 
 
@@ -47,7 +48,7 @@ Maybe this list can tell a bit about who I am.
 - [[Me Poupe!|Me Poupe!]]
 - ⭐ [[notes/books/code-complete/Code Complete|Code Complete]]
 - [[Como Ler Livros|Como Ler Livros]]
-- [[Ghost in the Shell|Ghost in the Shell]]
+- [[notes/Ghost in the Shell|Ghost in the Shell]]
 - [[O Livro de Deus|O Livro de Deus]]
 - [[Business Model You|Business Model You]]
 
