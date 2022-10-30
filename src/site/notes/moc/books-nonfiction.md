@@ -6,7 +6,6 @@
 
 | File                                                                                                                                  | author                                                      | When I read |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------- |
-| [[notes/books/12-regras/12 Regras Para a Vida.md\|12 Regras Para a Vida]]                                                             | Jordan Peterson                                             | 2022        |
 | [[notes/books/Sapiens.md\|Sapiens]]                                                                                                   | Yuval Noah Harari                                           | 2022        |
 | [[notes/books/Personal Kanban.md\|Personal Kanban]]                                                                                   | <ul><li>Tonianne DeMaria Barry</li><li>Jim Benson</li></ul> | 2022        |
 | [[notes/books/O Melhor do Mundo - Seth Godin.md\|O Melhor do Mundo - Seth Godin]]                                                     | Seth Godin                                                  | 2022        |
@@ -14,16 +13,17 @@
 | [[notes/books/Discurso sobre a servidao voluntaria.md\|Discurso sobre a servidao voluntaria]]                                         | Etinne de La Boetie                                         | 2022        |
 | [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples.md\|Digital Zettelkasten - Principles, Methods, and Examples]] | Dave Kadavy                                                 | 2022        |
 | [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md\|Os 7 Habitos das pessoas Altamente Eficazes]]        | Stephen Covey                                               | 2022        |
+| [[notes/books/12-regras/12 Regras Para a Vida.md\|12 Regras Para a Vida]]                                                             | Jordan Peterson                                             | 2022        |
 | [[notes/books/Os 5 Desafios das Equipes.md\|Os 5 Desafios das Equipes]]                                                               | Patrick Lencioni                                            | 2021        |
-| [[notes/books/Filho Rico Filho Vencedor.md\|Filho Rico Filho Vencedor]]                                                               | Robert Kiyosaki                                             | 2021        |
 | [[notes/books/Hackers and Painters.md\|Hackers and Painters]]                                                                         | Paul Graham                                                 | 2021        |
+| [[notes/books/Filho Rico Filho Vencedor.md\|Filho Rico Filho Vencedor]]                                                               | Robert Kiyosaki                                             | 2021        |
 | [[notes/books/I will teach you to be rich.md\|I will teach you to be rich]]                                                           | Ramit Sethi                                                 | 2020        |
 | [[notes/books/Segredos da Mente Milionária.md\|Segredos da Mente Milionária]]                                                         | T. Harv Eker                                                | 2019        |
+| [[notes/books/Pai Rico, Pai Pobre.md\|Pai Rico, Pai Pobre]]                                                                           | Robert Kiyosaki                                             | 2019        |
 | [[notes/books/O Valor do Amanha.md\|O Valor do Amanha]]                                                                               | Eduardo Giannetti                                           | 2019        |
 | [[notes/books/O Poder do Habito.md\|O Poder do Habito]]                                                                               | Charles Duhigg                                              | 2019        |
 | [[notes/books/O Homem Mais Rico da Babilonia.md\|O Homem Mais Rico da Babilonia]]                                                     | George Samuel Clason                                        | 2019        |
 | [[notes/books/Mais Esperto que o Diabo.md\|Mais Esperto que o Diabo]]                                                                 | Napoleon Hill                                               | 2019        |
 | [[notes/books/Independencia Financeira - O Guia do Pai Rico.md\|Independencia Financeira - O Guia do Pai Rico]]                       | Robert Kiyosaki                                             | 2019        |
-| [[notes/books/Pai Rico, Pai Pobre.md\|Pai Rico, Pai Pobre]]                                                                           | Robert Kiyosaki                                             | 2019        |
 | [[notes/books/Roube Como Um Artista.md\|Roube Como Um Artista]]                                                                       | Austin Kleon                                                | 2016        |
 
