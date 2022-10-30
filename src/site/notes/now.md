@@ -6,6 +6,7 @@
 
 My current focus is to have an in-depth knowledge of Kubernetes.
 
+Also, the idea of **managing complexity** is something that recently I'm constantly thinking (while reading the [[notes/books/code-complete/Code Complete|Code Complete]] book).
 
 ## Studying
 
