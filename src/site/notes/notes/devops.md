@@ -21,6 +21,13 @@
 - [[notes/videos/video - five-years-of-devops|video - five-years-of-devops]] - GOTO 2014 • Five Years of DevOps: Where are we Now?
 
 
+### I want to watch
+
+- https://www.youtube.com/watch?v=Z66-us_VDu8
+- https://www.youtube.com/watch?v=RTEgE2lcyk4
+
+
+
 ## Books
 
 - [[O Projeto Fênix|O Projeto Fênix]] - The Phoenix Project, by Gene Kim, Kevin Behr and George Spafford
