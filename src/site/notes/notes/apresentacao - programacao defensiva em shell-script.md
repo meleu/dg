@@ -49,7 +49,15 @@ A apresentação é dividida em três partes:
 
 ---
 
+## Parte 1: Falhe o mais cedo possível (com bash "strict mode")
+
+<http://redsymbol.net/articles/unofficial-bash-strict-mode/>
+
+
+---
+
 ## Exemplo 1
+
 
 ```bash
 #!/usr/bin/env bash
@@ -84,7 +92,7 @@ Fazemos isso utilizando `set -o errexit`, que também pode ser expressado atrav�
 
 ---
 
-Solução
+## Solução
 
 ```bash
 # forma curta
@@ -108,7 +116,7 @@ Sai imediatamente se um comando termina com falha (status não-zero).
 - R: `|| true`
 
 - P: O `set -e` é POSIX? Posso usar com o `/bin/sh`?
-- R: Sim!
+- R: Sim! 👍
 
 
 ---
@@ -176,3 +184,180 @@ Solução:
 
 O valor de retorno de uma pipeline é o status do último comando que falhou, ou sucesso se nenhum comando falhar.
 
+---
+
+
+## FAQ
+
+- P: O `set -o pipefail` é POSIX? Posso usar com o `/bin/sh`?
+- R: Não. ☹️
+
+
+---
+
+## Não permita variáveis não declaradas
+
+### Exemplo
+
+```bash
+#!/usr/bin/env bash
+
+set -u # variáveis não declaradas = erro
+
+echo "Hello, ${name}"
+echo "Seja bem vindo..."
+```
+
+%%
+Essa opção serve para que variáveis não declaradas sejam consideradas como erro.
+
+Deixa eu ser bem sincero com vocês: eu estou mencionando essa técnica do `set -u` só por uma questão de completude. Por que se vocês pesquisarem por aí "bash strict mode", vocês vão ver esse `set -u` e vão logo pensar, pq será que o não falou disso?
+%%
+
+---
+
+## Por que eu não gosto de usar `set -u`?
+
+É comum definirmos o comportamento do script baseado no valor de uma variável de ambiente que não foi declarada explicitamente no script, exemplo:
+
+```bash
+#!/usr/bin/env bash
+
+set -u
+
+echo "começo do script..."
+
+if [[ -z "${ENV_VAR}" ]]; then
+  echo "--> ENV_VAR está vazio..."
+  echo "--> vamos fazer algo quanto a isso."
+fi
+
+echo "fim do script"
+```
+
+%%
+Imagine que dentro do seu script você faz uma verificação de uma variável que você espera que seja definida no "shell pai", ou no ambiente que chama esse script.
+
+Se a variável estiver vazia, você quer que seu script trate isso de alguma forma.
+
+Mas acontece que como a gente definiu o `set -u`, o script vai quebrar. Isso não é muito legal né...
+%%
+
+---
+
+Exemplo da "vida real", considerando uma pipeline do GitLab CI:
+
+```bash
+set -u
+
+if [[ "${CI_COMMIT_BRANCH}" == 'dev' ]]; then
+  echo "Faz algo relacionado a branch 'dev'..."
+  # ...
+fi
+```
+
+Problema: a variável `CI_COMMIT_BRANCH` não é preenchida quando a pipeline é disparada por um Merge Request ou pela criação de tags.
+
+%%
+Até existe uma maneira de contornar isso, que é usando a técnica do "valor default" pra uma string vazia: `${ENV_VAR:-}`.
+
+Eu particularmente não gosto disso por que eu acho que polui o código. Pode confundir a pessoa que vai dar manutenção nesse código futuramente... Enfim, eu acho que o código já começa a ficar desnecessariamente complexo.
+
+Aí pode surgir aquela pergunta: mas meleu, você não vai querer tratar esse problema de referenciar uma variável que não foi definida?
+
+A resposta é sim, eu quero tratar isso sim, mas vai ser de outra forma, que é o que nós vamos ver daqui a pouco na terceira parte da apresentação, quando vamos falar do shellcheck.
+%%
+
+---
+
+## Parte 1: Resumo
+
+```bash
+# sai do script se um comando falhar
+set -e
+
+# termina com falha se algum comando entre pipes falhar
+set -o pipefail
+
+# considera variáveis não definidas com um erro
+# (obs.: prefiro usar shellcheck)
+set -u
+```
+
+---
+
+## Parte 2: falhe ruidosamente (com `trap`)
+
+Saiba precisamente aonde o seu script está falhando.
+
+```bash
+#!/usr/bin/env bash
+
+set -Eeo pipefail
+
+trap 'echo "${BASH_SOURCE}:${LINENO}:${FUNCNAME}"' ERR
+```
+
+
+
+---
+
+## Variáveis úteis definidas pelo bash
+
+- `BASH_SOURCE`: o nome do arquivo onde esta variável está sendo referenciada.
+- `LINENO`: linha exata aonde esta variável está sendo referenciada.
+- `FUNCNAME`: nome da função onde esta variável está sendo referenciada.
+
+---
+
+```bash
+#!/usr/bin/env bash
+# script-info.sh
+
+set -eo pipefail
+
+echo "--> informações de fora da função <--"
+echo "BASH_SOURCE='${BASH_SOURCE}'"
+echo "LINENO='${LINENO}'"
+echo "FUNCNAME='${FUNCNAME}'"
+echo
+
+main() {
+  echo "--> informações de dentro da função <--"
+  echo "BASH_SOURCE='${BASH_SOURCE}'"
+  echo "LINENO='${LINENO}'"
+  echo "FUNCNAME='${FUNCNAME}'"
+  echo
+  echo "fim!"
+}
+
+main "$@"
+```
+
+---
+
+## Como o `trap` funciona?
+
+```bash
+trap COMANDO SINAL
+```
+
+
+%%
+O trap serve para executar um COMANDO quando é detectado um SINAL.
+
+O primeiro argumento é o COMANDO e o segundo é o SINAL.
+
+"Caramba meleu, que negócio é esse de sinal?"
+
+Não vamos gastar muito tempo aqui entrando no detalhe de como funciona gerenciamento de sinais. Então vamos simplificar da seguinte forma: o kernel permite que você envie sinais para os processos.
+
+A maneira mais famosa de enviar sinais, e que muita gente nem sabe, é através do comando `kill`.
+
+Quando você manda um `kill` e o ID de um processo, você na verdade está enviando um sinal para o kernel pra terminar aquele processo. Quando você manda um `kill -9` e o ID do processo, você está enviando um sinal pro kernel matar aquele processo imediatamente.
+
+Pois bem, o `trap` usado em um script serve para "capturar" esse sinal e executar um COMANDO quando esse sinal for recebido.
+
+
+
+%%
