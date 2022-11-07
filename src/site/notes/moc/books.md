@@ -6,7 +6,6 @@
 
 ## currently reading
 
-- [[O Estrangeiro|O Estrangeiro]]
 - [[notes/books/Building a Second Brain|Building a Second Brain]]
 - [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes|Os 7 Habitos das pessoas Altamente Eficazes]]
 
@@ -27,6 +26,7 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[notes/books/O Estrangeiro|O Estrangeiro]]
 - [[notes/books/Personal Kanban|Personal Kanban]]
 - [[notes/A Identidade|A Identidade]]
 - [[notes/books/Crime e Castigo|Crime e Castigo]]
