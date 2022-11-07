@@ -4,8 +4,17 @@
 
 # Open Source projects I'm proud of
 
+---
 
-### RetroAchievements
+- [[notes/Open Source projects I'm proud of#RetroAchievements - project/community management|RetroAchievements - project/community management]]
+- [[notes/Open Source projects I'm proud of#RADocs - documentation pipeline|RADocs - documentation pipeline]]
+- [[notes/Open Source projects I'm proud of#RANews - webdesign/webdevelopment|RANews - webdesign/webdevelopment]]
+- [[notes/Open Source projects I'm proud of#RABot - Discord Bot|RABot - Discord Bot]]
+
+---
+
+
+## RetroAchievements - project/community management
 
 **NOTE**: I'm **not** the creator of this project.
 
@@ -20,7 +29,7 @@ What I did:
 - community management
 
 
-### RADocs
+## RADocs - documentation pipeline
 
 - website: <https://docs.retroachievements.org>
 
@@ -34,7 +43,7 @@ I created this project using the following technologies:
 - [GitHub Actions](https://github.com/RetroAchievements/docs/blob/master/.github/workflows/deploy-radocs.yml), to easily deploy the website.
 
 
-### RANews
+## RANews - webdesign/webdevelopment
 
 - website: <https://news.retroachievements.org>
 
@@ -48,7 +57,7 @@ Technologies used
 - [Jekyll](https://jekyllrb.com/), as the Static Site Generator.
 
 
-### RABot
+## RABot - Discord Bot
 
 A Discord bot for the RetroAchievements community.
 
