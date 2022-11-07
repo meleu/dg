@@ -7,8 +7,6 @@
 
 Use `dfimage` to "reverse engineer" the Dockerfile.
 
-- repo: <https://github.com/LanikSJ/dfimage>
-
 ```bash
 # "install" dfimage
 docker pull ghcr.io/laniksj/dfimage
