@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
-# Digital Garden
+# 🌱 Digital Garden
 
 Definition from <https://nesslabs.com/digital-garden-set-up>:
 
