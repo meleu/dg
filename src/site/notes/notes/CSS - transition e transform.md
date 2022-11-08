@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/css-transition-e-transform/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/css-transition-e-transform/"}
 ---
 
 ## transition e transform
