@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/5-ci-cd-pipeline-for-node-js-application/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/5-ci-cd-pipeline-for-node-js-application/"}
 ---
 
 # 5 - CI-CD pipeline for Node.js Application
 
-- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course\|GitLab CICD - Nana course]]
 
 Repository: <https://gitlab.com/nanuchi/mynodeapp-cicd-project>
 
