@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-modularidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-modularidade/"}
 ---
 
 # Regra da Modularidade - The Art of Unix Programming
@@ -11,4 +11,4 @@
 
 > A única maneira de escrever software complexo que não vai cair de cara no chão é manter baixa sua complexidade global - construí-lo a partir de partes simples conectadas por interfaces bem definidas, para que a maioria dos problemas sejam locais e você possa ter alguma esperança de atualizar uma parte sem quebrar o todo.
 
-Isso parece ser o principal motivador para a adoção do paradigma de [[notes/microsservicos|microsservicos]] para desenvolvimento de complexos sistemas de software atualmente (estou escrevendo em 2021).
+Isso parece ser o principal motivador para a adoção do paradigma de [[notes/microsservicos\|microsservicos]] para desenvolvimento de complexos sistemas de software atualmente (estou escrevendo em 2021).
