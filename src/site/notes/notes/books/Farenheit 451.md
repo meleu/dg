@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/farenheit-451/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/farenheit-451/"}
 ---
 
 
@@ -13,7 +13,7 @@ Lido em fevereiro/2019
 
 Iniciei o ano de 2019 com a intenção de ler sobre distopias. E esse livro acabou sendo uma excelente leitura.
 
-O livro mostra como a sociedade do espetáculo é o combustível que causa a [[notes/books/Discurso sobre a servidao voluntaria|servidão voluntária]].
+O livro mostra como a sociedade do espetáculo é o combustível que causa a [[notes/books/Discurso sobre a servidao voluntaria\|servidão voluntária]].
 
 ## Citações
 
@@ -43,7 +43,7 @@ Beatty falando sobre como surgiu a nova função dos bombeiros (queimar livros):
 
 > [No século 19, câmera lenta] Depois, no século vinte, acelere sua câmera. Livros abreviados. Condensações. Resumos. Tabloides. Tudo subordinado às gags, ao final emocionante.
 > (...)
-> A mente humana entra em turbilhão sob as mãos dos editores, exploradores, locutores de rádio, tão depressa que a centrífuga joga fora todo pensamento desnecessário, desperdiçador de tempo! [[atomic-ideas/instant gratification|instant gratification]]
+> A mente humana entra em turbilhão sob as mãos dos editores, exploradores, locutores de rádio, tão depressa que a centrífuga joga fora todo pensamento desnecessário, desperdiçador de tempo! [[atomic-ideas/instant gratification\|instant gratification]]
 > (..)
 > A escolaridade é abreviada, a disciplina relaxada, as filosofias, as histórias e as línguas são abolidas, gramática e ortografia pouco a pouco negligenciadas, e, por fim, quase totalmente ignoradas. **A vida é imediata, o emprego é o que conta, o prazer está por toda parte depois do trabalho. Por que aprender alguma coisa além [da sua profissão]?
 
@@ -51,12 +51,12 @@ Beatty falando sobre como surgiu a nova função dos bombeiros (queimar livros):
 
 ### mediocridade
 
-[[atomic-ideas/mediocridade#^58baf2|mediocridade#^58baf2]]
+[[atomic-ideas/mediocridade#^58baf2\|mediocridade#^58baf2]]
 
 
 ## principal aprendizado
 
 Excesso de entretenimento é o que permite a servidão voluntária.
 
-Ver também [[notes/books/Discurso sobre a servidao voluntaria|Discurso sobre a servidao voluntaria]].
+Ver também [[notes/books/Discurso sobre a servidao voluntaria\|Discurso sobre a servidao voluntaria]].
 
