@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/7-ci-cd-micro-service-application-mono-and-polyrepo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/7-ci-cd-micro-service-application-mono-and-polyrepo/"}
 ---
 
 ## 7 - CI-CD MicroService Application (Mono and Polyrepo)
 
-- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course\|GitLab CICD - Nana course]]
 
 ### 01 - What are Microservices?
 
