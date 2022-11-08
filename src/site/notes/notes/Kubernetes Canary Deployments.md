@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/kubernetes-canary-deployments/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/kubernetes-canary-deployments/"}
 ---
 
 ## Introduction
