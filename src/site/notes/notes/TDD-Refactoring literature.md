@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tdd-refactoring-literature/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/tdd-refactoring-literature/"}
 ---
 
 # TDD/Refactoring literature
 
-While reading [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]] I became interested in a deep dive in refactoring. It requires a strong knowledge about TDD.
+While reading [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]] I became interested in a deep dive in refactoring. It requires a strong knowledge about TDD.
 
 In this note I'm trying to list some fundamental books about these topics.
 
@@ -15,7 +15,7 @@ In this note I'm trying to list some fundamental books about these topics.
 - Clean Code - Robert Martin
 - Refatoração: Aperfeiçoando o Design de Códigos Existentes - Martin Fowler
 - Trabalho Eficaz com Código Legado - Michael Feathers
-- [[notes/books/eXtreme Programming Explained|eXtreme Programming Explained]]: Embrace Change - Kent Beck (iff: B393p / 005.1)
+- [[notes/books/eXtreme Programming Explained\|eXtreme Programming Explained]]: Embrace Change - Kent Beck (iff: B393p / 005.1)
 
 
 ## further reading
