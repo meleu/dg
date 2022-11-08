@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/git/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/git/"}
 ---
 
 # git
@@ -19,7 +19,7 @@
 
 ## gitflow
 
-- [[notes/gitflow|gitflow]]
+- [[notes/gitflow\|gitflow]]
 - Interesting video (portuguese): <https://www.youtube.com/watch?v=wzxBR4pOTTs>
 - Good doc: <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>
 - cheatsheet: <https://danielkummer.github.io/git-flow-cheatsheet/index.html>
