@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/le-wagon-bootcamp/syllabus-web-development-bootcamp/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/le-wagon-bootcamp/syllabus-web-development-bootcamp/"}
 ---
 
 # Syllabus - Web Development Bootcamp
@@ -11,22 +11,22 @@
 
 ## 🤓 Conhecimento de DevOps pra levar para Dev
 
-- Acho que o [[notes/learning/docker-for-nodejs/Docker for NodeJS|Docker for NodeJS]] vai ser bem útil.
+- Acho que o [[notes/learning/docker-for-nodejs/Docker for NodeJS\|Docker for NodeJS]] vai ser bem útil.
 - Colocar uma aplicação Ruby on Rails em containers: <https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application>
 
 ## Fase 0 - Prepwork
 
-- [[notes/learning/le-wagon-bootcamp/00-prepwork|00-prepwork]]
+- [[notes/learning/le-wagon-bootcamp/00-prepwork\|00-prepwork]]
 
 
 ## Fase 1 - Fundações
 
 - Configurações da máquina de trabalho
 - Noções básicas de programação
-    - 🤓 - [[notes/books/The Well-Grounded Rubyist|The Well-Grounded Rubyist]]
+    - 🤓 - [[notes/books/The Well-Grounded Rubyist\|The Well-Grounded Rubyist]]
     - 🤓 - <https://exercism.org/tracks/ruby/>
 - Arquitetura de Software
-    - 🤓 - [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]
+    - 🤓 - [[notes/books/Practical Object-Oriented Design\|Practical Object-Oriented Design]]
 - Banco de dados relacional
     - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
 
