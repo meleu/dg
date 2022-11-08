@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitlab-ci-manually-trigger-merge-request-pipeline/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/gitlab-ci-manually-trigger-merge-request-pipeline/"}
 ---
 
 # gitlab-ci-manually-trigger-merge-request-pipeline
