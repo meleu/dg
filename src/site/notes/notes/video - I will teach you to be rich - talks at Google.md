@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/video-i-will-teach-you-to-be-rich-talks-at-google/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/video-i-will-teach-you-to-be-rich-talks-at-google/"}
 ---
 
 # video - I will teach you to be rich - talks at Google
@@ -53,6 +53,6 @@ Ramit's money rules ([link](https://www.iwillteachyoutoberich.com/blog/money-rul
 
 ## See also
 
-- [[notes/books/I will teach you to be rich|I will teach you to be rich]] - book
+- [[notes/books/I will teach you to be rich\|I will teach you to be rich]] - book
 - Ramit's 10 money rules - [video](https://youtu.be/DLU2o96tOu4)
 
