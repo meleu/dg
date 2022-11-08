@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/"}
 ---
 
 
@@ -31,7 +31,7 @@ Eu estava em dois empregos, ganhando uma boa grana. No entanto passava pouquíss
 
 Gosto de dizer que dinheiro só traz felicidade até o ponto em que você consegue ter um teto, alimentar sua família e ficar livre de dívidas. Obviamente que ter essas coisas básicas traz felicidade. Mas chega um determinado ponto em que ter mais dinheiro **não** traz um aumento significativo de felicidade. É nesse momento que você tem que começar a decidir com mais sabedoria se quer, por exemplo, "trabalhar mais pra ganhar mais dinheiro" ou "ensinar seu filho a andar de bicicleta".
 
-Observação: tomar cuidado para não cair na [[notes/books/Segredos da Mente Milionária#Dinheiro vs. Amor|falsa dicotomia do "amor vs. dinheiro"]].
+Observação: tomar cuidado para não cair na [[notes/books/Segredos da Mente Milionária#Dinheiro vs. Amor\|falsa dicotomia do "amor vs. dinheiro"]].
 
 **Construa ativos antes dos passivos**
 
