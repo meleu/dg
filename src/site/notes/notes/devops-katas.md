@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/devops-katas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/devops-katas/"}
 ---
 
 # DevOps Katas
