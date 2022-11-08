@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links-sql-data-base/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/links-sql-data-base/"}
 ---
 
 # SQL/Database
