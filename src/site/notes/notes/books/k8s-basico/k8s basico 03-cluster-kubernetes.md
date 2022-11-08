@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-03-cluster-kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-03-cluster-kubernetes/"}
 ---
 
 ## Capítulo 3: Implantação de um cluster Kubernetes
 
-- voltar para [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
+- voltar para [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
 
 [TOC]
 
