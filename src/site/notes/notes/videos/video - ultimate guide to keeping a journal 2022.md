@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-ultimate-guide-to-keeping-a-journal-2022/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-ultimate-guide-to-keeping-a-journal-2022/"}
 ---
 
 # video - ultimate guide to keeping a journal 2022
@@ -27,4 +27,4 @@
 
 ### See also
 
-- [[notes/videos/video - Journal Exercise - Fear Setting|video - Journal Exercise - Fear Setting]]
+- [[notes/videos/video - Journal Exercise - Fear Setting\|video - Journal Exercise - Fear Setting]]
