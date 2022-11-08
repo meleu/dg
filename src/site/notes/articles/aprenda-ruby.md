@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"aprenda-ruby","permalink":"/aprenda-ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"dg-permalink":"aprenda-ruby","permalink":"/aprenda-ruby/"}
 ---
 
 
-[[articles/learn-ruby|English version]]
+[[articles/learn-ruby\|English version]]
 
 ## Intro
 
@@ -193,6 +193,6 @@ Pronto, agora vc pode deixar uma janela com o editor e outra com observr executa
 
 Material que me foi recomendado por rubyistas já calejados:
 
-- [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]] - livro de Sandi Metz
+- [[notes/books/Practical Object-Oriented Design\|Practical Object-Oriented Design]] - livro de Sandi Metz
 - [Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) - livro de Avdi Grimm
 - [Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) - livro de Paolo Perrotta
