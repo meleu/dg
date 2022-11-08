@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/09-aws-services/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/09-aws-services/"}
 ---
 
 # AWS Services
