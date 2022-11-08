@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/mastering-chaos-a-netflix-guide-to-microservices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/mastering-chaos-a-netflix-guide-to-microservices/"}
 ---
 
 ## Mastering Chaos - A Netflix Guide to Microservices
