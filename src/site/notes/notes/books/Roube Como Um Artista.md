@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/roube-como-um-artista/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/roube-como-um-artista/"}
 ---
 
 
