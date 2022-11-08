@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-primo-rico-as-12-regras-do-dinheiro/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-primo-rico-as-12-regras-do-dinheiro/"}
 ---
 
 # As 12 Regras do Dinheiro
