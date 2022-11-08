@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/deployment-strategies-defined/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/deployment-strategies-defined/"}
 ---
 
 # Deployment Strategies Defined
