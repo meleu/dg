@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/positive-vs-negative-feedback/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/positive-vs-negative-feedback/"}
 ---
 
 # positive vs negative feedback
@@ -11,4 +11,4 @@ Once the habit is settled, negative feedback is what makes you see where you nee
 
 ## references
 
-- I think it came from [[notes/learning/ztm-efficient-learning|ztm-efficient-learning]]
+- I think it came from [[notes/learning/ztm-efficient-learning\|ztm-efficient-learning]]
