@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/microservices-codigo-fonte-tv/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/microservices-codigo-fonte-tv/"}
 ---
 
 # Microservices - Código Fonte TV
