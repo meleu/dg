@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-01-introducao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-01-introducao/"}
 ---
 
 ## Capítulo 1: Introdução
 
-- voltar [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
+- voltar [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
 
 [TOC]
 
