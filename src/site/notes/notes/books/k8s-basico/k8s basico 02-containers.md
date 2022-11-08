@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-02-containers/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-02-containers/"}
 ---
 
 ## Capítulo 2: Criando e executando contêineres
 
-- voltar para [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
+- voltar para [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
 
 [TOC]
 
