@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/personal-kanban/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/personal-kanban/"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ## Why did I read this book?
 
-I saw mentions to it in the [[Manual de DevOps|DevOps Handbook]] and became interested. The book is actually pretty good.
+I saw mentions to it in the [[Manual de DevOps\|DevOps Handbook]] and became interested. The book is actually pretty good.
 
 ## Main takeaways
 
@@ -49,7 +49,7 @@ About the Rule 1: Visualize Your Work
 
 > With Personal Kanban, principles take precedence over process. Process should change with context.
 
-That looks very aligned with the concept of Heuristcs vs Algorithms present in [[notes/books/code-complete/Code Complete|Code Complete]].
+That looks very aligned with the concept of Heuristcs vs Algorithms present in [[notes/books/code-complete/Code Complete\|Code Complete]].
 
 ---
 
@@ -61,7 +61,7 @@ Existential Overhead
 
 > Work we have to complete, or any aspect of our life that distracts us, creates existential overhead. As it mounts, our effectiveness diminishes. Visualizing work reduces the distractions of existential overhead by transforming fuzzy concepts into tangible objects that your brain can easily grasp and prioritize.
 
-This concept looks similar to something I read in [[Rapido e Devagar|Thinking Fast and Slow]]: "cognitive tension caused by the presence of unfulfilled demands".
+This concept looks similar to something I read in [[Rapido e Devagar\|Thinking Fast and Slow]]: "cognitive tension caused by the presence of unfulfilled demands".
 
 ---
 
