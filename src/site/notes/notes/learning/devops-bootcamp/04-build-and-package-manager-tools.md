@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/04-build-and-package-manager-tools/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/04-build-and-package-manager-tools/"}
 ---
 
 # Build and Package Manager Tools
