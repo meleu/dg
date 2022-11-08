@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/heuristics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/heuristics/"}
 ---
 
 # Heuristics vs. Algorithms, or why questions are more important than the answers
@@ -13,4 +13,4 @@ Context changes easier than principles.
 
 ## See also
 
-[[notes/books/code-complete/Code Complete#^f43b96|Code Complete > Algorithm vs Heuristic]]
+[[notes/books/code-complete/Code Complete#^f43b96\|Code Complete > Algorithm vs Heuristic]]
