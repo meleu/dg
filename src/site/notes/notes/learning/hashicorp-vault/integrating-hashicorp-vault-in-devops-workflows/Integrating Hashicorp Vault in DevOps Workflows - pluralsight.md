@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/integrating-hashicorp-vault-in-dev-ops-workflows-pluralsight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/integrating-hashicorp-vault-in-dev-ops-workflows-pluralsight/"}
 ---
 
 # Integrating Hashicorp Vault in DevOps Workflows
@@ -26,6 +26,6 @@
 
 ## modules
 
-- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/02-accessing-secrets-in-cicd-pipelines|02-accessing-secrets-in-cicd-pipelines]]
-- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/03-securely-introducing-clients-using-vault-agent|03-securely-introducing-clients-using-vault-agent]]
-- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/07-integrating-vault-with-kubernetes|07-integrating-vault-with-kubernetes]]
+- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/02-accessing-secrets-in-cicd-pipelines\|02-accessing-secrets-in-cicd-pipelines]]
+- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/03-securely-introducing-clients-using-vault-agent\|03-securely-introducing-clients-using-vault-agent]]
+- [[notes/learning/hashicorp-vault/integrating-hashicorp-vault-in-devops-workflows/07-integrating-vault-with-kubernetes\|07-integrating-vault-with-kubernetes]]
