@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-3-common-pitfalls-in-microservice-integration-and-how-to-avoid-them-bernd-rucker/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-3-common-pitfalls-in-microservice-integration-and-how-to-avoid-them-bernd-rucker/"}
 ---
 
 ## 3 Common Pitfalls in Microservice Integration & How to Avoid Them - Bernd Rücker
