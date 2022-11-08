@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/articles/learn-ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/articles/learn-ruby/"}
 ---
 
 
-[[articles/aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
+[[articles/aprenda-ruby\|🇧🇷🇵🇹 - Portuguese version]]
 
 ## Intro
 
