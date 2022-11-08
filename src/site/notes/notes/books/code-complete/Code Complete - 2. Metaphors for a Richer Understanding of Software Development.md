@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-2-metaphors-for-a-richer-understanding-of-software-development/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-2-metaphors-for-a-richer-understanding-of-software-development/"}
 ---
 
 ## Chapter 2 - Metaphors for a Richer Understanding of Software Development
@@ -30,12 +30,12 @@ I don't agree with this understanding from the author:
 
 > The writing metaphor suggests that developing a program is like writing a *casual letter* [I don't see this metaphor like this] - you sit down and write it from start to finish. It doesn't require any formal planning and you figure out what you want to say as you go.
 
-- Examples: book [[notes/books/The Elements of Programming Style|The Elements of Programming Style]]
+- Examples: book [[notes/books/The Elements of Programming Style\|The Elements of Programming Style]]
 - Useful for individual's work or small-scale projects.
 - Where this metaphor does NOT work well:
     - in writing, a high premium is placed on originality
     - in software construction, trying to create truly original work is often less effective than focusing on the reuse of design ideas, code and test cases.
-- "Plan to throw one away; you will, any how." - Fred Brooks, author of [[O Mitico Homem-Mes|O Mitico Homem-Mes]]
+- "Plan to throw one away; you will, any how." - Fred Brooks, author of [[O Mitico Homem-Mes\|O Mitico Homem-Mes]]
     - "If you plan to throw one away, you will throw away two." - Reply from Craig Zerouni
     - My interpretation: "Do not plan to throw away, but be aware that it can happen."
     - It's not that simple to throw away a very large and expensive project.
