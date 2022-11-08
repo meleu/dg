@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/questions-a-dev-ops-should-ask/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/questions-a-dev-ops-should-ask/"}
 ---
 
 # Questions a DevOps should ask
@@ -17,4 +17,4 @@
 
 ## references
 
-- [[notes/books/Continuous Delivery|Continuous Delivery]]
+- [[notes/books/Continuous Delivery\|Continuous Delivery]]
