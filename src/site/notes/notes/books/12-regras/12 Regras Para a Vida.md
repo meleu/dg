@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/"}
 ---
 
 
@@ -17,14 +17,14 @@ No finalzinho da introdução encontrei um trecho interessante.
 
 > Se cada um de nós viver corretamente, prosperaremos coletivamente.
 
-Isso me remete a um aprendizado que tive quando li [[notes/books/Segredos da Mente Milionária|Segredos da Mente Milionária]], onde o autor diz que quando aprimoramos a nós mesmos, estamos também aprimorando o coletivo.
+Isso me remete a um aprendizado que tive quando li [[notes/books/Segredos da Mente Milionária\|Segredos da Mente Milionária]], onde o autor diz que quando aprimoramos a nós mesmos, estamos também aprimorando o coletivo.
 
 A meu ver, aprimorarmos a nós mesmos é uma maneira muito mais efetiva de aprimorar o coletivo do que simplesmente ficar tentando consertar/melhorar os outros. Em outras palavras, aprimorar a nós mesmos gera um ROI muito maior.
 
 ## As 12 Regras
-- [[notes/books/12-regras/Regra 01 - Costas eretas, ombros para trás|Regra 01 - Costas eretas, ombros para trás]]
-- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade]]
-- [[notes/books/12-regras/Regra 07 - Busque o que é significativo, não o que é conveniente|Regra 07 - Busque o que é significativo, não o que é conveniente]]
+- [[notes/books/12-regras/Regra 01 - Costas eretas, ombros para trás\|Regra 01 - Costas eretas, ombros para trás]]
+- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade\|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade]]
+- [[notes/books/12-regras/Regra 07 - Busque o que é significativo, não o que é conveniente\|Regra 07 - Busque o que é significativo, não o que é conveniente]]
 
 
 ## Regra 03: Seja amigo de pessoas que queiram o melhor para você
