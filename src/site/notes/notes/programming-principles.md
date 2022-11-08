@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/programming-principles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/programming-principles/"}
 ---
 
 # Programming Principles
 
-- One of our main concerns is to handle complexity (from [[notes/books/code-complete/Code Complete|Code Complete]]).
+- One of our main concerns is to handle complexity (from [[notes/books/code-complete/Code Complete\|Code Complete]]).
 - The best feature of a software is how easy it is to change it.
-- Part of your job is to educate your boss about technology (from [[notes/books/code-complete/Code Complete|Code Complete]]).
+- Part of your job is to educate your boss about technology (from [[notes/books/code-complete/Code Complete\|Code Complete]]).
 
 ## Separation between intention and implementation
 
