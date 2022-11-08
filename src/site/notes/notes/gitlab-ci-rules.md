@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitlab-ci-rules/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/gitlab-ci-rules/"}
 ---
 
 # gitlab-ci rules
@@ -72,7 +72,7 @@ jobname:
 
 - clauses
     - `if`
-    - `changes` - when some files where changed (this is going to be useful to deploy my [[notes/digital garden|digital garden]])
+    - `changes` - when some files where changed
     - `exists`
     - (none) - default behavior
 - operators:
