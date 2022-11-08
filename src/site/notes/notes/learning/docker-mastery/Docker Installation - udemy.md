@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-installation-udemy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-installation-udemy/"}
 ---
 
 ## Installation
 
-- back to [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]]
+- back to [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]]
 
 > [!NOTE]
-> I wrote this while doing the [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]] course. For installing docker I suggest to follow the steps in the official documentation.
+> I wrote this while doing the [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]] course. For installing docker I suggest to follow the steps in the official documentation.
 
 ```sh
 sudo apt-get remove docker docker-engine docker.io containerd runc
