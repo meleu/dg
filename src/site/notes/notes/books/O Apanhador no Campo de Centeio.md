@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-apanhador-no-campo-de-centeio/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/o-apanhador-no-campo-de-centeio/"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ## Por que eu li esse livro?
 
-**Fun-fact**: antes de comprar um [[notes/kindle|kindle]] eu só queria testar como é ler em um. Um amigo me emprestou o dele e o livro que me interessei em ler foi este...
+**Fun-fact**: antes de comprar um [[notes/kindle\|kindle]] eu só queria testar como é ler em um. Um amigo me emprestou o dele e o livro que me interessei em ler foi este...
 
 ## O livro em 3 frases
 
