@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-thinking-fast-and-slow-goto-2019/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-thinking-fast-and-slow-goto-2019/"}
 ---
 
 # GOTO 2019 • Thinking Fast and Slow • Linda Rising
