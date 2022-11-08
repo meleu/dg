@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/insomnia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/insomnia/"}
 ---
 
 # Insomnia REST Client
