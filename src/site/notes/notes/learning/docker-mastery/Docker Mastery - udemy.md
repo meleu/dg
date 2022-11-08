@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-mastery-udemy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-mastery-udemy/"}
 ---
 
 # Docker Mastery
@@ -13,15 +13,15 @@
 
 ### contents
 
-- [[notes/learning/docker-mastery/Docker Installation - udemy|Docker Installation - udemy]]
-- [[notes/learning/docker-mastery/Docker Basic Usage|Docker Basic Usage]]
-- [[notes/learning/docker-mastery/Running a shell inside containers|Running a shell inside containers]]
-- [[notes/Docker Mastery - Whats going on inside the containers|Docker Mastery - Whats going on inside the containers]]
-- [[notes/learning/docker-mastery/Docker Networks|Docker Networks]]
-- [[notes/learning/docker-mastery/Docker Container Images|Docker Container Images]]
-- [[notes/learning/docker-mastery/Dockerfile basics - Building Docker Images|Dockerfile basics - Building Docker Images]]
-- [[notes/learning/docker-mastery/Docker Container Lifetime and Persistent Data|Docker Container Lifetime and Persistent Data]]
-- [[notes/learning/docker-mastery/Docker Compose|Docker Compose]]
+- [[notes/learning/docker-mastery/Docker Installation - udemy\|Docker Installation - udemy]]
+- [[notes/learning/docker-mastery/Docker Basic Usage\|Docker Basic Usage]]
+- [[notes/learning/docker-mastery/Running a shell inside containers\|Running a shell inside containers]]
+- [[notes/Docker Mastery - Whats going on inside the containers\|Docker Mastery - Whats going on inside the containers]]
+- [[notes/learning/docker-mastery/Docker Networks\|Docker Networks]]
+- [[notes/learning/docker-mastery/Docker Container Images\|Docker Container Images]]
+- [[notes/learning/docker-mastery/Dockerfile basics - Building Docker Images\|Dockerfile basics - Building Docker Images]]
+- [[notes/learning/docker-mastery/Docker Container Lifetime and Persistent Data\|Docker Container Lifetime and Persistent Data]]
+- [[notes/learning/docker-mastery/Docker Compose\|Docker Compose]]
 
 
 
