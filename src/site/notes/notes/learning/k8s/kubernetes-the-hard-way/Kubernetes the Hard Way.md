@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-the-hard-way/kubernetes-the-hard-way/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-the-hard-way/kubernetes-the-hard-way/"}
 ---
 
 # Kubernetes The Hard Way
