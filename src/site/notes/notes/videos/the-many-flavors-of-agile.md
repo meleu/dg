@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/the-many-flavors-of-agile/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/the-many-flavors-of-agile/"}
 ---
 
 # The Many Flavors of Agile - What's the right one for your team.
