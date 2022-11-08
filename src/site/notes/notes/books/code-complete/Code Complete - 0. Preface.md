@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-0-preface/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-0-preface/"}
 ---
 
 ## Preface
 
-I had an epiphany moment about "cost to fix vs cost of not fixing" and it made me remember the concept of [[atomic-ideas/cost of action vs. cost of inaction|cost of action vs. cost of inaction]], that I learned from Tim Ferris.
+I had an epiphany moment about "cost to fix vs cost of not fixing" and it made me remember the concept of [[atomic-ideas/cost of action vs. cost of inaction\|cost of action vs. cost of inaction]], that I learned from Tim Ferris.
 
 #### quotes
 
