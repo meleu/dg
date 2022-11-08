@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/faang-preparation-plan/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/faang-preparation-plan/"}
 ---
 
 # FAANG preparation plan
