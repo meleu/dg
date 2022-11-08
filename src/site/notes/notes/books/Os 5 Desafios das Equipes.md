@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/os-5-desafios-das-equipes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/os-5-desafios-das-equipes/"}
 ---
 
 
@@ -9,11 +9,11 @@
 
 Quando eu li eu acabei não vendo muito valor nesse livro, mas ao folheá-lo para decidir se iria doá-lo acabei me interessando pela lista das 5 disfunções das equipes.
 
-- [[notes/books/Os 5 Desafios das Equipes#1 Falta de confiança|#1 Falta de confiança]]
-- [[notes/books/Os 5 Desafios das Equipes#2 Medo de conflitos|#2 Medo de conflitos]]
-- [[notes/books/Os 5 Desafios das Equipes#3 Falta de comprometimento|#3 Falta de comprometimento]]
-- [[notes/books/Os 5 Desafios das Equipes#4 Evitar responsabilizar os outros|#4 Evitar responsabilizar os outros]]
-- [[notes/books/Os 5 Desafios das Equipes#5 Falta de atenção aos resultados|#5 Falta de atenção aos resultados]]
+- [[notes/books/Os 5 Desafios das Equipes#1 Falta de confiança\|#1 Falta de confiança]]
+- [[notes/books/Os 5 Desafios das Equipes#2 Medo de conflitos\|#2 Medo de conflitos]]
+- [[notes/books/Os 5 Desafios das Equipes#3 Falta de comprometimento\|#3 Falta de comprometimento]]
+- [[notes/books/Os 5 Desafios das Equipes#4 Evitar responsabilizar os outros\|#4 Evitar responsabilizar os outros]]
+- [[notes/books/Os 5 Desafios das Equipes#5 Falta de atenção aos resultados\|#5 Falta de atenção aos resultados]]
 
 
 ## 1. Falta de confiança
@@ -104,7 +104,7 @@ O líder deve ser uma referência de comportamento adequado durante um conflito.
 
 ### Papel do líder
 
-Deve se sentir à vontade diante da perspectiva de tomar uma decisão que possa revelar errada com o passar do tempo (tem relação com o [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#Liderar vs Gerenciar|Habito Eficaz 2 - Comece com o objetivo em mente#Liderar vs Gerenciar]]).
+Deve se sentir à vontade diante da perspectiva de tomar uma decisão que possa revelar errada com o passar do tempo (tem relação com o [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#Liderar vs Gerenciar\|Habito Eficaz 2 - Comece com o objetivo em mente#Liderar vs Gerenciar]]).
 
 Deve estimular o grupo a chegar a conclusões e aderir ao que a equipe tiver decidido.
 
