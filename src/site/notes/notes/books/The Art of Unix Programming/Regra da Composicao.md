@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-composicao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-composicao/"}
 ---
 
 # Regra da Composição - The Art of Unix Programming
@@ -17,6 +17,6 @@
 
 ---
 
-De alguma forma isso me fez lembrar de uma maneira de classificar funções que eu vi em [[notes/books/Eloquent JavaScript|Eloquent JavaScript]]:
+De alguma forma isso me fez lembrar de uma maneira de classificar funções que eu vi em [[notes/books/Eloquent JavaScript\|Eloquent JavaScript]]:
 
 > Functions can be roughly divided into those that are called for their side effects and those that are called for their return value.
