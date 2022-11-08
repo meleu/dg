@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/le-wagon-bootcamp/00-prepwork/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/le-wagon-bootcamp/00-prepwork/"}
 ---
 
 # 00-prepwork
@@ -217,8 +217,8 @@ end
 
 See also:
 
-- [[notes/ruby|ruby]]
-- [[notes/books/The Well-Grounded Rubyist|The Well-Grounded Rubyist]]
+- [[notes/ruby\|ruby]]
+- [[notes/books/The Well-Grounded Rubyist\|The Well-Grounded Rubyist]]
 
 
 ---
