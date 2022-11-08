@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/i-will-teach-you-to-be-rich/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/i-will-teach-you-to-be-rich/"}
 ---
 
 
