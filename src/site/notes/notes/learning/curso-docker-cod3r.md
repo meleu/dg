@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/curso-docker-cod3r/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/curso-docker-cod3r/"}
 ---
 
 # Docker: Ferramenta essencial para Desenvolvedores - cod3r
@@ -138,7 +138,7 @@ Making a host's directory accessible inside the container:
 docker run -p 8080:80 -v /home/USER/html:/usr/share/nginx/html nginx
 ```
 
-       -v|--volume[=[[HOST-DIR:]CONTAINER-DIR[:OPTIONS|HOST-DIR:]CONTAINER-DIR[:OPTIONS]]]
+       -v|--volume[=[[HOST-DIR:]CONTAINER-DIR[:OPTIONS\|HOST-DIR:]CONTAINER-DIR[:OPTIONS]]]
           Create a bind mount. If you specify, -v /HOST-DIR:/CONTAINER-DIR, Docker
           bind mounts /HOST-DIR in the host to /CONTAINER-DIR in the Docker
           container. If 'HOST-DIR' is omitted,  Docker automatically creates the new
