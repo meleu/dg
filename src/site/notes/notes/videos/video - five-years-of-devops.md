@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-five-years-of-devops/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-five-years-of-devops/"}
 ---
 
 # GOTO 2014 • Five Years of DevOps: Where are we Now? • Michael T. Nygard
