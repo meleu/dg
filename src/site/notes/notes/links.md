@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/notes/links/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/links/"}
 ---
 
 # links
 
 My own list of awesome links.
 
-- [[notes/links - developers who inspire me|links - developers who inspire me]]
-- [[notes/links - Free APIs|links - Free APIs]]
-- [[notes/links - frontend|links - frontend]]
-- [[notes/links - free assets|links - free assets]]
-- [[notes/links - post-mortems|links - post-mortems]]
-- [[notes/links - SQL-DataBase|links - SQL-DataBase]]
+- [[notes/links - developers who inspire me\|links - developers who inspire me]]
+- [[notes/links - Free APIs\|links - Free APIs]]
+- [[notes/links - frontend\|links - frontend]]
+- [[notes/links - free assets\|links - free assets]]
+- [[notes/links - post-mortems\|links - post-mortems]]
+- [[notes/links - SQL-DataBase\|links - SQL-DataBase]]
 
 
 ## misc.
