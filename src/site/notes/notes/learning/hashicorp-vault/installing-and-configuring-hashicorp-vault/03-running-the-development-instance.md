@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/03-running-the-development-instance/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/installing-and-configuring-hashicorp-vault/03-running-the-development-instance/"}
 ---
 
 # Running the Development Instance
 
-Installing Vault: [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault|05-installing-vault]]
+Installing Vault: [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault\|05-installing-vault]]
 
 ## Development Mode
 
