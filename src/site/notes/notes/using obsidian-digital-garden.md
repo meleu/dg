@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/using-obsidian-digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/using-obsidian-digital-garden/"}
 ---
 
 # using obsidian-digital-garden
