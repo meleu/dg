@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/inclinacao-natural-para-o-mal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/inclinacao-natural-para-o-mal/"}
 ---
 
 
@@ -43,5 +43,5 @@ As the evil is inside ourselves, there's no wall able to separate us from that e
 
 ## references
 
-- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade#A serpente habita nossa alma|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade#A serpente habita nossa alma]]
-- [[O Medico e o Monstro|O Medico e o Monstro]]
+- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade#A serpente habita nossa alma\|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade#A serpente habita nossa alma]]
+- [[O Medico e o Monstro\|O Medico e o Monstro]]
