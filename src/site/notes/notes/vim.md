@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vim/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/vim/"}
 ---
 
 # vim
 
-- [[notes/vim-upcase|vim-upcase]]
-- [[notes/neovim-upcase|neovim-upcase]]
-- [[notes/vim-seven-habits-of-effective-text-editing|vim-seven-habits-of-effective-text-editing]]
-- [[notes/vim-macros|vim-macros]]
+- [[notes/vim-upcase\|vim-upcase]]
+- [[notes/neovim-upcase\|neovim-upcase]]
+- [[notes/vim-seven-habits-of-effective-text-editing\|vim-seven-habits-of-effective-text-editing]]
+- [[notes/vim-macros\|vim-macros]]
 
 ## things to do after vimtutor
 
@@ -58,7 +58,7 @@ By reading the contents of [this repository](https://github.com/dahu/learnvim) I
     http://derekwyatt.org/vim/tutorials/
   - *Learn Vimscript the Hard Way*:
     http://learnvimscriptthehardway.stevelosh.com/
-- [[notes/vim-seven-habits-of-effective-text-editing|vim-seven-habits-of-effective-text-editing]]
+- [[notes/vim-seven-habits-of-effective-text-editing\|vim-seven-habits-of-effective-text-editing]]
   - *vim-galore*:
     https://github.com/mhinz/vim-galore
 
