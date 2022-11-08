@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gcp/gcp-fundamentals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gcp/gcp-fundamentals/"}
 ---
 
 # Google Cloud Platform Fundamentals
 
 [link to the course](https://app.pluralsight.com/channels/player?courseId=5d5cf01d-b8e2-493b-bc77-73be1236a4ec&channelId=a81a554f-59dc-4eee-a30a-83744d11a381)
 
-- [[notes/learning/gcp/00 - Introducing GCP|00 - Introducing GCP]]
-- [[notes/learning/gcp/01.00 - Getting Started with GCP|01.00 - Getting Started with GCP]]
-- [[notes/learning/gcp/01.01 - The GCP resource hierarchy|01.01 - The GCP resource hierarchy]]
-- [[notes/learning/gcp/01.02 - GCP IAM|01.02 - GCP IAM]]
-- [[notes/learning/gcp/01.03 - Interacting with GCP|01.03 - Interacting with GCP]]
+- [[notes/learning/gcp/00 - Introducing GCP\|00 - Introducing GCP]]
+- [[notes/learning/gcp/01.00 - Getting Started with GCP\|01.00 - Getting Started with GCP]]
+- [[notes/learning/gcp/01.01 - The GCP resource hierarchy\|01.01 - The GCP resource hierarchy]]
+- [[notes/learning/gcp/01.02 - GCP IAM\|01.02 - GCP IAM]]
+- [[notes/learning/gcp/01.03 - Interacting with GCP\|01.03 - Interacting with GCP]]
 
 
 ## Introduction
-- [[notes/learning/gcp/02 - VPC and Virtual Machines in GCP|02 - VPC and Virtual Machines in GCP]]
+- [[notes/learning/gcp/02 - VPC and Virtual Machines in GCP\|02 - VPC and Virtual Machines in GCP]]
 
 ---
 
