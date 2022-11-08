@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/06-using-vault-tokens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/06-using-vault-tokens/"}
 ---
 
 # Using Vault Tokens
