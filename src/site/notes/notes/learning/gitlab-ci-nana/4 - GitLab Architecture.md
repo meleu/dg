@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/4-git-lab-architecture/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/4-git-lab-architecture/"}
 ---
 
 # 4 - GitLab Architecture
 
-- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course\|GitLab CICD - Nana course]]
 
 ### 2 - GitLab Executors
 
