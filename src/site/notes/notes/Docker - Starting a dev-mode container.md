@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-starting-a-dev-mode-container/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/docker-starting-a-dev-mode-container/"}
 ---
 
 # Docker - Starting a dev-mode container
