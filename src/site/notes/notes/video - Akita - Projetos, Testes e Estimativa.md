@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/video-akita-projetos-testes-e-estimativa/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/video-akita-projetos-testes-e-estimativa/"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_-7o_pLn1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -8,7 +8,7 @@
 
 > [quando se trata de desconhecido] Qualquer planejamento, quanto mais detalhado, mais errado é.
 
-Isso me lembrou o tema de "Precisão vs. Acurácia" que eu vi no [[notes/books/The Coding Career Handbook/The Coding Career Handbook|The Coding Career Handbook]].
+Isso me lembrou o tema de "Precisão vs. Acurácia" que eu vi no [[notes/books/The Coding Career Handbook/The Coding Career Handbook\|The Coding Career Handbook]].
 
 ### Boa prática:
 
