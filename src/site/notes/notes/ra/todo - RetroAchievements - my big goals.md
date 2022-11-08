@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/todo-retro-achievements-my-big-goals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/ra/todo-retro-achievements-my-big-goals/"}
 ---
 
 # RetroAchievements - my big goals
