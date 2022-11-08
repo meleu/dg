@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-3-praticas-de-negocios/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-3-praticas-de-negocios/"}
 ---
 
 # Desenvolvimento Ágil Limpo - 3. Práticas de Negócios
 
-- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 
 ## Principal Aprendizado
 
@@ -19,7 +19,7 @@
     - Testável
 - É necessário fazer um shift-left no QA.
 - *definition of done*: Testes de Aceitação foram aprovados
-- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 3. Praticas de Negocios#Testes de Aceitação|#Testes de Aceitação]] confundem muita gente pois ele deve especificar os requisitos e quem deve fazer isso é o *stakeholder*. Como o *stakeholder* não conhece linguagens de programação, ficamos numa situação ambígua. Para minimizar isso, alguns frameworks foram criados (Cucumber, RSpec, etc.) e também o conceito de *Behavior Driven Development* (BDD) - por Dan North.
+- [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 3. Praticas de Negocios#Testes de Aceitação\|#Testes de Aceitação]] confundem muita gente pois ele deve especificar os requisitos e quem deve fazer isso é o *stakeholder*. Como o *stakeholder* não conhece linguagens de programação, ficamos numa situação ambígua. Para minimizar isso, alguns frameworks foram criados (Cucumber, RSpec, etc.) e também o conceito de *Behavior Driven Development* (BDD) - por Dan North.
 
 ---
 
@@ -106,7 +106,7 @@ Retorno Sobre o Investimento
 
 Isso não está escrito no livro, mas acho relevante lembrar:
 
-Uma coisa importante a se levar em conta para atribuir valor a uma determinada história é a Teoria das Restrições. Identificar o gargalo e atuar nele. "Qualquer melhoria fora do gargalo é uma ilusão." (aprendi lendo [[O Projeto Fênix|O Projeto Fênix]] e [[Manual de DevOps|Manual de DevOps]])
+Uma coisa importante a se levar em conta para atribuir valor a uma determinada história é a Teoria das Restrições. Identificar o gargalo e atuar nele. "Qualquer melhoria fora do gargalo é uma ilusão." (aprendi lendo [[O Projeto Fênix\|O Projeto Fênix]] e [[Manual de DevOps\|Manual de DevOps]])
 
 
 ### Verificação do Ponto Médio
@@ -225,7 +225,7 @@ O autor chama atenção para algo interessante sobre atribuição de histórias.
 
 ## Pequenas Versões
 
-Mesma história dos pequenos lotes mencionado no [[Manual de DevOps|Manual de DevOps]].
+Mesma história dos pequenos lotes mencionado no [[Manual de DevOps\|Manual de DevOps]].
 
 
 ## Testes de Aceitação
