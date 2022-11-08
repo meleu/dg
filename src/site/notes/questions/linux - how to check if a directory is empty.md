@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions/linux-how-to-check-if-a-directory-is-empty/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/questions/linux-how-to-check-if-a-directory-is-empty/"}
 ---
 
 
