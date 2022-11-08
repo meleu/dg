@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-04-kubectl/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-04-kubectl/"}
 ---
 
 ## Capítulo 4: Comandos comuns do kubectl
@@ -48,7 +48,7 @@ O formato das informações pode ser determinado pela opção `-o`:
 - `-o yaml`
 - `-o jsonpath`
 
-Obs.: conhecer [[notes/jsonpath|jsonpath]] é bastante útil.
+Obs.: conhecer [[notes/jsonpath\|jsonpath]] é bastante útil.
 
 Exemplo:
 ```sh
