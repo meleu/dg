@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-the-psycology-of-human-misjudgement/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-the-psycology-of-human-misjudgement/"}
 ---
 
 # The Psychology of Human Misjudgement - Charlie Munger Full Speech
