@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/notes/open-source-projects-i-m-proud-of/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/open-source-projects-i-m-proud-of/"}
 ---
 
 # Open Source projects I'm proud of
 
 ---
 
-- [[notes/Open Source projects I'm proud of#RetroAchievements - project/community management|RetroAchievements - project/community management]]
-- [[notes/Open Source projects I'm proud of#RADocs - documentation pipeline|RADocs - documentation pipeline]]
-- [[notes/Open Source projects I'm proud of#RANews - webdesign/webdevelopment|RANews - webdesign/webdevelopment]]
-- [[notes/Open Source projects I'm proud of#RABot - Discord Bot|RABot - Discord Bot]]
+- [[notes/Open Source projects I'm proud of#RetroAchievements - project/community management\|RetroAchievements - project/community management]]
+- [[notes/Open Source projects I'm proud of#RADocs - documentation pipeline\|RADocs - documentation pipeline]]
+- [[notes/Open Source projects I'm proud of#RANews - webdesign/webdevelopment\|RANews - webdesign/webdevelopment]]
+- [[notes/Open Source projects I'm proud of#RABot - Discord Bot\|RABot - Discord Bot]]
 
 ---
 
