@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-06-labels-annotations/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-06-labels-annotations/"}
 ---
 
 ## Capítulo 6: Rótulos e Anotações
