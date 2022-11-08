@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-for-absolute-beginners/01-kubernetes-overview/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-for-absolute-beginners/01-kubernetes-overview/"}
 ---
 
 # Kubernetes Overview
