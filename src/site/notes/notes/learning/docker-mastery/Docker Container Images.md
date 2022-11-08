@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-container-images/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-container-images/"}
 ---
 
 ## Container Images
 
-- from [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]]
+- from [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]]
 
 What's in an image?
 
