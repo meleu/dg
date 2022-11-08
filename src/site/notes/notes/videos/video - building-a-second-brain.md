@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/video-building-a-second-brain/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/video-building-a-second-brain/"}
 ---
 
 # Building a Second Brain
