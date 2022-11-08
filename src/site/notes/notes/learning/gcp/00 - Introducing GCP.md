@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gcp/00-introducing-gcp/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gcp/00-introducing-gcp/"}
 ---
 
 ## Introducing GCP
@@ -20,7 +20,7 @@
     - Virtualized: User-configured. Provider-managed and maintained.
     - Serverless: Fully automated.
 
-- [[atomic-ideas/Every company is a data company|Every company is a data company]]:
+- [[atomic-ideas/Every company is a data company\|Every company is a data company]]:
     - At some point, most of software will be considered as a commodity. Therefore the most valuable asset of a company will be the data it has about the users.
 
 - GCP computing archtectures
