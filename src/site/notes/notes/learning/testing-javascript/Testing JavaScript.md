@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/testing-javascript/testing-java-script/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/testing-javascript/testing-java-script/"}
 ---
 
 # Testing JavaScript - with Kent C. Dods
@@ -10,4 +10,4 @@
 
 ### 📝 Notes
 
-- [[notes/learning/testing-javascript/01-fundamentals-of-testing-in-js|01-fundamentals-of-testing-in-js]]
+- [[notes/learning/testing-javascript/01-fundamentals-of-testing-in-js\|01-fundamentals-of-testing-in-js]]
