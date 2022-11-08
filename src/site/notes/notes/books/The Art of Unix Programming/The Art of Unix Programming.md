@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/the-art-of-unix-programming/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/the-art-of-unix-programming/"}
 ---
 
 
@@ -37,7 +37,7 @@ Um sinal de que conhecer sobre as "fundações" (ou "princípios fundamentais") 
 
 Entendi isso como "a importância de empoderar os leigos em programação."
 
-Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a diferença entre Liderar e Gerenciar, mencionada no [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente|Habito Eficaz 2 - Comece com o objetivo em mente]]. O gerenciamento perfeito não serve pra muita coisa se a liderança não aponta a direção desejada.
+Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a diferença entre Liderar e Gerenciar, mencionada no [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente\|Habito Eficaz 2 - Comece com o objetivo em mente]]. O gerenciamento perfeito não serve pra muita coisa se a liderança não aponta a direção desejada.
 
 ---
 
@@ -45,23 +45,23 @@ Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a 
 
 "Regras" derivadas da filosofia Unix:
 
-1. [[notes/books/The Art of Unix Programming/Regra da Modularidade|Regra da Modularidade]]: Escreva partes simples conectadas por interfaces limpas.
-2. [[notes/books/The Art of Unix Programming/Regra da Clareza|Regra da Clareza]]: Clareza é mais importante que esperteza.
-3. [[notes/books/The Art of Unix Programming/Regra da Composicao|Regra da Composicao]]: Projete programas para serem conectados a outros programas.
-4. [[notes/books/The Art of Unix Programming/Regra da Separacao|Regra da Separacao]]: Separe política do mecanismo; separe interfaces dos motores.
-5. [[notes/books/The Art of Unix Programming/Regra da Simplicidade|Regra da Simplicidade]]: Projete para simplicidade; adiciona complexidade apenas onde você precisa.
-6. [[notes/books/The Art of Unix Programming/Regra da Parsimonia|Regra da Parsimonia]]: Escreva um programa grande apenas quando é claro por demonstração que nada mais serve.
-7. [[notes/books/The Art of Unix Programming/Regra da Transparencia|Regra da Transparencia]]: Projete para visibilidadade para tornar mais fácil a inspeção e depuração.
-8. [[Regra da Robustez|Regra da Robustez]]: Robustez é o filho da transparência e simplicidade.
-9. [[Regra da Representacao|Regra da Representacao]]: Agrupe conhecimento em dados para que a lógica do programa seja estúpida e robusta.
-10. [[Regra da Menor Surpresa|Regra da Menor Surpresa]]: Ao projetar interfaces, sempre faça a coisa menos surpreendente.
-11. [[Regra do Silencio|Regra do Silencio]]: Quando um programa não tem nada surpreendente para dizer, ele deve dizer nada.
-12. [[Regra do Reparo|Regra do Reparo]]: Quando precisar falhar, falhe ruidosamente e o mais rápido possível.
-13. [[Regra da Economia|Regra da Economia]]: O tempo do programador é caro; conserve-o em preferência ao tempo de máquina. (Minha observação: a intenção é economizar tempo do mantenedor do código, escrevendo código claro em preferência a código performático e obscuro.)
-14. [[Regra da Geracao|Regra da Geracao]]: Evite hacking manual; escreva programas para escrever programas quando puder.
-15. [[Regra da Otimizacao|Regra da Otimizacao]]: Faça um protótipo antes de polir. Deixe funcionando antes de otimizar.
-16. [[Regra da Diversidade|Regra da Diversidade]]: Desconfie de todas reivindicações de "o caminho verdadeiro".
-17. [[Regra da Extensibilidade|Regra da Extensibilidade]]: Projete para o futuro, pois ele estará aqui mais cedo do que você pensa.
+1. [[notes/books/The Art of Unix Programming/Regra da Modularidade\|Regra da Modularidade]]: Escreva partes simples conectadas por interfaces limpas.
+2. [[notes/books/The Art of Unix Programming/Regra da Clareza\|Regra da Clareza]]: Clareza é mais importante que esperteza.
+3. [[notes/books/The Art of Unix Programming/Regra da Composicao\|Regra da Composicao]]: Projete programas para serem conectados a outros programas.
+4. [[notes/books/The Art of Unix Programming/Regra da Separacao\|Regra da Separacao]]: Separe política do mecanismo; separe interfaces dos motores.
+5. [[notes/books/The Art of Unix Programming/Regra da Simplicidade\|Regra da Simplicidade]]: Projete para simplicidade; adiciona complexidade apenas onde você precisa.
+6. [[notes/books/The Art of Unix Programming/Regra da Parsimonia\|Regra da Parsimonia]]: Escreva um programa grande apenas quando é claro por demonstração que nada mais serve.
+7. [[notes/books/The Art of Unix Programming/Regra da Transparencia\|Regra da Transparencia]]: Projete para visibilidadade para tornar mais fácil a inspeção e depuração.
+8. [[Regra da Robustez\|Regra da Robustez]]: Robustez é o filho da transparência e simplicidade.
+9. [[Regra da Representacao\|Regra da Representacao]]: Agrupe conhecimento em dados para que a lógica do programa seja estúpida e robusta.
+10. [[Regra da Menor Surpresa\|Regra da Menor Surpresa]]: Ao projetar interfaces, sempre faça a coisa menos surpreendente.
+11. [[Regra do Silencio\|Regra do Silencio]]: Quando um programa não tem nada surpreendente para dizer, ele deve dizer nada.
+12. [[Regra do Reparo\|Regra do Reparo]]: Quando precisar falhar, falhe ruidosamente e o mais rápido possível.
+13. [[Regra da Economia\|Regra da Economia]]: O tempo do programador é caro; conserve-o em preferência ao tempo de máquina. (Minha observação: a intenção é economizar tempo do mantenedor do código, escrevendo código claro em preferência a código performático e obscuro.)
+14. [[Regra da Geracao\|Regra da Geracao]]: Evite hacking manual; escreva programas para escrever programas quando puder.
+15. [[Regra da Otimizacao\|Regra da Otimizacao]]: Faça um protótipo antes de polir. Deixe funcionando antes de otimizar.
+16. [[Regra da Diversidade\|Regra da Diversidade]]: Desconfie de todas reivindicações de "o caminho verdadeiro".
+17. [[Regra da Extensibilidade\|Regra da Extensibilidade]]: Projete para o futuro, pois ele estará aqui mais cedo do que você pensa.
 
 
 ## Outros livros mencionados
