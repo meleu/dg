@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/aprendendo-a-aprender/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/aprendendo-a-aprender/"}
 ---
 
 # Aprendendo a Aprender - Barbara Oakley
@@ -30,7 +30,7 @@ Memórias de Longo Prazo x Memórias de Trabalho
 
 Com a prática, após colocar certa informação na memória de trabalho por tanto tempo, ela acaba ficando na memória de longo prazo.
 
-Ver também [[anki|anki]].
+Ver também [[anki\|anki]].
 
 ## Chunking
 
@@ -40,7 +40,7 @@ Ver também [[anki|anki]].
 ### Basic steps for chunking
 
 1. Não divida a atenção com outro assunto (TV, WhatsApp, etc.). "Use toda sua RAM no assunto a ser aprendido".
-2. Realmente compreender o novo material. "Close the book and test yourself". Nota: o [[anki|anki]] pode ajudar muito com esse processo de memorização através do [[notes/spaced repetition|spaced repetition]].
+2. Realmente compreender o novo material. "Close the book and test yourself". Nota: o [[anki\|anki]] pode ajudar muito com esse processo de memorização através do [[notes/spaced repetition\|spaced repetition]].
 3. **Contexto**: saber não apenas __como__, mas também __quando__ usar determinado conhecimento (chunk).
 
 O "test yourself" é mais efetivo que reler ou até mesmo que mapas conceituais. (aka "a importância de relembrar"). - Pesquisador: Karpicke.
@@ -92,7 +92,7 @@ Experimentos demonstram que pessoas sortudas são aquelas que conseguem enxergar
 - ter a mente mais aberta
 - olho vivo
 - alternância entre modo focado e difuso
-- ver também: [[notes/learning/aprendendo a aprender#Law of Serendipity|#Law of Serendipity]]
+- ver também: [[notes/learning/aprendendo a aprender#Law of Serendipity\|#Law of Serendipity]]
 
 
 ## Habit is an energy saver
@@ -104,7 +104,7 @@ Estágios de um hábito:
 3. reward
 4. belief
 
-Ver também [[notes/books/O Poder do Habito|O Poder do Habito]]
+Ver também [[notes/books/O Poder do Habito\|O Poder do Habito]]
 
 
 ## dica contra procrastinação
