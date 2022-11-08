@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/dockerfile-basics-building-docker-images/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/dockerfile-basics-building-docker-images/"}
 ---
 
 ## Building Images: The Dockerfile Basics
