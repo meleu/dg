@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-1-introducao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-1-introducao/"}
 ---
 
 # Desenvolvimento Agil Limpo - 1. Introducao
 
-- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 
 ## Principal Aprendizado
 
@@ -172,7 +172,7 @@ Outro milagre acontece: terminamos o Design! Por que? Porque é o que está no c
 
 > Se pudéssemos também apenas *dizer* que terminamos a implementação... Mas não podemos, porque a questão da implementação é que, na verdade, ela precisa *estar* pronta.
 
-Isso 👆 me lembrou [[notes/books/code-complete/Code Complete|Code Complete]], no primeiro capítulo ele diz "construction is the only activity that's guaranteed to happen on every project".
+Isso 👆 me lembrou [[notes/books/code-complete/Code Complete\|Code Complete]], no primeiro capítulo ele diz "construction is the only activity that's guaranteed to happen on every project".
 
 > A implementação tem critérios de conclusão definidos. Não há como fingir que você implementou alguma coisa.
 
@@ -236,7 +236,7 @@ Restrição Tripla: escolha 3 entre
 - barato (custo)
 - concluído (escopo)
 
-(entre parenteses são os termousados no cap. 4 do [[Programacao eXtrema explicada|Programacao eXtrema explicada]])
+(entre parenteses são os termousados no cap. 4 do [[Programacao eXtrema explicada\|Programacao eXtrema explicada]])
 
 Ações que o Gerente pode tomar, e suas consequências relacionadas aos itens da Restrição Tripla:
 
@@ -264,7 +264,7 @@ Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exe
 
 - mexe com o "rápido" e "barato".
 
-[[Lei de Brooks|Lei de Brooks]]
+[[Lei de Brooks\|Lei de Brooks]]
 
 > Adicionar pessoas a um projeto de software **atrasado** resulta em um atraso ainda maior.
 
@@ -291,7 +291,7 @@ Lição aprendida depois de trabalhar como programador durante vinte ou trinta a
 
 **Se queremos reduzir o nosso cronograma, a única opção é *aumentar* a qualidade.**
 
-**Nota**: Essa constatação é similar ao que vi no [[notes/books/Practical Object-Oriented Design|Practical Object-Oriented Design]]:
+**Nota**: Essa constatação é similar ao que vi no [[notes/books/Practical Object-Oriented Design\|Practical Object-Oriented Design]]:
 
 > The programming techniques that make code a joy to write overlap with those that most efficiently produce software.
 
