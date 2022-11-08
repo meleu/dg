@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/livro-kubernetes-basico/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/livro-kubernetes-basico/"}
 ---
 
 
@@ -7,12 +7,12 @@
 
 #books/tech 
 
-- [[notes/books/k8s-basico/k8s basico 01-introducao|k8s basico 01-introducao]]
-- [[notes/books/k8s-basico/k8s basico 02-containers|k8s basico 02-containers]]
-- [[notes/books/k8s-basico/k8s basico 03-cluster-kubernetes|k8s basico 03-cluster-kubernetes]]
-- [[notes/books/k8s-basico/k8s basico 04-kubectl|k8s basico 04-kubectl]]
-- [[notes/books/k8s-basico/k8s basico 05-pods|k8s basico 05-pods]]
-- [[notes/books/k8s-basico/k8s basico 06-labels-annotations|k8s basico 06-labels-annotations]]
+- [[notes/books/k8s-basico/k8s basico 01-introducao\|k8s basico 01-introducao]]
+- [[notes/books/k8s-basico/k8s basico 02-containers\|k8s basico 02-containers]]
+- [[notes/books/k8s-basico/k8s basico 03-cluster-kubernetes\|k8s basico 03-cluster-kubernetes]]
+- [[notes/books/k8s-basico/k8s basico 04-kubectl\|k8s basico 04-kubectl]]
+- [[notes/books/k8s-basico/k8s basico 05-pods\|k8s basico 05-pods]]
+- [[notes/books/k8s-basico/k8s basico 06-labels-annotations\|k8s basico 06-labels-annotations]]
 
 
 ## Capítulo 7: Descoberta de serviços
