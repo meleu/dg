@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-05-pods/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/k8s-basico-05-pods/"}
 ---
 
 # k8s basico - Capítulo 5: Pods
@@ -91,7 +91,7 @@ Observação: o livro não fala de `startupProbe`.
 
 ### resumo
 
-Ver também: [[notes/k8s - container probes|k8s - container probes]].
+Ver também: [[notes/k8s - container probes\|k8s - container probes]].
 
 | probe       | liveness                                            | readiness                                              | startup                                                  |
 | ----------- | --------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
