@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/docker-best-practices/"}
 ---
 
 # docker best practices
@@ -11,5 +11,5 @@ collecting links about Docker best practices
 - [Dockerfile Best Practices](https://youtu.be/t2cDtDrNqc8) - docker con18
 - [Taking Docker to Production: What You Need to Know and Decide](https://youtu.be/6jT83lT6TU8) - docker con17
 - [Docker Best Practices for MicroServices](https://youtu.be/oY_UcgBhiQE)
-- See also: [[notes/learning/docker-for-nodejs/Docker for NodeJS - 3. Node Dockerfile Best Practices|Docker for NodeJS - 3. Node Dockerfile Best Practices]]
+- See also: [[notes/learning/docker-for-nodejs/Docker for NodeJS - 3. Node Dockerfile Best Practices\|Docker for NodeJS - 3. Node Dockerfile Best Practices]]
 
