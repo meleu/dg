@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/obsidian/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/obsidian/"}
 ---
 
 # Obsidian
@@ -54,7 +54,7 @@ These are my preferences.
     - To create/update Anki flashcards
     - Note: the results are not really what I like the most, but the workflow to create/update the flashcards are smoother IMO.
 - Digital Garden
-    - To create a 🌱 [[notes/digital garden|digital garden]] like [mine one](https://meleu.netlify.app)
+    - To create a 🌱 [[notes/digital garden\|digital garden]] like [mine one](https://meleu.netlify.app)
 
 ### Plugins I plan to try later
 
