@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-reverse-engineering/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/docker-reverse-engineering/"}
 ---
 
 # Docker Reverse Engineering
