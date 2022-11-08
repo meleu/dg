@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/01-where-to-start/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/01-where-to-start/"}
 ---
 
 ## Chapter 1 - Where to Start
@@ -8,11 +8,11 @@ Interesting things I learned while reading this chapter.
 
 ## Suggested background
 
-> Mastering [[notes/vim|vim]] is perhaps the single best productivity enhancement available to administrators.
+> Mastering [[notes/vim\|vim]] is perhaps the single best productivity enhancement available to administrators.
 
-For scripting it's suggested [[notes/bash|bash]], [[notes/python|python]] and [[notes/ruby|ruby]].
+For scripting it's suggested [[notes/bash\|bash]], [[notes/python\|python]] and [[notes/ruby\|ruby]].
 
-There's also a mention to a tool called [[expect|expect]]. I googled about it and became surprised how I didn't know such an old tool. Yeah, maybe I need to invest some time learning it.
+There's also a mention to a tool called [[expect\|expect]]. I googled about it and became surprised how I didn't know such an old tool. Yeah, maybe I need to invest some time learning it.
 
 
 ## Linux distributions
