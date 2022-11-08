@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/k8s-fundamentals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/k8s-fundamentals/"}
 ---
 
 # k8s - fundamentals
