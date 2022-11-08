@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/o-que-sao-microsservicos-alura/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/o-que-sao-microsservicos-alura/"}
 ---
 
 ## O que são Microsserviços - Alura
