@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/how-to-teach-online/how-to-teach-online/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/how-to-teach-online/how-to-teach-online/"}
 ---
 
 # How to Teach Online - General Assembly
