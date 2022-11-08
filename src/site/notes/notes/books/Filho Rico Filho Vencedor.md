@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/"}
 ---
 
 
@@ -57,4 +57,4 @@ Diferenças rico/pobre/classe-média:
 
 ## references
 
-- [[notes/books/Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
+- [[notes/books/Pai Rico, Pai Pobre\|Pai Rico, Pai Pobre]]
