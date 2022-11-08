@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-2-docker-compose-basics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-2-docker-compose-basics/"}
 ---
 
 ## Docker for NodeJS - 2. Docker Compose Basics
 
-- back to [[notes/learning/docker-for-nodejs/Docker for NodeJS|Docker for NodeJS]]
+- back to [[notes/learning/docker-for-nodejs/Docker for NodeJS\|Docker for NodeJS]]
 
 The instructor recommends that in day to day activities we should be using docker-compose YAML files instead of complex docker commands on terminal.
 
