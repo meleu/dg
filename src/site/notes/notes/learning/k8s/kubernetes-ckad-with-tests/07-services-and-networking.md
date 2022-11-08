@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/07-services-and-networking/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/07-services-and-networking/"}
 ---
 
 # Services & Networking
