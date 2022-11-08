@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/information-vs-attention/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/information-vs-attention/"}
 ---
 
 # 🌱 Information vs. Attention
 
 
-I saw this in the [[notes/books/Building a Second Brain|Building a Second Brain]] book:
+I saw this in the [[notes/books/Building a Second Brain\|Building a Second Brain]] book:
 
 > What information consumes is rather obvious: it consumes the attention of its recipients. Hence wealth of information creates a poverty of attention...
 > 
@@ -32,7 +32,7 @@ Somehow it also made me remember this:
 
 > Os grandes tomadores de decisão não são aqueles que processam a maior quantidade de informação possível naem aqueles que usam uma grande quantidade de tempo analisando, mas sim aquels que aperfeiçoaram a arte de filtrar poucos fatores importantes dentre um grande número de variáveis.
 
-ver também: [[notes/videos/video - thinking-fast-and-slow-goto-2019#My problem-solving approach|video - thinking-fast-and-slow-goto-2019#My problem-solving approach]]
+ver também: [[notes/videos/video - thinking-fast-and-slow-goto-2019#My problem-solving approach\|video - thinking-fast-and-slow-goto-2019#My problem-solving approach]]
 
 
 
