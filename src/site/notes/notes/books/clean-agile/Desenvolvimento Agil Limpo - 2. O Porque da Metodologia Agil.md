@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-2-o-porque-da-metodologia-agil/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-2-o-porque-da-metodologia-agil/"}
 ---
 
 # Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil
 
-- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 
 ## Principal Aprendizado
 
