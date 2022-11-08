@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/readme/","tags":"gardenEntry","dgShowBacklinks":false}
 ---
 
-# meleu.dev
-
 ## Hi, I'm meleu! 👋
 
 I'm a Software Engineer from Brazil (currently working in the DevOps field).
