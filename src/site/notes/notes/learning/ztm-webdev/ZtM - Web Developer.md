@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/ztm-webdev/zt-m-web-developer/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/ztm-webdev/zt-m-web-developer/"}
 ---
 
 # ZtM - Web Developer
