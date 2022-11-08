@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/testing-javascript/01-fundamentals-of-testing-in-js/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/testing-javascript/01-fundamentals-of-testing-in-js/"}
 ---
 
 # Fundamentals of Testing in JavaScript
