@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/syncthing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/syncthing/"}
 ---
 
 # How To Sync ALL Your Stuff With Syncthing (Linux + Android Guide)
