@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-02-cuide-de-si-mesmo-como-cuidaria-de-alguem-sob-sua-responsabilidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-02-cuide-de-si-mesmo-como-cuidaria-de-alguem-sob-sua-responsabilidade/"}
 ---
 
 ## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
@@ -8,7 +8,7 @@ O título da regra é meio auto-explicativo. E faz muito sentido. Costumamos cui
 
 ### Limites entre ordem e caos
 
-Não sei bem o que isso tem a ver com o título da regra mas o trecho a seguir me lembra o conceito de [[Flow|Flow]], mencionado no livro do Mihaly Csikszentmihalyi.
+Não sei bem o que isso tem a ver com o título da regra mas o trecho a seguir me lembra o conceito de [[Flow\|Flow]], mencionado no livro do Mihaly Csikszentmihalyi.
 
 > Dominar essa dualidade fundamental é ser equilibrado: ter um pé firmemente plantado na ordem e na segurança e outro no caos, na possibilidade, no crescimento e na aventura. Quando a vida repentinamente se revela intensa, arrebatadora e significativa; quando o tempo passa e você está tão absorto no que está fazendo que sequer percebe -- é nesse exato momento que você está localizado na fronteira entre a ordem e o caos.
 
@@ -26,7 +26,7 @@ O termo "serpente" aqui é uma referência a serpente que ofereceu o fruto proib
 
 ### O cristianismo estimula o sacrifício
 
-> a ideia do sacrifício pessoal está profundamente inserida na cultura ocidental (pelo menos até onde o Ocidente foi influenciado pelo cristianismo, que se baseia na imitação de alguém que realizou o ato máximo de auto-sacrifício). Qualquer alegação de que a [[Regra de Ouro|Regra de Ouro]] não signifique "sacrifique-se pelos outros" poderá, portanto, parecer duvidosa. Mas **a morte arquetípica de Cristo existe com um exemplo de como aceitar a finitude, a traição e a tirania heroicamente, e não como uma diretiva para nos vitimizar em serviço dos outros.** Sacrificar-nos para Deus (ou para o bem maior, se preferir) não significa sofrer silenciosa e voluntariamente quando uma pessoa ou organização nos exige mais, de modo reiterado, do que nos é oferecido em troca.
+> a ideia do sacrifício pessoal está profundamente inserida na cultura ocidental (pelo menos até onde o Ocidente foi influenciado pelo cristianismo, que se baseia na imitação de alguém que realizou o ato máximo de auto-sacrifício). Qualquer alegação de que a [[Regra de Ouro\|Regra de Ouro]] não signifique "sacrifique-se pelos outros" poderá, portanto, parecer duvidosa. Mas **a morte arquetípica de Cristo existe com um exemplo de como aceitar a finitude, a traição e a tirania heroicamente, e não como uma diretiva para nos vitimizar em serviço dos outros.** Sacrificar-nos para Deus (ou para o bem maior, se preferir) não significa sofrer silenciosa e voluntariamente quando uma pessoa ou organização nos exige mais, de modo reiterado, do que nos é oferecido em troca.
 
 
 ### Você é obrigado a cuidar de si mesmo
@@ -40,9 +40,9 @@ O termo "serpente" aqui é uma referência a serpente que ofereceu o fruto proib
 
 > Você precisa saber aonde está indo para que limite a extensão do caos em sua vida, reestruture a ordem e traga a força divina da Esperança para o mundo.
 
-Esse trecho me lembrou o segundo hábito em [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes|Os 7 Habitos das pessoas Altamente Eficazes]], e também o [[Essencialismo|Essencialismo]].
+Esse trecho me lembrou o segundo hábito em [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]], e também o [[Essencialismo\|Essencialismo]].
 
-Isso me lembra também o famoso trecho de [[Alice no País das Maravilhas|Alice no País das Maravilhas]], onde Alice pergunta ao gato que caminho ela deve tomar.
+Isso me lembra também o famoso trecho de [[Alice no País das Maravilhas\|Alice no País das Maravilhas]], onde Alice pergunta ao gato que caminho ela deve tomar.
 
 🐱 - Isso depende de para onde você quer ir.
 👧 - Qualquer lugar.
