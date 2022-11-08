@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/k8s-kata/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/k8s-kata/"}
 ---
 
 # k8s-kata
