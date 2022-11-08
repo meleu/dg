@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/onboarding/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/onboarding/"}
 ---
 
 # Onboarding issues in large-scale open source projects
