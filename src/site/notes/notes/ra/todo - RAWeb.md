@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/todo-ra-web/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/ra/todo-ra-web/"}
 ---
 
 ## RAWeb
