@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/os-7-habitos-introducao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/os-7-habitos-introducao/"}
 ---
 
 ## Os 7 Hábitos - Prefácio
@@ -48,7 +48,7 @@ Ao usar uma abordagem **de dentro pra fora**, primeiro nos preocupamos em alcan�
 
 ### Citações
 
-O trecho a seguir está fortemente relacionado com o que acredito ser o conceito de [[atomic-ideas/heuristics|heurísticas]] (aka "as perguntas são mais importantes que as respostas").
+O trecho a seguir está fortemente relacionado com o que acredito ser o conceito de [[atomic-ideas/heuristics\|heurísticas]] (aka "as perguntas são mais importantes que as respostas").
 
 > **Princípios não são práticas**. Uma prática é uma ativida ou ação específica. Uma prática que funciona em determinada circunstância não funcionará necessariamente em outra, conforme pode ser atestado por pais que tentaram educar um segundo filho exatamente como educaram o primeiro.
 
