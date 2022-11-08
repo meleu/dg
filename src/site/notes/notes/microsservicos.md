@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/notes/microsservicos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/microsservicos/"}
 ---
 
 # Estudando Microsserviços
 
 ## Referências
 
-- [[notes/videos/Microservices - Codigo Fonte TV|Microservices - Codigo Fonte TV]]
-- [[notes/videos/O que sao Microsservicos - Alura|O que sao Microsservicos - Alura]]
-- [[notes/videos/Martin Fowler - Microservices|Martin Fowler - Microservices]]
-- [[notes/videos/The Problem with Microservices - Dave Farley|The Problem with Microservices - Dave Farley]]
-- [[notes/videos/Microsservicos muito alem da teoria - Andre Nobre|Microsservicos muito alem da teoria - Andre Nobre]]
-- [[notes/videos/When To Use Microservices - Sam Newman|When To Use Microservices - Sam Newman]]
-- [[notes/videos/Pragmatic Microservices - Randy Shoup|Pragmatic Microservices - Randy Shoup]]
-- [[notes/videos/Interview with Sam Newman about Microservices|Interview with Sam Newman about Microservices]]
-- [[notes/videos/Mastering Chaos - A Netflix Guide to Microservices|Mastering Chaos - A Netflix Guide to Microservices]]
-- [[notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons|Evolutionary Architecture and Microservices - Rebecca Parsons]]
+- [[notes/videos/Microservices - Codigo Fonte TV\|Microservices - Codigo Fonte TV]]
+- [[notes/videos/O que sao Microsservicos - Alura\|O que sao Microsservicos - Alura]]
+- [[notes/videos/Martin Fowler - Microservices\|Martin Fowler - Microservices]]
+- [[notes/videos/The Problem with Microservices - Dave Farley\|The Problem with Microservices - Dave Farley]]
+- [[notes/videos/Microsservicos muito alem da teoria - Andre Nobre\|Microsservicos muito alem da teoria - Andre Nobre]]
+- [[notes/videos/When To Use Microservices - Sam Newman\|When To Use Microservices - Sam Newman]]
+- [[notes/videos/Pragmatic Microservices - Randy Shoup\|Pragmatic Microservices - Randy Shoup]]
+- [[notes/videos/Interview with Sam Newman about Microservices\|Interview with Sam Newman about Microservices]]
+- [[notes/videos/Mastering Chaos - A Netflix Guide to Microservices\|Mastering Chaos - A Netflix Guide to Microservices]]
+- [[notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons\|Evolutionary Architecture and Microservices - Rebecca Parsons]]
 
 
 ## Design Microservice Architectures the Right Way
