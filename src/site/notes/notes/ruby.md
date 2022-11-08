@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ruby/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/ruby/"}
 ---
 
 # ruby
 
-See [[notes/A melhor maneira que encontrei para aprender Ruby|A melhor maneira que encontrei para aprender Ruby]].
+See [[notes/A melhor maneira que encontrei para aprender Ruby\|A melhor maneira que encontrei para aprender Ruby]].
 
 [TOC]
 
@@ -33,7 +33,7 @@ See also:
 
 - <https://rubystyle.guide/>
 - RuboCop: <https://github.com/rubocop/rubocop>
--  [[notes/idiomatic ruby|idiomatic ruby]].
+-  [[notes/idiomatic ruby\|idiomatic ruby]].
 
 
 ### Methods
@@ -129,7 +129,7 @@ end
 
 ## tutorials
 
-- [[notes/Ruby in 100 Minutes|Ruby in 100 Minutes]]
+- [[notes/Ruby in 100 Minutes\|Ruby in 100 Minutes]]
 - [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
 
 
