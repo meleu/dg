@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/gitlab-ci-building-images-with-kaniko/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/gitlab-ci-building-images-with-kaniko/"}
 ---
 
 # gitlab-ci - building images with kaniko
