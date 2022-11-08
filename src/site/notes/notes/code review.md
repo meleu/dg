@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/code-review/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/code-review/"}
 ---
 
 # code review
