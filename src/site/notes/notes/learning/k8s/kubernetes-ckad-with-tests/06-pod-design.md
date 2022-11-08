@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design/"}
 ---
 
 # Pod Design
