@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-3-node-dockerfile-best-practices/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-for-nodejs/docker-for-node-js-3-node-dockerfile-best-practices/"}
 ---
 
 ## Docker for NodeJS - 3. Node Dockerfile Best Practices
 
-- back to [[notes/learning/docker-for-nodejs/Docker for NodeJS|Docker for NodeJS]]
+- back to [[notes/learning/docker-for-nodejs/Docker for NodeJS\|Docker for NodeJS]]
 
 ### Dockerfile Best Practice Basics
 
@@ -15,7 +15,7 @@
     - Reasoning: using `npm` is bad because it...
         - requires another application to run
         - is not as literal in Dockerfiles (what actually runs is in the `package.json`)
-        - doesn't work well as an init or PID 1 process - [[questions/linux - why PID 1 is so important|linux - why PID 1 is so important]]?
+        - doesn't work well as an init or PID 1 process - [[questions/linux - why PID 1 is so important\|linux - why PID 1 is so important]]?
 - use `WORKDIR`, not `RUN mkdir` (unless you need `chown`)
 
 
