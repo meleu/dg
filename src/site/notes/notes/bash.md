@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bash/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/bash/"}
 ---
 
 # bash
