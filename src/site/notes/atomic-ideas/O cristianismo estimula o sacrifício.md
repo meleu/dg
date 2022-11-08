@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/o-cristianismo-estimula-o-sacrificio/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/o-cristianismo-estimula-o-sacrificio/"}
 ---
 
 # O cristianismo estimula o sacrifício
@@ -20,4 +20,4 @@ A relação que vejo é: será que as pessoas seriam excessivamente egoístas se
 
 ## references
 
-- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade]]
+- [[notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade\|Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade]]
