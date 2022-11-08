@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/descomplicando-docker/descomplicando-docker-day-01/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/descomplicando-docker/descomplicando-docker-day-01/"}
 ---
 
 # Descomplicando Docker - Day 01
 
-- voltar para [[notes/learning/descomplicando-docker/Descomplicando Docker|Descomplicando Docker]]
+- voltar para [[notes/learning/descomplicando-docker/Descomplicando Docker\|Descomplicando Docker]]
 
 
 ## principais aprendizados
