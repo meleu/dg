@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/como-ser-devops-engineer-em-2021/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/como-ser-devops-engineer-em-2021/"}
 ---
 
 # COMO SER UM DEVOPS ENGINEER OU SRE EM 2021
