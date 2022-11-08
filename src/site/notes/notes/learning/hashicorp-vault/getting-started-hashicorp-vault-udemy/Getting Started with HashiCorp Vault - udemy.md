@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/getting-started-with-hashi-corp-vault-udemy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/getting-started-with-hashi-corp-vault-udemy/"}
 ---
 
 # Getting Started with HashiCorp Vault - udemy
@@ -20,6 +20,6 @@ Other Resources
 
 ## Course Sections
 
-- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/03-introduction-to-vault|03-introduction-to-vault]]
-- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/04-vault-architecture|04-vault-architecture]]
-- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault|05-installing-vault]]
+- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/03-introduction-to-vault\|03-introduction-to-vault]]
+- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/04-vault-architecture\|04-vault-architecture]]
+- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/05-installing-vault\|05-installing-vault]]
