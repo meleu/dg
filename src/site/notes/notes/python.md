@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/python/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/python/"}
 ---
 
 Things to take a look if/when I need to dive into Python language:
