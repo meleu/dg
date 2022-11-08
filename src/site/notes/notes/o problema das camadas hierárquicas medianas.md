@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/o-problema-das-camadas-hierarquicas-medianas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/o-problema-das-camadas-hierarquicas-medianas/"}
 ---
 
 # O problema das camadas hierárquicas medianas
@@ -7,7 +7,7 @@
 > [!warning] Atenção!
 > O termo *nível médio* usado nesse artigo não está relacionado ao grau de escolaridade, mas sim às camadas hierárquicas que ficam entre o alto escalão e o "chão-de-fábrica".
 
-Li uma coisa no livro [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]] que pra mim foi 🤯 mindblowing. Eis uma transcrição do trecho:
+Li uma coisa no livro [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]] que pra mim foi 🤯 mindblowing. Eis uma transcrição do trecho:
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
