@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/the-problem-with-microservices-dave-farley/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/the-problem-with-microservices-dave-farley/"}
 ---
 
 ## The Problem with Microservices - Dave Farley
