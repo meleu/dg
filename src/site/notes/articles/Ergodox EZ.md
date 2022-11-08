@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ergodox-ez","permalink":"/ergodox-ez/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"dg-permalink":"ergodox-ez","permalink":"/ergodox-ez/"}
 ---
 
 
@@ -16,7 +16,7 @@ Vou falar da motivação de ter comprado esse teclado, quanto custou, primeiras 
 
 O ponto de partida foi um artigo do [Josh Comeau](https://www.joshwcomeau.com/blog/hands-free-coding/) onde ele afirma que ficou fisicamente incapacitado de trabalhar devido a problemas ergonômicos. Fiquei com essa preocupação na cabeça...
 
-Um tempo depois vi uma apresentação do [swyx](https://swyx.io/) chamada [[notes/videos/operating-system-of-you|operating-system-of-you]], onde ele menciona a seguinte citação:
+Um tempo depois vi uma apresentação do [swyx](https://swyx.io/) chamada [[notes/videos/operating-system-of-you\|operating-system-of-you]], onde ele menciona a seguinte citação:
 
 Scott Hanselman:
 > Cuide de si mesmo. esse trabalho pode destruir suas mãos, costas e ombros. Caminhe, converse, fique de pé, agache, qualquer coisa. **Suas mãos, costas e cérebro são o seu dinheiro**. Trate-os bem agora e eles durarão de 30 a 50 anos.
