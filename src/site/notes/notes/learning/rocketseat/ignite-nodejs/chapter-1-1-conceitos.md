@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/rocketseat/ignite-nodejs/chapter-1-1-conceitos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/rocketseat/ignite-nodejs/chapter-1-1-conceitos/"}
 ---
 
 # Chapter 1: Conceitos
