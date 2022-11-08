@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/introducao-a-arte-de-tomar-notas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/introducao-a-arte-de-tomar-notas/"}
 ---
 
 # Introducao a arte de Tomar Notas
@@ -12,7 +12,7 @@
 > Se você realmente é uma pessoa excepcionalmente inteligente, isso pode acabar trabalhando contra você.
 > Você se convence tanto de que pra você as coisas são fáceis, que você acaba realizando menos trabalho do que o necessário para que você produza algo relevante.
 
-Ela menciona o livro [[How to take smart notes|How to take smart notes]].
+Ela menciona o livro [[How to take smart notes\|How to take smart notes]].
 
 - 09:50 - Primeiro erro: fazer anotações mas não fazer referência da fonte
 - 11:35 - Segundo erro: não adianta muito ficar grifando o livro. É importante anotar com as próprias palavras.
