@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/ckad-udemy-course/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/k8s/kubernetes-ckad-with-tests/ckad-udemy-course/"}
 ---
 
 # Kubernetes Certified Application Developer with Tests
 
 <https://www.udemy.com/course/certified-kubernetes-application-developer/>
 
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/00-Accessing the Labs|00-Accessing the Labs]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/00-Accessing the Labs\|00-Accessing the Labs]]
 - 01-intro (nothing interesting)
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/02-core-concepts|02-core-concepts]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/03-configuration|03-configuration]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/04-multi-container-pods|04-multi-container-pods]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/05-observability|05-observability]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design|06-pod-design]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/07-services-and-networking|07-services-and-networking]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/02-core-concepts\|02-core-concepts]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/03-configuration\|03-configuration]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/04-multi-container-pods\|04-multi-container-pods]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/05-observability\|05-observability]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design\|06-pod-design]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/07-services-and-networking\|07-services-and-networking]]
 
 
 
