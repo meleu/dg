@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-4-praticas-de-equipe/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-4-praticas-de-equipe/"}
 ---
 
 # Desenvolvimento Agil Limpo - 4. Praticas de Equipe
 
-- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 
 
 ## Principais Práticas de Equipe
@@ -26,8 +26,8 @@ Ritmo Sustentável, eu acho que é, em termos simples Work-Life Balance e dormir
 
 Propriedade Coletivo é algo que eu meio que já tenho "no sangue"...
 
-Integração Contínua é algo que vale a pena estudar um pouco mais. Sei perfeitamente o que é mas preciso de mais experiência para construir uma pipeline bem arquitetada. Acredito que o [[notes/books/Continuous Delivery|Continuous Delivery]] é um livro que vai me ajudar muito nesse quesito.
+Integração Contínua é algo que vale a pena estudar um pouco mais. Sei perfeitamente o que é mas preciso de mais experiência para construir uma pipeline bem arquitetada. Acredito que o [[notes/books/Continuous Delivery\|Continuous Delivery]] é um livro que vai me ajudar muito nesse quesito.
 
 Ele também fala do Build Contínuo (não apenas nesse capítulo). Uma coisa que me chamou a atenção foi o grau de cuidado para que não se quebre o build contínuo.
 
-Isso me lembrou a tal da Corda de Andon, que aprendi na [[notes/learning/Jornada DevOps|Jornada DevOps]].
+Isso me lembrou a tal da Corda de Andon, que aprendi na [[notes/learning/Jornada DevOps\|Jornada DevOps]].
