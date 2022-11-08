@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/unix-and-linux-system-administration-handbook/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/unix-and-linux-system-administration-handbook/"}
 ---
 
 
@@ -15,4 +15,4 @@ The book presents the most important concepts of all things related to System Ad
 
 In the links below there are some notes about things I learned in each chapter.
 
-- [[notes/books/UNIX and Linux System Administration Handbook/01 - Where to Start|01 - Where to Start]]
+- [[notes/books/UNIX and Linux System Administration Handbook/01 - Where to Start\|01 - Where to Start]]
