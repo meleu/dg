@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/git-lab-cicd-nana-course/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/git-lab-cicd-nana-course/"}
 ---
 
 # GitLab CI/CD - From Zero to Hero
@@ -10,11 +10,11 @@ by Nana
 
 Nothing really new for me in sections 1, 2 and 3.
 
-- [[notes/learning/gitlab-ci-nana/4 - GitLab Architecture|4 - GitLab Architecture]]
-- [[notes/learning/gitlab-ci-nana/5 - CI-CD pipeline for Node.js Application|5 - CI-CD pipeline for Node.js Application]]
-- [[notes/learning/gitlab-ci-nana/6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline|6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
-- [[notes/learning/gitlab-ci-nana/7 - CI-CD MicroService Application (Mono and Polyrepo)|7 - CI-CD MicroService Application (Mono and Polyrepo)]]
-- [[notes/learning/gitlab-ci-nana/8 - Deploy Microservices to Kubernetes cluster|8 - Deploy Microservices to Kubernetes cluster]]
+- [[notes/learning/gitlab-ci-nana/4 - GitLab Architecture\|4 - GitLab Architecture]]
+- [[notes/learning/gitlab-ci-nana/5 - CI-CD pipeline for Node.js Application\|5 - CI-CD pipeline for Node.js Application]]
+- [[notes/learning/gitlab-ci-nana/6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline\|6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
+- [[notes/learning/gitlab-ci-nana/7 - CI-CD MicroService Application (Mono and Polyrepo)\|7 - CI-CD MicroService Application (Mono and Polyrepo)]]
+- [[notes/learning/gitlab-ci-nana/8 - Deploy Microservices to Kubernetes cluster\|8 - Deploy Microservices to Kubernetes cluster]]
 
 
 ---
@@ -40,11 +40,11 @@ Nothing really new for me in sections 1, 2 and 3.
 
 ### Reproduce pipeline locally with Docker compose
 
-While watching [[notes/learning/docker-for-nodejs/Docker for NodeJS|Docker for NodeJS]] course, I had the idea of heaving a docker-compose file for each pipeline job, making it easier to reproduce them locally.
+While watching [[notes/learning/docker-for-nodejs/Docker for NodeJS\|Docker for NodeJS]] course, I had the idea of heaving a docker-compose file for each pipeline job, making it easier to reproduce them locally.
 
 
 ### Have a docker-compose-like setup in a pipeline job
 
-- [[notes/gitlab-ci - running e2e tests on gitlab-runner|gitlab-ci - running e2e tests on gitlab-runner]]
+- [[notes/gitlab-ci - running e2e tests on gitlab-runner\|gitlab-ci - running e2e tests on gitlab-runner]]
 - [services](https://docs.gitlab.com/ee/ci/services/)
 - [article "e2e test apis using docker and gitlab-ci"](https://medium.com/@datails/e2e-test-apis-using-docker-and-gitlab-ci-ebbd0209c7a9)
