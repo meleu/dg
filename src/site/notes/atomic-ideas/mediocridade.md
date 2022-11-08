@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/mediocridade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/mediocridade/"}
 ---
 
 # mediocridade
@@ -32,7 +32,7 @@ José foi espancado pelos irmãos e vendido como escravo por ser "o queridinho d
 
 ### Beatty - Farenheit 451
 
-Trecho de [[notes/books/Farenheit 451|Farenheit 451]]: ^58baf2
+Trecho de [[notes/books/Farenheit 451\|Farenheit 451]]: ^58baf2
 
 > Por certo você se lembra do menino de sua sala na escola que era excepcionalmente "brilhante", era quem dava as respostas enquanto os outros ficavam odiando-o. E não era esse sabichão que vocês pegavam para cristo depois da aula?
 > 
