@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/todo-retro-arch/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/ra/todo-retro-arch/"}
 ---
 
 ## RetroArch
