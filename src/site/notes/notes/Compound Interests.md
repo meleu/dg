@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/compound-interests/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/compound-interests/"}
 ---
 
 # Long-term games and Compound interests
