@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/network-protocols-deep-dive/dns/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/network-protocols-deep-dive/dns/"}
 ---
 
 # Protocol Deep Dive: DNS
