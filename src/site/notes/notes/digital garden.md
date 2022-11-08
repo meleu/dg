@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/digital-garden/"}
 ---
 
 # 🌱 Digital Garden
@@ -11,5 +11,5 @@ Definition from <https://nesslabs.com/digital-garden-set-up>:
 
 Tools I use to build my digital garden:
 
-- [[notes/obsidian|obsidian]]
-- [[notes/using obsidian-digital-garden|using obsidian-digital-garden]] plugin <-- follow the instructions here
+- [[notes/obsidian\|obsidian]]
+- [[notes/using obsidian-digital-garden\|using obsidian-digital-garden]] plugin <-- follow the instructions here
