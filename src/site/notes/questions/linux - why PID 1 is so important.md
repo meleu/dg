@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions/linux-why-pid-1-is-so-important/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/questions/linux-why-pid-1-is-so-important/"}
 ---
 
 # linux - why PID 1 is so important
