@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/about/"}
 ---
 
 
@@ -9,10 +9,10 @@
 
 **Table of Contents**:
 
-- [[about#meleu in 15 seconds|meleu in 15 seconds]]
-- [[about#meleu in 2 minutes|meleu in 2 minutes]]
-- [[about#Interviews & Podcasts|Interviews & Podcasts]]
-- [[about#Main technologies in my toolbox|Main technologies in my toolbox]]
+- [[about#meleu in 15 seconds\|meleu in 15 seconds]]
+- [[about#meleu in 2 minutes\|meleu in 2 minutes]]
+- [[about#Interviews & Podcasts\|Interviews & Podcasts]]
+- [[about#Main technologies in my toolbox\|Main technologies in my toolbox]]
 
 ---
 
@@ -24,9 +24,9 @@
 
 - 🐚 I love the shell (mainly bash) and the Command Line Interface. I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to [[notes/Open Source projects I'm proud of|open source projects related to this hobby]].
+- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to [[notes/Open Source projects I'm proud of\|open source projects related to this hobby]].
 
-- 📚 Avid book reader. Maybe you can know more about me seeing the list of [[moc/books|books]] I read.
+- 📚 Avid book reader. Maybe you can know more about me seeing the list of [[moc/books\|books]] I read.
 
 
 ## meleu in 2 minutes
@@ -79,5 +79,5 @@ Because I put a lot of effort into the [RetroAchievements](https://retroachievem
     - PHP
     - Ruby
 
-See also the [[notes/Open Source projects I'm proud of|Open Source projects I'm proud of]].
+See also the [[notes/Open Source projects I'm proud of\|Open Source projects I'm proud of]].
 
