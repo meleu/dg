@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/zettelkasten/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/zettelkasten/"}
 ---
 
 # Zettelkasten Method
@@ -10,7 +10,7 @@
 
 My summary of <https://zettelkasten.de/introduction/>
 
-At first it requires some effort, but later it'll be extremely useful (and pleasant) just like swimming ([[atomic-ideas/Swimming analogy - when something is hard in the beginning|Swimming analogy - when something is hard in the beginning]]).
+At first it requires some effort, but later it'll be extremely useful (and pleasant) just like swimming ([[atomic-ideas/Swimming analogy - when something is hard in the beginning\|Swimming analogy - when something is hard in the beginning]]).
 
 Once you have your zettelkasten going, when you want to write something you just have to ask your self "Where to start?". And then follow the links...
 
