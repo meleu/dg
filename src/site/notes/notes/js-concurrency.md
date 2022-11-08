@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/js-concurrency/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/js-concurrency/"}
 ---
 
 # JavaScript Concurrency
