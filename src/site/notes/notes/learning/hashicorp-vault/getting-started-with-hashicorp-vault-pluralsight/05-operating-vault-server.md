@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/05-operating-vault-server/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/05-operating-vault-server/"}
 ---
 
 # Operating Vault Server
