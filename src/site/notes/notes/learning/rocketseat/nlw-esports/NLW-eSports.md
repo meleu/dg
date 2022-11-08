@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/rocketseat/nlw-esports/nlw-e-sports/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/rocketseat/nlw-esports/nlw-e-sports/"}
 ---
 
 # NLW-eSports
