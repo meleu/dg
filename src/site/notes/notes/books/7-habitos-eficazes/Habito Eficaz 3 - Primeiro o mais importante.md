@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-3-primeiro-o-mais-importante/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-3-primeiro-o-mais-importante/"}
 ---
 
 # Habito Eficaz 3 - Primeiro o mais importante
@@ -27,7 +27,7 @@ Trabalhar com algo que não me desse a sensação de estar trocando tempo por di
 > 
 > O fortalecimento vem de aprender a usar este grande dom nas decisões que tomamos todos os dias.
 
-Essa questão de escolher as nossas ações também me remete a escolher o que queremos colocar na nossa cabeça, o que queremos pensar, aonde devemos gastar nossa energia mental. E isso de certa forma me lembrou o "pick your battles" do terceiro capítulo de [[notes/books/Hackers and Painters|Hackers and Painters]].
+Essa questão de escolher as nossas ações também me remete a escolher o que queremos colocar na nossa cabeça, o que queremos pensar, aonde devemos gastar nossa energia mental. E isso de certa forma me lembrou o "pick your battles" do terceiro capítulo de [[notes/books/Hackers and Painters\|Hackers and Painters]].
 
 Ainda sobre *vontade independente*, há uma menção a um ensaio chamado *The Common Denominator of Success*, por E. M. Gray, e seguinte citação:
 
@@ -45,7 +45,7 @@ Isso me lembrou o livro do Seth Godin, *O Melhor do Mundo* (em inglês *The Dip*
 3. administrar o tempo atual, priorizar.
 4. não quer gerenciar o tempo, e sim a energia.
 
-Essa pegada da 4a. geração me faz lembrar do [[Essencialismo|Essencialismo]] e também me dá vontade de ler [[notes/books/Personal Kanban|Personal Kanban]].
+Essa pegada da 4a. geração me faz lembrar do [[Essencialismo\|Essencialismo]] e também me dá vontade de ler [[notes/books/Personal Kanban\|Personal Kanban]].
 
 ### Quadrante II
 
@@ -95,7 +95,7 @@ Pensando novamente nas perguntas feitas no começo do capítulo, observe que as 
 
 As questões urgentes vêm até nós e demandam a nossa atenção. As questões importantes que não são tão urgentes exigem mais iniciativa de nossa parte, mais esforço, mais proatividade.
 
-Esse é o maior desafio, ter consciência do que queremos e colocar nossa energia para alcançar isso. Daí a importância do [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente|Habito Eficaz 2 - Comece com o objetivo em mente]].
+Esse é o maior desafio, ter consciência do que queremos e colocar nossa energia para alcançar isso. Daí a importância do [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente\|Habito Eficaz 2 - Comece com o objetivo em mente]].
 
 
 #### Exemplo Prático para aplicar o Hábito 3 e focar no Quadrante II
@@ -109,7 +109,7 @@ Esse é o maior desafio, ter consciência do que queremos e colocar nossa energi
 
 ### Missão Pessoal
 
-Isso é mencionado no [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente|Habito Eficaz 2 - Comece com o objetivo em mente]]. É importante fazer a missão pessoal pois é nela que identificamos nossos papéis.
+Isso é mencionado no [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente\|Habito Eficaz 2 - Comece com o objetivo em mente]]. É importante fazer a missão pessoal pois é nela que identificamos nossos papéis.
 
 - organização de longo prazo:
     - missão -> papéis -> metas
