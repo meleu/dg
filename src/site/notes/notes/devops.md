@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/devops/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/devops/"}
 ---
 
 # DevOps
@@ -17,8 +17,8 @@
 
 <https://www.youtube.com/playlist?list=PLEx5khR4g7PLCoWS5k9u2WQ8RdKqhKEKn> - GOTO talks about DevOps. Below I'm listing the ones I watched and liked the most.
 
-- [[notes/videos/video - 3-practices-for-effective-devops-adoption|video - 3-practices-for-effective-devops-adoption]] - 3 Practices for Effective DevOps Adoption - good insights for cultural changes advocates.
-- [[notes/videos/video - five-years-of-devops|video - five-years-of-devops]] - GOTO 2014 • Five Years of DevOps: Where are we Now?
+- [[notes/videos/video - 3-practices-for-effective-devops-adoption\|video - 3-practices-for-effective-devops-adoption]] - 3 Practices for Effective DevOps Adoption - good insights for cultural changes advocates.
+- [[notes/videos/video - five-years-of-devops\|video - five-years-of-devops]] - GOTO 2014 • Five Years of DevOps: Where are we Now?
 
 
 ### I want to watch
@@ -30,10 +30,10 @@
 
 ## Books
 
-- [[O Projeto Fênix|O Projeto Fênix]] - The Phoenix Project, by Gene Kim, Kevin Behr and George Spafford
-- [[Manual de DevOps|Manual de DevOps]] - The DevOps Handbook, by Gene Kim, Jez Humble, Patrick Debois, John Willis
-- [[notes/books/Continuous Delivery|Continuous Delivery]], by Dave Farley and Jez Humble
-- [[notes/books/Microsserviços prontos para a produção|Microsserviços prontos para a produção]] - Production Ready Microservices, by Susan Fowler
+- [[O Projeto Fênix\|O Projeto Fênix]] - The Phoenix Project, by Gene Kim, Kevin Behr and George Spafford
+- [[Manual de DevOps\|Manual de DevOps]] - The DevOps Handbook, by Gene Kim, Jez Humble, Patrick Debois, John Willis
+- [[notes/books/Continuous Delivery\|Continuous Delivery]], by Dave Farley and Jez Humble
+- [[notes/books/Microsserviços prontos para a produção\|Microsserviços prontos para a produção]] - Production Ready Microservices, by Susan Fowler
 - Web Operations by John Allspaw and Jesse Robbins
 
 
