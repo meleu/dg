@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/web-design-in-4-minutes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/web-design-in-4-minutes/"}
 ---
 
 # Web Design in 4 minutes
