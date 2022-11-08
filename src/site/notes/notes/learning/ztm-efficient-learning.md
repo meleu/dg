@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/ztm-efficient-learning/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/ztm-efficient-learning/"}
 ---
 
 # Efficient Learning
 
 - <https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery>
-- See also [[notes/learning/aprendendo a aprender|aprendendo a aprender]].
+- See also [[notes/learning/aprendendo a aprender\|aprendendo a aprender]].
 
 Really interesting article by Anders Ericsson detailing his researches about deliberate practice (in the text he calls it purposeful practice).
 
