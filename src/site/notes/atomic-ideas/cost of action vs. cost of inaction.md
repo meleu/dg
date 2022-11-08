@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/cost-of-action-vs-cost-of-inaction/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/cost-of-action-vs-cost-of-inaction/"}
 ---
 
 # cost of action vs. cost of inaction
 
-While reading the preface of [[notes/books/code-complete/Code Complete|Code Complete]] I've found this (about the importance of "software construction" discipline compared to design, tests, management, etc):
+While reading the preface of [[notes/books/code-complete/Code Complete\|Code Complete]] I've found this (about the importance of "software construction" discipline compared to design, tests, management, etc):
 
 > Some commentators have pointed out that although constructions errors account for a high percentage of total errors, construction errors tend to be **less expensive to fix** than those caused by requirements and architecture, the suggestion being that they are therefore less important. The claim that construction errors cost less to fix is true but misleading because **the cost of not fixing them can be incredibly high**. (...) **An inexpensive cost to fix obviously does not imply that fixing them should be a low priority.**
 
@@ -26,5 +26,5 @@ This comparison between "cost to fix vs. cost to not fix" immediately made me re
 
 ## references
 
-- [[notes/books/code-complete/Code Complete|Code Complete]]
+- [[notes/books/code-complete/Code Complete\|Code Complete]]
 - Tim Ferris: [Fear-Setting exercise](https://youtu.be/o7EVMjgsSME)
