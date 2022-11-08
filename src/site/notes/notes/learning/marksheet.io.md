@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/marksheet-io/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/marksheet-io/"}
 ---
 
 # marksheet.io
