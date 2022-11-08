@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/6-optimize-ci-cd-pipeline-and-configure-multi-stage-pipeline/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/gitlab-ci-nana/6-optimize-ci-cd-pipeline-and-configure-multi-stage-pipeline/"}
 ---
 
 ## 6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline
 
-- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course|GitLab CICD - Nana course]]
+- back to [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course\|GitLab CICD - Nana course]]
 
 ### 2 - Configure Dynamic Versioning for Docker Image
 
