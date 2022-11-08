@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/a-identidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/a-identidade/"}
 ---
 
 # A Identidade
 
-- Livro de Milan Kundera (mesmo autor de [[notes/books/A insustentavel leveza do ser|A insustentavel leveza do ser]]).
+- Livro de Milan Kundera (mesmo autor de [[notes/books/A insustentavel leveza do ser\|A insustentavel leveza do ser]]).
 
 Legalzinho.
 
