@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/successful-kubernetes-development-workflows/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/successful-kubernetes-development-workflows/"}
 ---
 
 # Successful Kubernetes Development Workflows - Ellen Körbes
