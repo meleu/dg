@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/practical-object-oriented-design/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/practical-object-oriented-design/"}
 ---
 
 
