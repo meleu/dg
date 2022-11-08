@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/e-xtreme-programming-explained/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/e-xtreme-programming-explained/"}
 ---
 
 
@@ -25,7 +25,7 @@ Existem quatro variáveis relacionadas a um projeto de software:
 - qualidade
 - escopo
 
-Isso também é mencionado pelo Uncle Bob no [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 1. Introducao#Restrição Tripla|Desenvolvimento Agil Limpo - 1. Introducao#Restrição Tripla]].
+Isso também é mencionado pelo Uncle Bob no [[notes/books/clean-agile/Desenvolvimento Agil Limpo - 1. Introducao#Restrição Tripla\|Desenvolvimento Agil Limpo - 1. Introducao#Restrição Tripla]].
 
 ### Custo
 
@@ -51,9 +51,9 @@ Solução: trabalhar com iterações curtas, limitadas a pequenas entregas de es
 
 > Você pode ter ganhos a curto prazo se deliberadamente sacrificar a qualidade, mas o custo - humano, comercial e técnico - é enorme.
 
-Abrir mão da qualidade gera o *infamous* [[debito tecnico|debito tecnico]].
+Abrir mão da qualidade gera o *infamous* [[debito tecnico\|debito tecnico]].
 
-Esse tema me faz lembrar de uma coisa que li no [[notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On|Code Complete - 3.2. Determine the Kind of Software You're Working On]]. Para cada tipo de software existe uma abordagem mais apropriada. Imagino eu que em Hackathons e construção de MVPs, abrir mão da qualidade para fazer algo muito rápido pode ser uma decisão aceitável. O perigo é querer evoluir a partir de uma versão feita sem qualidade para ser concluída rapidamente.
+Esse tema me faz lembrar de uma coisa que li no [[notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On\|Code Complete - 3.2. Determine the Kind of Software You're Working On]]. Para cada tipo de software existe uma abordagem mais apropriada. Imagino eu que em Hackathons e construção de MVPs, abrir mão da qualidade para fazer algo muito rápido pode ser uma decisão aceitável. O perigo é querer evoluir a partir de uma versão feita sem qualidade para ser concluída rapidamente.
 
 > Qualidade não é verdadeiramente uma variável livre. Os únicos valores possíveis são "excelente" ou "insanamente excelente", dependendo se vidas estão em jogo ou não. Do contrário você não aprecia o seu trabalho, não trabalha bem e o projeto vai por água abaixo.
 
@@ -102,7 +102,7 @@ Já testemunhei esse cenário muitas vezes:
 >
 > Simplicidade e comunicação têm uma maravilhosa relação de suporte mútuo. Quando mais você se comunica, mais claramente você vê o que precisa ser feito e tem mais certeza sobre o que não precisa. Quanto mais simples for o sistema, menos você precisa comunicar sobre ele. O que nos leva a uma comunicação mais completa, especialmente se você pode simplificar o sistema o suficiente para precisar de menos programadores.
 
-Obs.: esse tema me lembra uma coisa que vi no [[notes/books/code-complete/Code Complete|Code Complete]]: "uma das funções do Engenheiro de Software é conter a complexidade."
+Obs.: esse tema me lembra uma coisa que vi no [[notes/books/code-complete/Code Complete\|Code Complete]]: "uma das funções do Engenheiro de Software é conter a complexidade."
 
 ### feedback
 
