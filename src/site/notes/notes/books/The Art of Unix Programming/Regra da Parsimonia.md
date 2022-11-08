@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-parsimonia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/the-art-of-unix-programming/regra-da-parsimonia/"}
 ---
 
 # Regra da Parsimônia - The Art of Unix Programming
