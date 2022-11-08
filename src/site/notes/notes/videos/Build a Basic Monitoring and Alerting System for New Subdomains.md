@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/build-a-basic-monitoring-and-alerting-system-for-new-subdomains/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/build-a-basic-monitoring-and-alerting-system-for-new-subdomains/"}
 ---
 
 # 5 Minutes to Build a Basic Monitoring and Alerting System for New Subdomains
