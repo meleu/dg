@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-2-comece-com-o-objetivo-em-mente/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/7-habitos-eficazes/habito-eficaz-2-comece-com-o-objetivo-em-mente/"}
 ---
 
 # Hábito Eficaz 2 - Comece com o objetivo em mente
@@ -14,11 +14,11 @@ O capítulo também tem alguns insights bem maneiros.
 
 ### Mutável vs. Imutável
 
-Esse trecho me lembrou muito o [[notes/books/12-regras/12 Regras Para a Vida|12 Regras Para a Vida]], quando se fala sobre [[notes/books/12-regras/Regra 01 - Costas eretas, ombros para trás#A natureza da natureza|Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
+Esse trecho me lembrou muito o [[notes/books/12-regras/12 Regras Para a Vida\|12 Regras Para a Vida]], quando se fala sobre [[notes/books/12-regras/Regra 01 - Costas eretas, ombros para trás#A natureza da natureza\|Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
 
 > As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
 
-Daí a importância de termos [[Princípios (Ray Dalio)|Princípios (Ray Dalio)]].
+Daí a importância de termos [[Princípios (Ray Dalio)\|Princípios (Ray Dalio)]].
 
 ### Liderar vs. Gerenciar
 
@@ -30,7 +30,7 @@ Muito frequentemente gastamos uma energia pensando nessa otimização dos proces
 > 
 > E como reagem os produtores e gerenciadores, com frequência? Dizem: "Cale a boca! Estamos conseguindo avançar!"
 
-Isso também me lembra a frase "Não administre seu tempo, administre sua energia". Isso pra mim ressoa como "ao invés de ficar com aquela crise de ansiedade gerenciando seu tempo para tentar encaixar mais atividades, decida o que é realmente essencial pra você e invista sua energia nisso." Devo confessar que isso é um pensamento bem influenciado pelo [[Essencialismo|Essencialismo]].
+Isso também me lembra a frase "Não administre seu tempo, administre sua energia". Isso pra mim ressoa como "ao invés de ficar com aquela crise de ansiedade gerenciando seu tempo para tentar encaixar mais atividades, decida o que é realmente essencial pra você e invista sua energia nisso." Devo confessar que isso é um pensamento bem influenciado pelo [[Essencialismo\|Essencialismo]].
 
 ### Centro da nossa vida
 
@@ -44,17 +44,17 @@ Fonte de:
 
 ### Sugestões de aplicação
 
-1. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#Registrar as impressões que teve no funeral visualizado no início do capítulo|#Registrar as impressões que teve no funeral visualizado no início do capítulo]]
+1. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#Registrar as impressões que teve no funeral visualizado no início do capítulo\|#Registrar as impressões que teve no funeral visualizado no início do capítulo]]
 
-2. Dedique alguns momentos a [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#anotar em seus papéis|#anotar em seus papéis]], da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
+2. Dedique alguns momentos a [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#anotar em seus papéis\|#anotar em seus papéis]], da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
 
 3. Reserve algum tempo para se afastar completamente das atividades diárias e se concentrar inteiramente em sua missão pessoal.
 
 4. Vá até o quadro no Apêndice A, mostrando diferentes centros, e faça um círculo em torno de todos aqueles com os quais se identifica. Será que eles mostram um padrão de comportamento em sua vida? Está satisfeito com as implicações de sua análise?
 
-5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal. (link: [[notes/material para missao pessoal|material para missao pessoal]])
+5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal. (link: [[notes/material para missao pessoal\|material para missao pessoal]])
 
-6. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#6 Escolha um projeto com o qual se defrontará em um futuro próximo|#6 Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+6. [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente#6 Escolha um projeto com o qual se defrontará em um futuro próximo\|#6 Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
 
 7. Mostre os princípios do Hábito 2 para sua família e amigos ou colegas de trabalho, e sugira que todos iniciem juntos o processo de desenvolver uma missão familiar ou grupal.
 
