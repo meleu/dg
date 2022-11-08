@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/kubernetes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/kubernetes/"}
 ---
 
 # kubernetes
@@ -10,8 +10,8 @@
 
 ## books
 
-- [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
-- [[notes/books/Cloud Native DevOps with Kubernetes|Cloud Native DevOps with Kubernetes]]
+- [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
+- [[notes/books/Cloud Native DevOps with Kubernetes\|Cloud Native DevOps with Kubernetes]]
 
 
 ## certification practice
@@ -92,13 +92,13 @@ Same thing as ReplicaSets, but in the field `kind:` replace `ReplicaSet` with `D
 
 ## cursos
 
-- [[notes/learning/devops-bootcamp/10-kubernetes|10-kubernetes]]
-- [[notes/learning/k8s/kubernetes-for-absolute-beginners/Kubernetes for the Absolute Beginners|Kubernetes for the Absolute Beginners]]
-- [[notes/learning/k8s/kubernetes-ckad-with-tests/CKAD udemy course|CKAD udemy course]]
+- [[notes/learning/devops-bootcamp/10-kubernetes\|10-kubernetes]]
+- [[notes/learning/k8s/kubernetes-for-absolute-beginners/Kubernetes for the Absolute Beginners\|Kubernetes for the Absolute Beginners]]
+- [[notes/learning/k8s/kubernetes-ckad-with-tests/CKAD udemy course\|CKAD udemy course]]
 
 
 ## livros
 
-- [[notes/books/k8s-basico/livro Kubernetes Basico|livro Kubernetes Basico]]
-- [[Padroes para Kubernetes|Padroes para Kubernetes]]
+- [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
+- [[Padroes para Kubernetes\|Padroes para Kubernetes]]
 
