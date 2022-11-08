@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/my-software-engineering-principles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/my-software-engineering-principles/"}
 ---
 
 # my software engineering principles
@@ -10,8 +10,8 @@
 > 
 > This is how you stand out - not by doing many things never better than average.
 
-For the "commit to fewer things", I think I had a good help from these books: [[Essencialismo|Essencialismo]]
-and [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes|Os 7 Habitos das pessoas Altamente Eficazes]].
+For the "commit to fewer things", I think I had a good help from these books: [[Essencialismo\|Essencialismo]]
+and [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]].
 
 
 ## Be an owner, not a renter
