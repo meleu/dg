@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-ideas/quantity-over-quality/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/atomic-ideas/quantity-over-quality/"}
 ---
 
 # Quantity over quality
@@ -11,9 +11,9 @@ Practice. Practice. Practice!
 
 ## see also
 
-- [[notes/positive vs negative feedback|positive vs negative feedback]]
+- [[notes/positive vs negative feedback\|positive vs negative feedback]]
 
 
 ## references
 
-- [[Art and Fear|Art and Fear]]: Observations on the Perils (and Rewards) of Artmaking
+- [[Art and Fear\|Art and Fear]]: Observations on the Perils (and Rewards) of Artmaking
