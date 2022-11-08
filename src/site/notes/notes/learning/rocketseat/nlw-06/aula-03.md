@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/rocketseat/nlw-06/aula-03/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/rocketseat/nlw-06/aula-03/"}
 ---
 
 # NLW #6 - Aula 3
