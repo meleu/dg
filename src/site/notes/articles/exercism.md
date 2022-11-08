@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/exercism/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/articles/exercism/"}
 ---
 
 
