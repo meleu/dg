@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/docker/"}
 ---
 
 # docker
 
-See also: [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]]
+See also: [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]]
 
-- [[notes/Docker Installation|Docker Installation]]
+- [[notes/Docker Installation\|Docker Installation]]
 
 
 ## links
