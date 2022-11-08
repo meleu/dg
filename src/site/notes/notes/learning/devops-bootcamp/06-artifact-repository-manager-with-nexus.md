@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/06-artifact-repository-manager-with-nexus/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/devops-bootcamp/06-artifact-repository-manager-with-nexus/"}
 ---
 
 # Artifact Repository Manager with Nexus
