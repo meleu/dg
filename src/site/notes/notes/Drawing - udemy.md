@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/drawing-udemy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/drawing-udemy/"}
 ---
 
 # The Art & Science of Drawing - Basic Skills
