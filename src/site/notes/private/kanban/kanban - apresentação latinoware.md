@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/kanban/kanban-apresentacao-latinoware/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/private/kanban/kanban-apresentacao-latinoware/"}
 ---
 
 
