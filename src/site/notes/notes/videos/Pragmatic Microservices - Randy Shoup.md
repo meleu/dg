@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/videos/pragmatic-microservices-randy-shoup/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/videos/pragmatic-microservices-randy-shoup/"}
 ---
 
 ## Pragmatic Microservices - Randy Shoup
