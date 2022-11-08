@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/material-para-missao-pessoal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/material-para-missao-pessoal/"}
 ---
 
 # material para missao pessoal
@@ -14,4 +14,4 @@
 
 ## references
 
-- [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente|Habito Eficaz 2 - Comece com o objetivo em mente]], exercício 5
+- [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente\|Habito Eficaz 2 - Comece com o objetivo em mente]], exercício 5
