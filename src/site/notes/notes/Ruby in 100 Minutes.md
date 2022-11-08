@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ruby-in-100-minutes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/ruby-in-100-minutes/"}
 ---
 
 ## Ruby in 100 Minutes
@@ -197,7 +197,7 @@ Others methods to try:
 - `collect`
 - `shuffle`
 
-See full Array documentation: <https://ruby-doc.org/core-2.5.1/Array.html> (2.5.1 because that's the version used in [[notes/books/The Well-Grounded Rubyist|The Well-Grounded Rubyist]])
+See full Array documentation: <https://ruby-doc.org/core-2.5.1/Array.html> (2.5.1 because that's the version used in [[notes/books/The Well-Grounded Rubyist\|The Well-Grounded Rubyist]])
 
 
 ### Hashes
