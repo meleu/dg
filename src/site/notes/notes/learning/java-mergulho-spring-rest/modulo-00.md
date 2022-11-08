@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/java-mergulho-spring-rest/modulo-00/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/java-mergulho-spring-rest/modulo-00/"}
 ---
 
 # Mergulho Spring REST - Preparação do Ambiente
