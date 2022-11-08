@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-01-costas-eretas-ombros-para-tras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/regra-01-costas-eretas-ombros-para-tras/"}
 ---
 
 ## Regra 01: Costas eretas, ombros para trás
@@ -16,7 +16,7 @@ A relação que faço é que um comportamento mais subordinado é mais apropriad
 
 ### Princípio da distribuição desnivelada
 
-Há uma menção ao famoso [[Princípio de Pareto|Princípio de Pareto]].
+Há uma menção ao famoso [[Princípio de Pareto\|Princípio de Pareto]].
 
 Há também uma citação ao que ele chama como "Princípio de Mateus" (Mateus 25:29):
 
@@ -27,7 +27,7 @@ Há também uma citação ao que ele chama como "Princípio de Mateus" (Mateus 2
 
 > Uma verdade incontestável da biologia é que a evolução é conservadora. Quando algo evolui, deve ser construído a partir do que a natureza já produziu. Novas características podem ser acrescentadas e características antigas sofrer alguma alteração, mas a maioria das coisas permanece igual.
 
-Interpretei isso como uma apologia a se manter alinhado com as tradições e então alterar/adaptar o que julgar necessário (abordagem que eu concordo). Em oposição a negar tudo (aka [[niilismo|niilismo]]).
+Interpretei isso como uma apologia a se manter alinhado com as tradições e então alterar/adaptar o que julgar necessário (abordagem que eu concordo). Em oposição a negar tudo (aka [[niilismo\|niilismo]]).
 
 Gostei do trecho a seguir, e vejo como um argumento que diz que a natureza/ambiente/contexto está em constante mudança. Portanto algumas "receitas de sucesso" que funcionaram no passado podem não funcionar hoje.
 
@@ -51,5 +51,5 @@ Sobre a importância de se sentir amado:
 
 Sobre a importância da rotina:
 
-> Os atos da vida que repetimos diariamente precisão ser automatizados. Eles devem se tornar hábitos estáveis e confiáveis, assim eles perdem sua complexidade e ganham previsibilidade e simplicidade. [isso me lembrou [[Rápido e Devagar|Rápido e Devagar]]]. Podemos perceber isso mais claramente no caso das crianças, que ficam agradáveis, divertidas e brincalhonas quando seu horário de dormir e comer está estável, e ficam irritáveis, chorosas e desagradáveis quando não está.
+> Os atos da vida que repetimos diariamente precisão ser automatizados. Eles devem se tornar hábitos estáveis e confiáveis, assim eles perdem sua complexidade e ganham previsibilidade e simplicidade. [isso me lembrou [[Rápido e Devagar\|Rápido e Devagar]]]. Podemos perceber isso mais claramente no caso das crianças, que ficam agradáveis, divertidas e brincalhonas quando seu horário de dormir e comer está estável, e ficam irritáveis, chorosas e desagradáveis quando não está.
 
