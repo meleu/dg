@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/running-a-shell-inside-containers/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/running-a-shell-inside-containers/"}
 ---
 
 ## Running a shell inside containers
