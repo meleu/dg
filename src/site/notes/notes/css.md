@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/css/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/css/"}
 ---
 
 # CSS
@@ -8,7 +8,7 @@
 
 ---
 
-- [[notes/CSS - transition e transform|CSS - transition e transform]]
+- [[notes/CSS - transition e transform\|CSS - transition e transform]]
 
 
 ## courses
