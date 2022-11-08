@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-networks/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/learning/docker-mastery/docker-networks/"}
 ---
 
 ## Docker Networks
 
-- From [[notes/learning/docker-mastery/Docker Mastery - udemy|Docker Mastery - udemy]]
+- From [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]]
 
 ### Concepts
 
