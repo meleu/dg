@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-5-praticas-tecnicas/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo-5-praticas-tecnicas/"}
 ---
 
 # Desenvolvimento Agil Limpo - 5. Praticas Tecnicas
 
-- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo|Desenvolvimento Agil Limpo]]
+- Voltar para [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 
 ---
 
@@ -21,7 +21,7 @@ Basicamenete. Estudar as práticas XP:
 >
 > Qualquer tentativa de utilizar as práticas ágeis sem as práticas técnicas está condenada ao fracasso. (...) A agilidade é um mecanismo eficiente que pode instaurar uma bagunça generalizada muito rápido.
 
-Para me aprofundar nessas práticas, eu montei uma lista de livros a serem conferidos: [[notes/TDD-Refactoring literature|TDD-Refactoring literature]].
+Para me aprofundar nessas práticas, eu montei uma lista de livros a serem conferidos: [[notes/TDD-Refactoring literature\|TDD-Refactoring literature]].
 
 ---
 
