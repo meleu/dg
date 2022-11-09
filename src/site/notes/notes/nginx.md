@@ -5,6 +5,36 @@
 
 # Resumo dos meus estudos de NginX
 
+---
+
+- [[notes/nginx#Instalando\|Instalando]]
+	- [[#Instalando#via `apt-get`|via `apt-get`]]
+	- [[notes/nginx#Instalando\|from source]]
+	- [[notes/nginx#Instalando\|Iniciar NginX durante o boot com systemd]]
+	- [[notes/nginx#Instalando\|Usando NginX via docker]]
+- [[notes/nginx#Conceitos básicos\|Conceitos básicos]]
+	- [[notes/nginx#Conceitos básicos\|Directive]]
+		- [[notes/nginx#Directive\|Diretivas Normais]]
+		- [[notes/nginx#Directive\|Diretivas Array]]
+		- [[notes/nginx#Directive\|Diretivas de Ação]]
+	- [[notes/nginx#Conceitos básicos\|Context]]
+- [[notes/nginx#Configuração Básica\|Configuração Básica]]
+- [[notes/nginx#Blocos location\|Blocos location]]
+- [[notes/nginx#Variáveis\|Variáveis]]
+- [[notes/nginx#Redirecionamento\|Redirecionamento]]
+- [[notes/nginx#Rewrite\|Rewrite]]
+- [[notes/nginx#try_files\|try_files]]
+- [[notes/nginx#Named Locations\|Named Locations]]
+- [[notes/nginx#Worker Processes e Worker Connections\|Worker Processes e Worker Connections]]
+- [[notes/nginx#Comprimindo dados com gzip\|Comprimindo dados com gzip]]
+- [[notes/nginx#Segurança Básica\|Segurança Básica]]
+- [[notes/nginx#Autenticação básica (estilo .htpasswd)\|Autenticação básica (estilo .htpasswd)]]
+- [[notes/nginx#Rate Limiting\|Rate Limiting]]
+- [[notes/nginx#TODO: FastCGI caching\|TODO: FastCGI caching]]
+- [[notes/nginx#TODO: HTTP2\|TODO: HTTP2]]
+
+---
+
 ## Introdução
 
 **Importante**: Esse é um resumo bem "grosseiro" do que eu venho aprendendo sobre NginX. Isso aqui não é um texto escrito com o objetivo de "ensinar", é mais um resumo bastante pessoal dos meus estudos. Não me preocupei muito em deixar tudo bem explicadinho.
