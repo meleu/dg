@@ -35,7 +35,7 @@ I don't agree with this understanding from the author:
 - Where this metaphor does NOT work well:
     - in writing, a high premium is placed on originality
     - in software construction, trying to create truly original work is often less effective than focusing on the reuse of design ideas, code and test cases.
-- "Plan to throw one away; you will, any how." - Fred Brooks, author of [[O Mitico Homem-Mes\|O Mitico Homem-Mes]]
+- "Plan to throw one away; you will, any how." - Fred Brooks, author of [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]]
     - "If you plan to throw one away, you will throw away two." - Reply from Craig Zerouni
     - My interpretation: "Do not plan to throw away, but be aware that it can happen."
     - It's not that simple to throw away a very large and expensive project.
