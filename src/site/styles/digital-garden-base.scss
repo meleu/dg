@@ -12,6 +12,11 @@ body {
     font-size: 22px;
     line-height: 1.5;
     margin-top: 90px;
+
+    @media(max-width: 800px) {
+        margin-top: 150px;
+    }
+
 }
 
 .external-link {
@@ -98,6 +103,7 @@ ul.task-list {
     .backlink-title {
         margin: 4px 0;
         font-size: 18px !important;
+        color: var(--h6-color);
     }
 }
 
@@ -116,6 +122,7 @@ ul.task-list {
         padding: 12px;
         font-size: 18px !important;
         border-radius: 10px 10px 0 0;
+        color: var(--h6-color);
     }
 }
 
