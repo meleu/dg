@@ -9,6 +9,22 @@
 
 [TOC]
 
+- [[notes/books/Clean Code#Clean Code - 1. Clean Code\|Clean Code - 1. Clean Code]]
+	- [[notes/books/Clean Code#Clean Code - 1. Clean Code\|Quality vs. Business Pressure]]
+	- [[notes/books/Clean Code#Clean Code - 1. Clean Code\|Reading vs. Writing]]
+	- [[notes/books/Clean Code#Clean Code - 1. Clean Code\|The Boy Scout Rule]]
+- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|Clean Code - 2. Meaningful Names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|use intention-revealing names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|avoid disinformation]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|make meaningful distinctions]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|use pronounceable names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|use searchable names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|method/function names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|pick one word per concept]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|use solution domain names]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|add meaningful context]]
+	- [[notes/books/Clean Code#Clean Code - 2. Meaningful Names\|don't add gratuitous context]]
+- [[notes/books/Clean Code#Functions\|Functions]]
 
 ---
 
