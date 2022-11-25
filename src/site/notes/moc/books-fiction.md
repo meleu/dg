@@ -6,8 +6,8 @@
 
 | File                                                                                              | author              | When I read |
 | ------------------------------------------------------------------------------------------------- | ------------------- | ----------- |
-| [[notes/books/Crime e Castigo\|Crime e Castigo]]                                               | Fyodor Dostoevsky   | 2022        |
 | [[notes/books/O Estrangeiro\|O Estrangeiro]]                                                   | Albert Camus        | 2022        |
+| [[notes/books/Crime e Castigo\|Crime e Castigo]]                                               | Fyodor Dostoevsky   | 2022        |
 | [[notes/books/O Apanhador no Campo de Centeio\|O Apanhador no Campo de Centeio]]               | J. D. Salinger      | 2019        |
 | [[notes/books/Mais Esperto que o Diabo\|Mais Esperto que o Diabo]]                             | Napoleon Hill       | 2019        |
 | [[notes/books/Farenheit 451\|Farenheit 451]]                                                   | Ray Bradbury        | 2019        |
