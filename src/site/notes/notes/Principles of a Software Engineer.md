@@ -22,5 +22,5 @@ My principles related to my profession.
 ## Influence
 
 - [[notes/books/code-complete/Code Complete\|Code Complete]]
-- [[notes/books/Clean Code\|Clean Code]]
+- [[notes/books/clean-code/Clean Code\|Clean Code]]
 - [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]]
