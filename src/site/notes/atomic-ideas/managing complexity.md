@@ -9,7 +9,7 @@ In software literature there are many references from the "great masters" talkin
 
 ## Problems caused by complexity
 
-From [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]] (Mythical Man Month).
+From [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]] (The Mythical Man Month).
 
 - Complexity causes:
     - harder communication between team members, which leads to deficiencies in the product, **increased costs**, and **delayed schedule**.
@@ -22,16 +22,47 @@ From [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]] (Mythical Man Month)
 
 From [[notes/books/code-complete/Code Complete\|Code Complete]].
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Code Complete - 5.2. Sotfware's Primary Technical Imperative: Managing Complexity
+
+> Once you understand that all other technical goals in software are secondary to managing complexity, many design considerations become straightforward.
+
+I noticed how this thought influenced me when I check commit diffs. If the code is not simpler, I'm not satisfied.
+
+> You might think of this as mental juggling - the more mental balls the program requires you to keep in the air at once, the more likely you'll drop one of the balls, leading to a design or coding error.
+> 
+> (...) If your design doesn't let you safely ignore most other parts of the program when you're immersed in one specific part, the design isn't doing its job.
+
+Complexity is one of the reasons for project failure:
+
 > When projects fail for reasons that are primarily technical, the reason is often uncontrolled complexity. The software is allowed to grow so complex that no one really knows what it does. When a project reaches the point at which no one completely understands the impact that code changes in one area will have on other areas, progress grinds to a halt.
 
 
-## The Lehman's Law of Increasing Complexity
+</div></div>
+
+
+
+## Lehman's Law of Increasing Complexity
 
 > As a system evolves, it's complexity increases **unless work is done to reduce it**.
 
 We can't have software teams as blind feature factories, piling more and more features on to software in the hope it will survive in the long run.
 
 We **must** keep managing the complexity of the system as the knowledge of our domain changes.
+
+
+## Tesler's Law of Conservation of Complexity
+
+> Every application has an inherent amount of complexity that cannot be removed or hidden. Instead, it must be dealt with, either in product development or in user interaction.
+
+We should never use this 👆 as an excuse to tolerate "artificial" complexity.
+
+This law refers to the "minimal amount of complexity" in a system. Such complexity cannot be reduced, but "shifted" from a step in the value stream to another. Despite this law, you must always keep your eyes open and avoid increasing the "artificial" complexity (the complexity caused by bad design, bad coding practices, etc.).
 
 
 ## references
