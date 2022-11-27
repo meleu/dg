@@ -7,8 +7,7 @@
 ## currently reading
 
 - [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]]
-- [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]]
-
+- ⭐ [[notes/books/clean-code/Clean Code\|Clean Code]]
 
 ---
 
@@ -43,6 +42,7 @@ Maybe this list can tell a bit about who I am.
 
 #### unfinished
 
+- [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]]
 - [[notes/books/Building a Second Brain\|Building a Second Brain]]
 - ⭐ [[notes/books/Sapiens\|Sapiens]]
 - [[Antifragil\|Antifragil]]
@@ -118,7 +118,6 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Rápido e Devagar\|Rápido e Devagar]]
 - [[Essencialismo\|Essencialismo]]
 - [[Trabalhe 4 Horas por Semana\|Trabalhe 4 Horas por Semana]]
-- ⭐ [[notes/books/clean-code/Clean Code\|Clean Code]]
 - [[Startup de $100\|Startup de $100]]
 - [[Como Organizar sua Vida Financeira - Cerbasi\|Como Organizar sua Vida Financeira - Cerbasi]]
 - [[Como fazer amigos e influenciar pessoas\|Como fazer amigos e influenciar pessoas]]
