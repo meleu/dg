@@ -6,6 +6,8 @@
 
 ## references
 
+- <https://bertvv.github.io/cheat-sheets/Bash.html> - applying principles of Clean Code in bash scripts
+    - use as inspiration to write about bash: <https://github.com/Pungyeon/clean-go-article>
 - <https://mywiki.wooledge.org/BashSheet> - the best bash reference I know
 - <http://mywiki.wooledge.org/> - awesome bash knowledge resource.
 - <https://wiki.bash-hackers.org> - more bash hacking
@@ -25,7 +27,8 @@
 - <http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html>
 
 ## really cool links
-- <https://cheat.sh> - the only cheat sheet you need :)
+
+- <https://cheat.sh> - the only cheat sheet you need (actually I use [this one](https://github.com/cheat/cheat))
 - <https://explainshell.com/> - write down a command-line to see the help text that matches each argument.
 
 
