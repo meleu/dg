@@ -118,7 +118,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Rápido e Devagar\|Rápido e Devagar]]
 - [[Essencialismo\|Essencialismo]]
 - [[Trabalhe 4 Horas por Semana\|Trabalhe 4 Horas por Semana]]
-- ⭐ [[notes/books/Clean Code\|Clean Code]]
+- ⭐ [[notes/books/clean-code/Clean Code\|Clean Code]]
 - [[Startup de $100\|Startup de $100]]
 - [[Como Organizar sua Vida Financeira - Cerbasi\|Como Organizar sua Vida Financeira - Cerbasi]]
 - [[Como fazer amigos e influenciar pessoas\|Como fazer amigos e influenciar pessoas]]
