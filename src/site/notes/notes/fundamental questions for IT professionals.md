@@ -15,6 +15,6 @@ How to encourage high quality work?
 
 - [[notes/books/code-complete/Code Complete\|Code Complete]]
 - [[notes/books/Continuous Delivery\|Continuous Delivery]]
-- [[notes/books/Clean Code\|Clean Code]]
+- [[notes/books/clean-code/Clean Code\|Clean Code]]
 
 
