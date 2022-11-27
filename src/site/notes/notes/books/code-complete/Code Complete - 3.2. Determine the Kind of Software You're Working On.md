@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete-3-2-determine-the-kind-of-software-you-re-working-on/"}
 ---
 
-## Code Complete - 3.2. Determine the Kind of Software You're Working On
+### Code Complete - 3.2. Determine the Kind of Software You're Working On
 
 > Posted on [codingcareer forum](https://codingcareer.circle.so/c/lindy-library/book-code-complete-by-steve-mcconnel).
 
