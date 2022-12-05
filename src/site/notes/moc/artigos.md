@@ -11,7 +11,7 @@ Veja também alguns [[moc/traducoes\|artigos que eu traduzi]] de outros autores.
 
 | File                                                                     | Título                                            | Última modificação |
 | ------------------------------------------------------------------------ | ------------------------------------------------- | ------------------ |
-| [[articles/Ergodox EZ\|Ergodox EZ]]                                   | Teclado Ergodox EZ vale a pena?                   | 2022-10-22         |
+| [[articles/Ergodox EZ\|Ergodox EZ]]                                   | Teclado Ergodox EZ vale a pena?                   | 2022-12-04         |
 | [[articles/livros que me influenciaram\|livros que me influenciaram]] | Livros que me influenciaram                       | 2022-10-17         |
 | [[articles/aprenda-ruby\|aprenda-ruby]]                               | A melhor maneira que encontrei para aprender Ruby | 2022-10-14         |
 
