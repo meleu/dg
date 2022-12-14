@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/simple-http-server/"}
 ---
 
+# Simple HTTP Server
+
 From: <https://gist.github.com/willurd/5720255>
 
 ## Meta
