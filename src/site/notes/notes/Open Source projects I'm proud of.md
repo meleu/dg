@@ -7,7 +7,7 @@
 ---
 
 - [[notes/Open Source projects I'm proud of#RetroAchievements - project/community management\|RetroAchievements - project/community management]]
-- [[notes/Open Source projects I'm proud of#RADocs - documentation pipeline\|RADocs - documentation pipeline]]
+- [[notes/Open Source projects I'm proud of#RADocs - docs & docs website pipeline\|RADocs - docs & docs website pipeline]]
 - [[notes/Open Source projects I'm proud of#RANews - webdesign/webdevelopment\|RANews - webdesign/webdevelopment]]
 - [[notes/Open Source projects I'm proud of#RABot - Discord Bot\|RABot - Discord Bot]]
 
@@ -22,14 +22,14 @@
 
 What I did:
 
-- contributed with the implementation of the RetroAchievements feature in the RetroArch (basically building/testing implementation in various architectures while coding was mostly done by [Leiradel](https://github.com/leiradel)).
+- contributed with the implementation of the RetroAchievements feature in the RetroArch (building/testing implementation in various architectures).
 - contributed with code for the [backend](https://github.com/RetroAchievements/RAWeb).
 - server maintenance (Linux/NginX).
 - created the [documentation project](https://docs.retroachievements.org/).
 - community management
 
 
-## RADocs - documentation pipeline
+## RADocs - docs & docs website pipeline
 
 - website: <https://docs.retroachievements.org>
 
