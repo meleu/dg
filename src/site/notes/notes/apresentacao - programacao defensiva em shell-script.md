@@ -74,21 +74,7 @@ echo "mais coisas super legais acontecerão a seguir..."
 # ...
 ```
 
-%%
-O problema aqui é: se o `grep` falhar, o bash vai continuar seguindo em frente e executar os próximos comandos.
 
-Como podemos ver, mesmo após um comando mal sucedido, o bash continua executando o script. 
-
-Aqui nesse exemplo, tá tranquilo, é só um echo com uma variável vazia. Mas na vida real a dor de cabeça pode ser grande. Vai ter um cenário onde você está esperando que essa variável esteja devidamente populada e vai estar vazia, e seu script vai continuar.
-
-Vai chegar um momento que você vai perceber que sua lógica tá quebrada. Que o resultado não é o que você esperava. Aí você vai gastar um tempo investigando. Você vai começar sua investigação a partir do lugar onde você percebeu que o script não te deu o resultado esperado, e vai tentar analisar a lógica indo em marcha ré.
-
-Pode acontecer um cenário onde o erro é percebido num ponto distante do erro original.
-
-Então pra evitar esse tipo de problema nós vamos pedir ao bash pra ele interromper a execução do script assim que ele encontrar um erro.
-
-Fazemos isso utilizando `set -o errexit`, que também pode ser expressado através do `set -e`.
-%%
 
 ---
 
@@ -161,18 +147,7 @@ grep "^${1}:" /etc/passwd \
   | tr "[:lower:]" "[:upper:]"
 ```
 
-%%
-Executar com 
-```bash
-bash homeDirUpper.sh && echo sucesso || echo falha
-```
 
-Mesmo com o `set -e` pra interromper o script assim que encontrar um erro, esse `grep` falhou e e o script continuou!
-
-A treta aqui é que o todos os comandos foram executados e o exit-status final dessa linha foi o status desse comando `tr`, que mesmo sem ter feito nada, terminou com sucesso. O `tr` não recebeu nada de input, e como isso não é um erro, ele terminou com sucesso.
-
-Portanto, mesmo que esse grep tenha falhado, o que valeu foi o exit status do tr, e por conta disso o nosso "milagroso" `set -e` não serviu pra nada.
-%%
 
 ---
 
@@ -208,11 +183,7 @@ echo "Hello, ${name}"
 echo "Seja bem vindo..."
 ```
 
-%%
-Essa opção serve para que variáveis não declaradas sejam consideradas como erro.
 
-Deixa eu ser bem sincero com vocês: eu estou mencionando essa técnica do `set -u` só por uma questão de completude. Por que se vocês pesquisarem por aí "bash strict mode", vocês vão ver esse `set -u` e vão logo pensar, pq será que o não falou disso?
-%%
 
 ---
 
@@ -235,13 +206,7 @@ fi
 echo "fim do script"
 ```
 
-%%
-Imagine que dentro do seu script você faz uma verificação de uma variável que você espera que seja definida no "shell pai", ou no ambiente que chama esse script.
 
-Se a variável estiver vazia, você quer que seu script trate isso de alguma forma.
-
-Mas acontece que como a gente definiu o `set -u`, o script vai quebrar. Isso não é muito legal né...
-%%
 
 ---
 
@@ -258,15 +223,7 @@ fi
 
 Problema: a variável `CI_COMMIT_BRANCH` não é preenchida quando a pipeline é disparada por um Merge Request ou pela criação de tags.
 
-%%
-Até existe uma maneira de contornar isso, que é usando a técnica do "valor default" pra uma string vazia: `${ENV_VAR:-}`.
 
-Eu particularmente não gosto disso por que eu acho que polui o código. Pode confundir a pessoa que vai dar manutenção nesse código futuramente... Enfim, eu acho que o código já começa a ficar desnecessariamente complexo.
-
-Aí pode surgir aquela pergunta: mas meleu, você não vai querer tratar esse problema de referenciar uma variável que não foi definida?
-
-A resposta é sim, eu quero tratar isso sim, mas vai ser de outra forma, que é o que nós vamos ver daqui a pouco na terceira parte da apresentação, quando vamos falar do shellcheck.
-%%
 
 ---
 
@@ -343,21 +300,3 @@ trap COMANDO SINAL
 ```
 
 
-%%
-O trap serve para executar um COMANDO quando é detectado um SINAL.
-
-O primeiro argumento é o COMANDO e o segundo é o SINAL.
-
-"Caramba meleu, que negócio é esse de sinal?"
-
-Não vamos gastar muito tempo aqui entrando no detalhe de como funciona gerenciamento de sinais. Então vamos simplificar da seguinte forma: o kernel permite que você envie sinais para os processos.
-
-A maneira mais famosa de enviar sinais, e que muita gente nem sabe, é através do comando `kill`.
-
-Quando você manda um `kill` e o ID de um processo, você na verdade está enviando um sinal para o kernel pra terminar aquele processo. Quando você manda um `kill -9` e o ID do processo, você está enviando um sinal pro kernel matar aquele processo imediatamente.
-
-Pois bem, o `trap` usado em um script serve para "capturar" esse sinal e executar um COMANDO quando esse sinal for recebido.
-
-
-
-%%
