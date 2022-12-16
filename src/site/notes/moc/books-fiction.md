@@ -11,8 +11,8 @@
 | [[notes/books/O Apanhador no Campo de Centeio\|O Apanhador no Campo de Centeio]]               | J. D. Salinger      | 2019        |
 | [[notes/books/Mais Esperto que o Diabo\|Mais Esperto que o Diabo]]                             | Napoleon Hill       | 2019        |
 | [[notes/books/Farenheit 451\|Farenheit 451]]                                                   | Ray Bradbury        | 2019        |
-| [[notes/books/Androides Sonham Com Ovelhas Eletricas\|Androides Sonham Com Ovelhas Eletricas]] | Philip K. Dick      | 2019        |
 | [[notes/books/As Intermitencias da Morte\|As Intermitencias da Morte]]                         | José Saramago       | 2019        |
+| [[notes/books/Androides Sonham Com Ovelhas Eletricas\|Androides Sonham Com Ovelhas Eletricas]] | Philip K. Dick      | 2019        |
 | [[notes/books/O Cavaleiro Inexistente\|O Cavaleiro Inexistente]]                               | Italo Calvino       | 2013        |
 | [[notes/books/O Barão nas Árvores\|O Barão nas Árvores]]                                       | Italo Calvino       | 2013        |
 | [[notes/books/O BGA - Bom Gigante Amigo\|O BGA - Bom Gigante Amigo]]                           | Roald Dahl          | 2013        |
