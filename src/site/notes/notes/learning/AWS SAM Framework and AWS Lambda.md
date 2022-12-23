@@ -276,8 +276,35 @@ Generates this JSON output:
 - Function
     - independent unit of deployment
     - best practice: does a single job.
+    - examples:
         - save user to DynamoDB
         - convert large image into a thumbnail
 - Events
+    - anything that triggers a Lambda function
+    - examples:
+        - API Gateway HTTP endpoints
+        - S3 bucket upload
 - Resources
+    - infrastructure components used by the Lambda function
+    - examples:
+        - DynamoDB Table (saving a comment)
+        - S3 bucket (saving audio files)
+        - SNS (sending messages asynchronously)
 - Services
+    - Framework's unit organization (project file).
+    - Where you define the Functions, the Events and the Resources.
+    - Can be described in YAML or JSON
+
+
+### AWS Functions Timeout and Memory
+
+Let's define two Lambda functions and tweak the timeout and memory.
+
+```shell
+sam init
+# 1 - template
+# 1 - HelloWorld
+# Python
+# X-Ray: no
+# name: sam-time-memory
+```
