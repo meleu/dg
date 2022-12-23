@@ -4,7 +4,7 @@
 
 # Ruby
 
-Flashcards for Ruby.
+Flashcards for Ruby. Created with [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) notation.
 
 [TOC]
 
