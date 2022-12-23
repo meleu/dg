@@ -9,6 +9,9 @@
 
 SAM = Serverless Application Model
 
+> [!note]
+> The AWS Serverless Application Model is a different framework than [**The** Serverless Framework](https://serverless.com).
+
 
 ## 3. Development Environment Setup
 
