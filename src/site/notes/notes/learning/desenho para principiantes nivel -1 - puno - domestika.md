@@ -10,11 +10,11 @@
 
 Influências:
 
-- Ronald Searle
+- [Ronald Searle](http://ronaldsearle.blogspot.com/)
+- [Quentin Blake](https://www.quentinblake.com/)
+- [Saul Steinberg](https://saulsteinbergfoundation.org/search-artwork/)
+- [Quino](http://www.quino.com.ar/)
 - Ben Shahn
-- Quentin Blake
-- Saul Steinberg
-- Quino
 - George Grosz
 
 Quatro fases do aprendizagem:
