@@ -239,7 +239,7 @@ Software development framework for defining cloud infrastructure using familiar 
 
 Getting Started:
 
-- cdkworkshop.com
+- https://cdkworkshop.com
 - aws.amazon.com/cdk
 - aws.amazon.com/vscode
 
