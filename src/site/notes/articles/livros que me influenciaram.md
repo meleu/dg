@@ -29,6 +29,8 @@ Conteúdo:
 
 ## Roube Como Um Artista
 
+Sobre criatividade.
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -54,6 +56,8 @@ Estude os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas qu
 ---
 
 ## Hackers and Painters
+
+Sobre melhor uso do seu tempo, no que se refere a gastar tempo se envolvendo em discussões.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -94,7 +98,9 @@ Essas perguntas me ajudam a não desperdiçar meu tempo me envolvendo em discuss
 
 ## Androides Sonham Com Ovelhas Eletricas
 
-Curiosidade: esse é o livro que inspirou o filme Blade Runner.
+Sobre a relação entre mentira e auto-estima.
+
+(Curiosidade: esse é o livro que inspirou o filme Blade Runner.)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -121,6 +127,8 @@ Provavelmente você se tornará mal-humorado e irritadiço. Começará a critica
 ---
 
 ## O Valor do Amanha
+
+Título explicitamente auto-explicativo. Sobre como valorizamos algo em função do tempo (agora ou no futuro?).
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
