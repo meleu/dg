@@ -6,8 +6,9 @@
 
 ## currently reading
 
-- [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]]
-- ⭐ [[notes/books/clean-code/Clean Code\|Clean Code]]
+- [[notes/books/Bom  Demais Para Ser Ignorado\|Bom  Demais Para Ser Ignorado]]
+- [[Startup Enxuta\|Startup Enxuta]] (portuguese version of "Lean Startup")
+- [[notes/books/O Valor do Amanha\|O Valor do Amanha]]
 
 ---
 
@@ -23,8 +24,16 @@ Maybe this list can tell a bit about who I am.
 
 ---
 
+## 2023
+
+### unfunished
+
+
+
+
 ## 2022
 
+- [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]]
 - [[notes/books/O Estrangeiro\|O Estrangeiro]]
 - [[notes/books/Personal Kanban\|Personal Kanban]]
 - [[notes/A Identidade\|A Identidade]]
@@ -42,6 +51,7 @@ Maybe this list can tell a bit about who I am.
 
 #### unfinished
 
+- ⭐ [[notes/books/clean-code/Clean Code\|Clean Code]]
 - [[notes/books/O Mitico Homem-Mes\|O Mitico Homem-Mes]]
 - [[notes/books/Building a Second Brain\|Building a Second Brain]]
 - ⭐ [[notes/books/Sapiens\|Sapiens]]
@@ -49,7 +59,7 @@ Maybe this list can tell a bit about who I am.
 - [[Me Poupe!\|Me Poupe!]]
 - ⭐ [[notes/books/code-complete/Code Complete\|Code Complete]]
 - [[Como Ler Livros\|Como Ler Livros]]
-- [[notes/Ghost in the Shell\|Ghost in the Shell]]
+- [[Ghost in the Shell\|Ghost in the Shell]]
 - [[O Livro de Deus\|O Livro de Deus]]
 - [[Business Model You\|Business Model You]]
 
