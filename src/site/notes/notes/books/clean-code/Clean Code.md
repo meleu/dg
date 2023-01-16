@@ -88,3 +88,9 @@ Some rules for functions:
 
 </div></div>
 
+
+---
+
+## links
+
+https://github.com/JuanCrg90/Clean-Code-Notes
