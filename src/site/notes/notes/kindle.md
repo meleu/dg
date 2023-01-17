@@ -4,6 +4,11 @@
 
 # kindle tips
 
+## Send to Kindle
+
+simply go to <https://www.amazon.com/sendtokindle>.
+
+
 ## Fix encoding with Calibre
 
 ### Problem
