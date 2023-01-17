@@ -22,8 +22,8 @@
 | [[notes/books/Pai Rico, Pai Pobre\|Pai Rico, Pai Pobre]]                                                                           | Robert Kiyosaki                                             | 2019        |
 | [[notes/books/O Valor do Amanha\|O Valor do Amanha]]                                                                               | Eduardo Giannetti                                           | 2019        |
 | [[notes/books/O Poder do Habito\|O Poder do Habito]]                                                                               | Charles Duhigg                                              | 2019        |
-| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]]                                                     | George Samuel Clason                                        | 2019        |
 | [[notes/books/Mais Esperto que o Diabo\|Mais Esperto que o Diabo]]                                                                 | Napoleon Hill                                               | 2019        |
 | [[notes/books/Independencia Financeira - O Guia do Pai Rico\|Independencia Financeira - O Guia do Pai Rico]]                       | Robert Kiyosaki                                             | 2019        |
+| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]]                                                     | George Samuel Clason                                        | 2019        |
 | [[notes/books/Roube Como Um Artista\|Roube Como Um Artista]]                                                                       | Austin Kleon                                                | 2016        |
 
