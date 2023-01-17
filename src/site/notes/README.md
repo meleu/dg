@@ -28,7 +28,9 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                                                                                 | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[notes/books/Bom  Demais Para Ser Ignorado\|Bom  Demais Para Ser Ignorado]]                                                      | 2023-01-16 - 18:49 |
+| [[notes/books/Bom  Demais Para Ser Ignorado\|Bom  Demais Para Ser Ignorado]]                                                      | 2023-01-17 - 10:32 |
+| [[notes/kindle\|kindle]]                                                                                                          | 2023-01-17 - 10:30 |
+| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]]                                                    | 2023-01-16 - 19:11 |
 | [[articles/livros que me influenciaram\|livros que me influenciaram]]                                                             | 2023-01-16 - 18:49 |
 | [[templates/book note\|book note]]                                                                                                | 2023-01-16 - 18:24 |
 | [[README\|README]]                                                                                                                | 2023-01-16 - 18:21 |
@@ -51,5 +53,3 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[notes/learning/python-fastapi-workshop\|python-fastapi-workshop]]                                                               | 2022-12-16 - 19:34 |
 | [[notes/Open Source projects I'm proud of\|Open Source projects I'm proud of]]                                                    | 2022-12-16 - 13:55 |
 | [[notes/git - how to know when a file was deleted\|git - how to know when a file was deleted]]                                    | 2022-12-15 - 19:05 |
-| [[notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs\|ignite-lab-nodejs]]                                              | 2022-12-13 - 23:13 |
-| [[notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version\|ignite-lab-nodejs-short-version]]                  | 2022-12-13 - 18:15 |
