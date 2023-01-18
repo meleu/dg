@@ -3,6 +3,11 @@
 ---
 
 
+# Building a Second Brain
+
+Course: <https://www.buildingasecondbrain.com/course>
+
+
 ### The Superpowers of a Second Brain
 
 1. Making our ideas concrete.
