@@ -4,7 +4,7 @@
 
 # What I'm into *now*
 
-My current focus is to have an in-depth knowledge of Kubernetes.
+My current focus is to have integrate TDD techniques in my workflow. Have it as a second nature. To achieve this I need to invest time in [[notes/TDD-Refactoring literature\|TDD-Refactoring literature]].
 
 
 ## Frequent Ideas
@@ -15,18 +15,13 @@ My current focus is to have an in-depth knowledge of Kubernetes.
 
 ## Studying
 
-- [ ] [[notes/learning/docker-mastery/Docker Mastery - udemy\|Docker Mastery - udemy]]
-- [ ] [[notes/learning/docker-for-nodejs/Docker for NodeJS\|Docker for NodeJS]]
-- [ ] [[notes/learning/k8s/kubernetes-ckad-with-tests/CKAD udemy course\|CKAD udemy course]]
-- [ ] [[notes/books/k8s-basico/livro Kubernetes Basico\|livro Kubernetes Basico]]
-- [x] [[notes/learning/gitlab-ci-nana/GitLab CICD - Nana course\|GitLab-CI - Nana]] - ✅ done!
-- [ ] ~~[[notes/learning/gcp/GCP\|Google Cloud Provider - Pluralsight]]~~ ❌ changed my mind
+- [ ] [[notes/learning/AWS SAM Framework and AWS Lambda\|AWS SAM Framework and AWS Lambda]]
+- [ ] [[notes/learning/RSpec - udemy\|RSpec - udemy]]
+- [ ] [[notes/learning/Fundamentals of TDD - upcase\|Fundamentals of TDD - upcase]]
 
 
-## 2022 goals
+## 2023 goals
 
-- [ ] CKAD
-- [x] [[articles/learn-ruby\|learn-ruby]]
-- [ ] ~~do the Le Wagon bootcamp~~ (postponed to april/2023)
-- [ ] ~~GCP Associate Certificate Engineer~~ changed my mind
+- [ ] play with 12 programming languages - [[notes/exercism - 12in23 challenge\|exercism - 12in23 challenge]]
+- [ ] do the Le Wagon bootcamp
 
