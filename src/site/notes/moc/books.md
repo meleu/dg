@@ -6,8 +6,7 @@
 
 ## currently reading
 
-- [[notes/books/Bom  Demais Para Ser Ignorado\|Bom  Demais Para Ser Ignorado]]
-- [[Startup Enxuta\|Startup Enxuta]] (portuguese version of "Lean Startup")
+- [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]
 - [[notes/books/O Valor do Amanha\|O Valor do Amanha]]
 
 ---
@@ -26,8 +25,12 @@ Maybe this list can tell a bit about who I am.
 
 ## 2023
 
+- [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]
+
+
 ### unfunished
 
+- [[Startup Enxuta\|Startup Enxuta]] (portuguese version of "Lean Startup")
 
 
 
