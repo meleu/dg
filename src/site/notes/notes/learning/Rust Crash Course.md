@@ -89,3 +89,8 @@ if a > 200 {
 ```
 
 - parentheses are not mandatory
+
+
+### Repetition using loops
+
+Stopped at 33:45 here: <https://youtu.be/lzKeecy4OmQ?t=2025>
