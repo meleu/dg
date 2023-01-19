@@ -26,20 +26,20 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 ## Recently modified notes
 
-| File                                                                                 | Last modified      |
-| ------------------------------------------------------------------------------------ | ------------------ |
-| [[notes/Rust\|Rust]]                                                              | 2023-01-18 - 19:33 |
-| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]                | 2023-01-18 - 18:25 |
-| [[moc/books\|books]]                                                              | 2023-01-18 - 10:33 |
-| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]        | 2023-01-18 - 10:26 |
-| [[notes/lyt - PKM Power\|lyt - PKM Power]]                                        | 2023-01-17 - 15:29 |
-| [[notes/books/Building a Second Brain\|Building a Second Brain]]                  | 2023-01-17 - 14:50 |
-| [[now\|now]]                                                                      | 2023-01-17 - 11:08 |
-| [[README\|README]]                                                                | 2023-01-17 - 11:01 |
-| [[notes/kindle\|kindle]]                                                          | 2023-01-17 - 10:30 |
-| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]]    | 2023-01-16 - 19:11 |
-| [[articles/livros que me influenciaram\|livros que me influenciaram]]             | 2023-01-16 - 18:49 |
-| [[templates/book note\|book note]]                                                | 2023-01-16 - 18:24 |
-| [[notes/learning/Descomplicando o Terraform\|Descomplicando o Terraform]]         | 2023-01-10 - 16:32 |
-| [[notes/books/clean-code/Clean Code\|Clean Code]]                                 | 2023-01-09 - 09:45 |
-| [[notes/books/clean-code/Clean Code - 1. Clean Code\|Clean Code - 1. Clean Code]] | 2023-01-09 - 09:25 |
+| File                                                                              | Last modified      |
+| --------------------------------------------------------------------------------- | ------------------ |
+| [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
+| [[notes/Rust\|Rust]]                                                           | 2023-01-19 - 12:28 |
+| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-19 - 08:37 |
+| [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
+| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]     | 2023-01-18 - 10:26 |
+| [[notes/lyt - PKM Power\|lyt - PKM Power]]                                     | 2023-01-17 - 15:29 |
+| [[notes/books/Building a Second Brain\|Building a Second Brain]]               | 2023-01-17 - 14:50 |
+| [[now\|now]]                                                                   | 2023-01-17 - 11:08 |
+| [[README\|README]]                                                             | 2023-01-17 - 11:01 |
+| [[notes/kindle\|kindle]]                                                       | 2023-01-17 - 10:30 |
+| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]] | 2023-01-16 - 19:11 |
+| [[articles/livros que me influenciaram\|livros que me influenciaram]]          | 2023-01-16 - 18:49 |
+| [[templates/book note\|book note]]                                             | 2023-01-16 - 18:24 |
+| [[notes/learning/Descomplicando o Terraform\|Descomplicando o Terraform]]      | 2023-01-10 - 16:32 |
+| [[notes/books/clean-code/Clean Code\|Clean Code]]                              | 2023-01-09 - 09:45 |
