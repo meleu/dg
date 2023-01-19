@@ -28,8 +28,8 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                              | Last modified      |
 | --------------------------------------------------------------------------------- | ------------------ |
+| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:11 |
 | [[notes/Rust\|Rust]]                                                           | 2023-01-19 - 20:10 |
-| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:07 |
 | [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
 | [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-19 - 08:37 |
 | [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
