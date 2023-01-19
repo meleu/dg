@@ -28,8 +28,9 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                              | Last modified      |
 | --------------------------------------------------------------------------------- | ------------------ |
+| [[notes/Rust\|Rust]]                                                           | 2023-01-19 - 20:10 |
+| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:07 |
 | [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
-| [[notes/Rust\|Rust]]                                                           | 2023-01-19 - 12:28 |
 | [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-19 - 08:37 |
 | [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
 | [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]     | 2023-01-18 - 10:26 |
@@ -42,4 +43,3 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[articles/livros que me influenciaram\|livros que me influenciaram]]          | 2023-01-16 - 18:49 |
 | [[templates/book note\|book note]]                                             | 2023-01-16 - 18:24 |
 | [[notes/learning/Descomplicando o Terraform\|Descomplicando o Terraform]]      | 2023-01-10 - 16:32 |
-| [[notes/books/clean-code/Clean Code\|Clean Code]]                              | 2023-01-09 - 09:45 |
