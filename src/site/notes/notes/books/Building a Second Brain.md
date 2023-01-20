@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/building-a-second-brain/"}
+{"dg-publish":true,"permalink":"/notes/books/building-a-second-brain/","tags":["books"]}
 ---
 
 
