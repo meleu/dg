@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/k8s-basico/livro-kubernetes-basico/"}
+{"dg-publish":true,"permalink":"/notes/books/k8s-basico/livro-kubernetes-basico/","tags":["books"]}
 ---
 
 
