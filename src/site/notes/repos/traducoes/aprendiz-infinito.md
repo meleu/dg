@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/repos/traducoes/aprendiz-infinito/"}
+{"dg-publish":true,"permalink":"/repos/traducoes/aprendiz-infinito/","title":"Como ser um aprendiz infinito"}
 ---
 
 
