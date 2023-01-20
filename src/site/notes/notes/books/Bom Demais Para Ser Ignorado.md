@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/bom-demais-para-ser-ignorado/"}
+{"dg-publish":true,"permalink":"/notes/books/bom-demais-para-ser-ignorado/","tags":["books"]}
 ---
 
 
