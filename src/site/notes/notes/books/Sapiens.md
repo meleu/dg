@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/sapiens/"}
+{"dg-publish":true,"permalink":"/notes/books/sapiens/","tags":["books"]}
 ---
 
 
