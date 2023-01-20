@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/farenheit-451/"}
+{"dg-publish":true,"permalink":"/notes/books/farenheit-451/","tags":["books"]}
 ---
 
 
