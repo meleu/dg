@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/crime-e-castigo/"}
+{"dg-publish":true,"permalink":"/notes/books/crime-e-castigo/","tags":["books"]}
 ---
 
 
