@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-apanhador-no-campo-de-centeio/"}
+{"dg-publish":true,"permalink":"/notes/books/o-apanhador-no-campo-de-centeio/","tags":["books"]}
 ---
 
 
