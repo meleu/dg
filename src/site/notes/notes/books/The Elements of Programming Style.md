@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-elements-of-programming-style/"}
+{"dg-publish":true,"permalink":"/notes/books/the-elements-of-programming-style/","tags":["books"]}
 ---
 
 
