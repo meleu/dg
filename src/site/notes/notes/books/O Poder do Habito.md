@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-poder-do-habito/"}
+{"dg-publish":true,"permalink":"/notes/books/o-poder-do-habito/","tags":["books"]}
 ---
 
 
