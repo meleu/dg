@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/dotfiles/"}
+{"dg-publish":true,"permalink":"/notes/dotfiles/","tags":["tech/git","tech/dotfiles"]}
 ---
 
 
