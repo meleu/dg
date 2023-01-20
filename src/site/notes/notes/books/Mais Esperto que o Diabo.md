@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/mais-esperto-que-o-diabo/"}
+{"dg-publish":true,"permalink":"/notes/books/mais-esperto-que-o-diabo/","tags":["books"]}
 ---
 
 
