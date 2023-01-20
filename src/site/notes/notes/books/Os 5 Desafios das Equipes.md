@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/os-5-desafios-das-equipes/"}
+{"dg-publish":true,"permalink":"/notes/books/os-5-desafios-das-equipes/","tags":["books"]}
 ---
 
 
