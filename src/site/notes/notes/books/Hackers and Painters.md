@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/hackers-and-painters/"}
+{"dg-publish":true,"permalink":"/notes/books/hackers-and-painters/","tags":["books"]}
 ---
 
 
