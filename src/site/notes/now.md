@@ -15,7 +15,7 @@ My current focus is to have integrate TDD techniques in my workflow. Have it as 
 
 ## Studying
 
-- [ ] [[notes/learning/AWS SAM Framework and AWS Lambda\|AWS SAM Framework and AWS Lambda]]
+- [ ] [[notes/Rust\|Rust]]
 - [ ] [[notes/learning/RSpec - udemy\|RSpec - udemy]]
 - [ ] [[notes/learning/Fundamentals of TDD - upcase\|Fundamentals of TDD - upcase]]
 
