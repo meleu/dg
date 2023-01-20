@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-monge-e-o-executivo/"}
+{"dg-publish":true,"permalink":"/notes/books/o-monge-e-o-executivo/","tags":["books"]}
 ---
 
 
