@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/repos/traducoes/aprenda-em-publico/"}
+{"dg-publish":true,"permalink":"/repos/traducoes/aprenda-em-publico/","title":"Aprenda em Público"}
 ---
 
 
