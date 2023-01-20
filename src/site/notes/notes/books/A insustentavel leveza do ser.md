@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/a-insustentavel-leveza-do-ser/"}
+{"dg-publish":true,"permalink":"/notes/books/a-insustentavel-leveza-do-ser/","tags":["books"]}
 ---
 
 
