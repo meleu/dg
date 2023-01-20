@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":"gardenEntry","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dgShowBacklinks":false}
 ---
 
 ## Hi, I'm meleu! 👋
@@ -28,8 +28,8 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                              | Last modified      |
 | --------------------------------------------------------------------------------- | ------------------ |
+| [[notes/Rust\|Rust]]                                                           | 2023-01-20 - 17:39 |
 | [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-20 - 17:20 |
-| [[notes/Rust\|Rust]]                                                           | 2023-01-20 - 11:51 |
 | [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:11 |
 | [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
 | [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
