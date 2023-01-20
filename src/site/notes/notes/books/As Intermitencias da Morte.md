@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/as-intermitencias-da-morte/"}
+{"dg-publish":true,"permalink":"/notes/books/as-intermitencias-da-morte/","tags":["books"]}
 ---
 
 
