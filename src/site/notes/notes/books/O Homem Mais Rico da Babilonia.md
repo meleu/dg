@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-homem-mais-rico-da-babilonia/"}
+{"dg-publish":true,"permalink":"/notes/books/o-homem-mais-rico-da-babilonia/","tags":["books"]}
 ---
 
 
