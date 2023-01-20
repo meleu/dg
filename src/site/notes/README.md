@@ -28,6 +28,7 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                              | Last modified      |
 | --------------------------------------------------------------------------------- | ------------------ |
+| [[now\|now]]                                                                   | 2023-01-20 - 17:48 |
 | [[notes/Rust\|Rust]]                                                           | 2023-01-20 - 17:39 |
 | [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-20 - 17:20 |
 | [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:11 |
@@ -36,7 +37,6 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]     | 2023-01-18 - 10:26 |
 | [[notes/lyt - PKM Power\|lyt - PKM Power]]                                     | 2023-01-17 - 15:29 |
 | [[notes/books/Building a Second Brain\|Building a Second Brain]]               | 2023-01-17 - 14:50 |
-| [[now\|now]]                                                                   | 2023-01-17 - 11:08 |
 | [[README\|README]]                                                             | 2023-01-17 - 11:01 |
 | [[notes/kindle\|kindle]]                                                       | 2023-01-17 - 10:30 |
 | [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]] | 2023-01-16 - 19:11 |
