@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/book-note/"}
+{"dg-publish":true,"permalink":"/templates/book-note/","tags":["books"]}
 ---
 
 
