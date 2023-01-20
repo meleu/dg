@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/androides-sonham-com-ovelhas-eletricas/"}
+{"dg-publish":true,"permalink":"/notes/books/androides-sonham-com-ovelhas-eletricas/","tags":["books"]}
 ---
 
 
