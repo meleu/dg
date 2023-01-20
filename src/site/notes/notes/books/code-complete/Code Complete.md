@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete/"}
+{"dg-publish":true,"permalink":"/notes/books/code-complete/code-complete/","tags":["books"]}
 ---
 
 
