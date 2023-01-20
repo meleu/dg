@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo/"}
+{"dg-publish":true,"permalink":"/notes/books/clean-agile/desenvolvimento-agil-limpo/","tags":["books"]}
 ---
 
 
