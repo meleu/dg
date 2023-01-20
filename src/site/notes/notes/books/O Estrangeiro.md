@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-estrangeiro/"}
+{"dg-publish":true,"permalink":"/notes/books/o-estrangeiro/","tags":["books"]}
 ---
 
 
