@@ -5,28 +5,27 @@
 # bug-report
 
 
-## h2
+## my h2
 
 paragraph
 
-#### h4
+#### my h4
 
 paragraph
 
-##### h5
+##### my h5
 
 paragraph
 
-### h3
+### my h3
 
 paragraph
 
-#### h4
+#### another h4
 
 paragraph
 
-### h3
+### another h3
 
 paragraph
-
 
