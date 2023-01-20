@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/learn-ruby/"}
+{"dg-publish":true,"permalink":"/articles/learn-ruby/","title":"The best way I found to learn Ruby","tags":["ruby"]}
 ---
 
 
