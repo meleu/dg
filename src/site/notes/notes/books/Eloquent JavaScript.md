@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/eloquent-java-script/"}
+{"dg-publish":true,"permalink":"/notes/books/eloquent-java-script/","tags":["books"]}
 ---
 
 
