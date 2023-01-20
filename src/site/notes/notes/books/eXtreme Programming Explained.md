@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/e-xtreme-programming-explained/"}
+{"dg-publish":true,"permalink":"/notes/books/e-xtreme-programming-explained/","tags":["books"]}
 ---
 
 
