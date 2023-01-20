@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ergodox-ez","permalink":"/ergodox-ez/"}
+{"dg-publish":true,"dg-permalink":"ergodox-ez","permalink":"/ergodox-ez/","title":"Teclado Ergodox EZ vale a pena?"}
 ---
 
 
