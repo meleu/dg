@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/desventuras-em-serie/"}
+{"dg-publish":true,"permalink":"/notes/books/desventuras-em-serie/","tags":["books"]}
 ---
 
 
