@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/docker-reverse-engineering/"}
+{"dg-publish":true,"permalink":"/notes/docker-reverse-engineering/","tags":["tech/docker"]}
 ---
 
 # Docker Reverse Engineering
