@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/independencia-financeira-o-guia-do-pai-rico/"}
+{"dg-publish":true,"permalink":"/notes/books/independencia-financeira-o-guia-do-pai-rico/","tags":["books"]}
 ---
 
 
