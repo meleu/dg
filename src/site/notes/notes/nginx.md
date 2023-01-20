@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nginx/"}
+{"dg-publish":true,"permalink":"/notes/nginx/","title":"resumo dos meus estudos sobre NginX"}
 ---
 
 
