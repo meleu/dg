@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/cloud-native-dev-ops-with-kubernetes/"}
+{"dg-publish":true,"permalink":"/notes/books/cloud-native-dev-ops-with-kubernetes/","tags":["books"]}
 ---
 
 
