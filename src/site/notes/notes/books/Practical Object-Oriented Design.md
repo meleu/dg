@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/practical-object-oriented-design/"}
+{"dg-publish":true,"permalink":"/notes/books/practical-object-oriented-design/","tags":["books"]}
 ---
 
 
