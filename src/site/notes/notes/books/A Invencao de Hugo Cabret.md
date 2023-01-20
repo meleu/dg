@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/a-invencao-de-hugo-cabret/"}
+{"dg-publish":true,"permalink":"/notes/books/a-invencao-de-hugo-cabret/","tags":["books"]}
 ---
 
 
