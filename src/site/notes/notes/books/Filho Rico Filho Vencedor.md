@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/"}
+{"dg-publish":true,"permalink":"/notes/books/filho-rico-filho-vencedor/","tags":["books"]}
 ---
 
 
