@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/repos/traducoes/notacao-big-l/"}
+{"dg-publish":true,"permalink":"/repos/traducoes/notacao-big-l/","title":"Notação Big L"}
 ---
 
 
