@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-programador-apaixonado/"}
+{"dg-publish":true,"permalink":"/notes/books/o-programador-apaixonado/","tags":["books"]}
 ---
 
 
