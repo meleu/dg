@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-mitico-homem-mes/"}
+{"dg-publish":true,"permalink":"/notes/books/o-mitico-homem-mes/","tags":["books"]}
 ---
 
 
