@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/unix-and-linux-system-administration-handbook/"}
+{"dg-publish":true,"permalink":"/notes/books/unix-and-linux-system-administration-handbook/unix-and-linux-system-administration-handbook/","tags":["books"]}
 ---
 
 
