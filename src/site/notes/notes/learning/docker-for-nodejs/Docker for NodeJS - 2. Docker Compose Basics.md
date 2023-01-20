@@ -45,7 +45,9 @@ clone the repo: <https://github.com/BretFisher/docker-mastery-for-nodejs>
 # run through simple compose commands
 cd sample-02
 docker compose up
-# ^c (same as `docker-compose stop`)
+#
+{ #c}
+ (same as `docker-compose stop`)
 docker compose down
 docker compose up -d # detached
 docker compose ps
