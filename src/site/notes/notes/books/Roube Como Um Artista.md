@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/roube-como-um-artista/"}
+{"dg-publish":true,"permalink":"/notes/books/roube-como-um-artista/","tags":["books"]}
 ---
 
 
