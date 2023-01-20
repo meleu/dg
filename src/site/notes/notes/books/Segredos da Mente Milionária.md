@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/segredos-da-mente-milionaria/"}
+{"dg-publish":true,"permalink":"/notes/books/segredos-da-mente-milionaria/","tags":["books"]}
 ---
 
 
