@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-cavaleiro-inexistente/"}
+{"dg-publish":true,"permalink":"/notes/books/o-cavaleiro-inexistente/","tags":["books"]}
 ---
 
 
