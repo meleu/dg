@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"aprenda-ruby","permalink":"/aprenda-ruby/"}
+{"dg-publish":true,"dg-permalink":"aprenda-ruby","permalink":"/aprenda-ruby/","title":"A melhor maneira que encontrei para aprender Ruby","tags":["ruby"]}
 ---
 
 
