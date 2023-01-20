@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/digital-zettelkasten-principles-methods-and-examples/"}
+{"dg-publish":true,"permalink":"/notes/books/digital-zettelkasten-principles-methods-and-examples/","tags":["books"]}
 ---
 
 
