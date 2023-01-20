@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-well-grounded-rubyist/"}
+{"dg-publish":true,"permalink":"/notes/books/the-well-grounded-rubyist/","tags":["books"]}
 ---
 
 
