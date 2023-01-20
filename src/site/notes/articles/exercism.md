@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles/exercism/"}
+{"dg-publish":true,"permalink":"/articles/exercism/","title":"exercism: the most effective way to learn a new programming language","tags":["learning"]}
 ---
 
 
