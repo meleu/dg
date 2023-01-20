@@ -630,8 +630,8 @@ lo        Link encap:Local Loopback
           RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
 
 $ docker container exec -it container3 ping 172.17.0.2 # <-- ip of container1
-PING 172.17.0.2 (172.17.0.2): 56 data bytes
-^C
+PING 172.17.0.2 (172.17.0.2): 56 data bytes{ #C}
+
 --- 172.17.0.2 ping statistics ---
 30 packets transmitted, 0 packets received, 100% packet loss
 
@@ -675,8 +675,8 @@ PING 172.17.0.2 (172.17.0.2): 56 data bytes
 64 bytes from 172.17.0.2: seq=1 ttl=64 time=0.107 ms
 64 bytes from 172.17.0.2: seq=2 ttl=64 time=0.108 ms
 64 bytes from 172.17.0.2: seq=3 ttl=64 time=0.108 ms
-64 bytes from 172.17.0.2: seq=4 ttl=64 time=0.108 ms
-^C
+64 bytes from 172.17.0.2: seq=4 ttl=64 time=0.108 ms{ #C}
+
 --- 172.17.0.2 ping statistics ---
 5 packets transmitted, 5 packets received, 0% packet loss
 round-trip min/avg/max = 0.071/0.100/0.108 ms
@@ -704,8 +704,8 @@ lo        Link encap:Local Loopback
 
 
 $ docker container exec -it container3 ping 172.17.0.2 # <-- ip of container1
-PING 172.17.0.2 (172.17.0.2): 56 data bytes
-^C
+PING 172.17.0.2 (172.17.0.2): 56 data bytes{ #C}
+
 --- 172.17.0.2 ping statistics ---
 5 packets transmitted, 0 packets received, 100% packet loss
 
