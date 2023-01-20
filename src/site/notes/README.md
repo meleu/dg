@@ -28,9 +28,10 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                              | Last modified      |
 | --------------------------------------------------------------------------------- | ------------------ |
+| [[notes/bug-report\|bug-report]]                                               | 2023-01-20 - 17:54 |
+| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-20 - 17:52 |
 | [[now\|now]]                                                                   | 2023-01-20 - 17:48 |
 | [[notes/Rust\|Rust]]                                                           | 2023-01-20 - 17:39 |
-| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-20 - 17:20 |
 | [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:11 |
 | [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
 | [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
@@ -42,4 +43,3 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]] | 2023-01-16 - 19:11 |
 | [[articles/livros que me influenciaram\|livros que me influenciaram]]          | 2023-01-16 - 18:49 |
 | [[templates/book note\|book note]]                                             | 2023-01-16 - 18:24 |
-| [[notes/learning/Descomplicando o Terraform\|Descomplicando o Terraform]]      | 2023-01-10 - 16:32 |
