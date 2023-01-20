@@ -64,8 +64,8 @@ systemctl enable --user gdrive.service
 
 
 ### Synchronizing
+{ #f67779}
 
-^f67779
 
 #### Install `unison`
 
