@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-barao-nas-arvores/"}
+{"dg-publish":true,"permalink":"/notes/books/o-barao-nas-arvores/","tags":["books"]}
 ---
 
 
