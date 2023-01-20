@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/em-busca-de-sentido/"}
+{"dg-publish":true,"permalink":"/notes/books/em-busca-de-sentido/","tags":["books"]}
 ---
 
 
