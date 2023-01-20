@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/"}
+{"dg-publish":true,"permalink":"/notes/books/pai-rico-pai-pobre/","tags":["books"]}
 ---
 
 
