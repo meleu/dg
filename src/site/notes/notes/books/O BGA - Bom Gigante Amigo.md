@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-bga-bom-gigante-amigo/"}
+{"dg-publish":true,"permalink":"/notes/books/o-bga-bom-gigante-amigo/","tags":["books"]}
 ---
 
 
