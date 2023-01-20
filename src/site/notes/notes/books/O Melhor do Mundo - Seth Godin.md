@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-melhor-do-mundo-seth-godin/"}
+{"dg-publish":true,"permalink":"/notes/books/o-melhor-do-mundo-seth-godin/","tags":["books"]}
 ---
 
 
