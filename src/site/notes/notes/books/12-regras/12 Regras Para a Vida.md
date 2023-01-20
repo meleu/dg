@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/"}
+{"dg-publish":true,"permalink":"/notes/books/12-regras/12-regras-para-a-vida/","tags":["books"]}
 ---
 
 
