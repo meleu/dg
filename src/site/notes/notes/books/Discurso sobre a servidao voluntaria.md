@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/discurso-sobre-a-servidao-voluntaria/"}
+{"dg-publish":true,"permalink":"/notes/books/discurso-sobre-a-servidao-voluntaria/","tags":["books"]}
 ---
 
 
