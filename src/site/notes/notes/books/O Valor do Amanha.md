@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/o-valor-do-amanha/"}
+{"dg-publish":true,"permalink":"/notes/books/o-valor-do-amanha/","tags":["books"]}
 ---
 
 
