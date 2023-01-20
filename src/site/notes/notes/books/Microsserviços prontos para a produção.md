@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/microsservicos-prontos-para-a-producao/"}
+{"dg-publish":true,"permalink":"/notes/books/microsservicos-prontos-para-a-producao/","tags":["books"]}
 ---
 
 
