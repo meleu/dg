@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/repos/traducoes/marchas-de-aprendizagem/"}
+{"dg-publish":true,"permalink":"/repos/traducoes/marchas-de-aprendizagem/","title":"Marchas de aprendizagem"}
 ---
 
 
