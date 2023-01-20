@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/repos/traducoes/aprenda-em-publico-hack/"}
+{"dg-publish":true,"permalink":"/repos/traducoes/aprenda-em-publico-hack/","title":"O hack definitivo para aprender em público"}
 ---
 
 
