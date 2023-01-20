@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ra/ra-news-is-quality-really-a-goal/"}
+{"dg-publish":true,"permalink":"/notes/ra/ra-news-is-quality-really-a-goal/","title":"Is Quality Really a Goal?"}
 ---
 
 
