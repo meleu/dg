@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/i-will-teach-you-to-be-rich/"}
+{"dg-publish":true,"permalink":"/notes/books/i-will-teach-you-to-be-rich/","tags":["books"]}
 ---
 
 
