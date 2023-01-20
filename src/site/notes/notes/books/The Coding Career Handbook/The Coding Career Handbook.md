@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/the-coding-career-handbook/the-coding-career-handbook/"}
+{"dg-publish":true,"permalink":"/notes/books/the-coding-career-handbook/the-coding-career-handbook/","tags":["books"]}
 ---
 
 
