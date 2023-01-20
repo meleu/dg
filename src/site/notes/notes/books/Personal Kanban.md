@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/books/personal-kanban/"}
+{"dg-publish":true,"permalink":"/notes/books/personal-kanban/","tags":["books"]}
 ---
 
 
