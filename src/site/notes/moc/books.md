@@ -39,7 +39,7 @@ Maybe this list can tell a bit about who I am.
 - [[notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes\|Os 7 Habitos das pessoas Altamente Eficazes]]
 - [[notes/books/O Estrangeiro\|O Estrangeiro]]
 - [[notes/books/Personal Kanban\|Personal Kanban]]
-- [[notes/A Identidade\|A Identidade]]
+- [[notes/books/A Identidade\|A Identidade]]
 - [[notes/books/Crime e Castigo\|Crime e Castigo]]
 - [[notes/books/clean-agile/Desenvolvimento Agil Limpo\|Desenvolvimento Agil Limpo]]
 - [[notes/books/Digital Zettelkasten - Principles, Methods, and Examples\|Digital Zettelkasten - Principles, Methods, and Examples]]
