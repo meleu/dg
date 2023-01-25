@@ -28,6 +28,7 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                                                                                 | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-24 - 23:02 |
 | [[notes/ChatGPT\|ChatGPT]]                                                                                                        | 2023-01-24 - 19:10 |
 | [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                           | 2023-01-24 - 16:09 |
 | [[notes/pubsub\|pubsub]]                                                                                                          | 2023-01-23 - 12:00 |
@@ -41,5 +42,4 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]                                                        | 2023-01-21 - 20:56 |
 | [[notes/bug-report\|bug-report]]                                                                                                  | 2023-01-20 - 17:56 |
 | [[now\|now]]                                                                                                                      | 2023-01-20 - 17:48 |
-| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-20 - 17:39 |
 | [[notes/cool ai services\|cool ai services]]                                                                                      | 2023-01-19 - 18:31 |
