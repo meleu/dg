@@ -26,20 +26,20 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 ## Recently modified notes
 
-| File                                                                              | Last modified      |
-| --------------------------------------------------------------------------------- | ------------------ |
-| [[notes/bug-report\|bug-report]]                                               | 2023-01-20 - 17:56 |
-| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]             | 2023-01-20 - 17:52 |
-| [[now\|now]]                                                                   | 2023-01-20 - 17:48 |
-| [[notes/Rust\|Rust]]                                                           | 2023-01-20 - 17:39 |
-| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                        | 2023-01-19 - 20:11 |
-| [[notes/cool ai services\|cool ai services]]                                   | 2023-01-19 - 18:31 |
-| [[moc/books\|books]]                                                           | 2023-01-18 - 10:33 |
-| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]     | 2023-01-18 - 10:26 |
-| [[notes/lyt - PKM Power\|lyt - PKM Power]]                                     | 2023-01-17 - 15:29 |
-| [[notes/books/Building a Second Brain\|Building a Second Brain]]               | 2023-01-17 - 14:50 |
-| [[README\|README]]                                                             | 2023-01-17 - 11:01 |
-| [[notes/kindle\|kindle]]                                                       | 2023-01-17 - 10:30 |
-| [[notes/books/O Homem Mais Rico da Babilonia\|O Homem Mais Rico da Babilonia]] | 2023-01-16 - 19:11 |
-| [[articles/livros que me influenciaram\|livros que me influenciaram]]          | 2023-01-16 - 18:49 |
-| [[templates/book note\|book note]]                                             | 2023-01-16 - 18:24 |
+| File                                                                                                                                 | Last modified      |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| [[notes/ChatGPT\|ChatGPT]]                                                                                                        | 2023-01-24 - 19:10 |
+| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                           | 2023-01-24 - 16:09 |
+| [[notes/pubsub\|pubsub]]                                                                                                          | 2023-01-23 - 12:00 |
+| [[repos/meleu.sh/TODO\|TODO]]                                                                                                     | 2023-01-23 - 09:34 |
+| [[notes/bash-ideas\|bash-ideas]]                                                                                                  | 2023-01-23 - 09:21 |
+| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]                                                                | 2023-01-21 - 21:56 |
+| [[notes/4 fases da aprendizagem\|4 fases da aprendizagem]]                                                                        | 2023-01-21 - 21:18 |
+| [[notes/learning/desenho para principiantes nivel -1 - puno - domestika\|desenho para principiantes nivel -1 - puno - domestika]] | 2023-01-21 - 21:13 |
+| [[log/2023-01\|2023-01]]                                                                                                          | 2023-01-21 - 21:10 |
+| [[log/2022-12\|2022-12]]                                                                                                          | 2023-01-21 - 21:09 |
+| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]                                                        | 2023-01-21 - 20:56 |
+| [[notes/bug-report\|bug-report]]                                                                                                  | 2023-01-20 - 17:56 |
+| [[now\|now]]                                                                                                                      | 2023-01-20 - 17:48 |
+| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-20 - 17:39 |
+| [[notes/cool ai services\|cool ai services]]                                                                                      | 2023-01-19 - 18:31 |
