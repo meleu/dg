@@ -28,10 +28,11 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 | File                                                                                                                                 | Last modified      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[notes/cross-browser testing tool\|cross-browser testing tool]]                                                                  | 2023-01-25 - 11:50 |
-| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-24 - 23:02 |
+| [[notes/Aprenda Rust - Bruno Rocha\|Aprenda Rust - Bruno Rocha]]                                                                  | 2023-01-25 - 18:29 |
+| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-25 - 17:13 |
+| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                           | 2023-01-25 - 16:40 |
+| [[notes/cross-browser testing tool\|cross-browser testing tool]]                                                                  | 2023-01-25 - 16:14 |
 | [[notes/ChatGPT\|ChatGPT]]                                                                                                        | 2023-01-24 - 19:10 |
-| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                           | 2023-01-24 - 16:09 |
 | [[notes/pubsub\|pubsub]]                                                                                                          | 2023-01-23 - 12:00 |
 | [[repos/meleu.sh/TODO\|TODO]]                                                                                                     | 2023-01-23 - 09:34 |
 | [[notes/bash-ideas\|bash-ideas]]                                                                                                  | 2023-01-23 - 09:21 |
@@ -42,4 +43,3 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 | [[log/2022-12\|2022-12]]                                                                                                          | 2023-01-21 - 21:09 |
 | [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]                                                        | 2023-01-21 - 20:56 |
 | [[notes/bug-report\|bug-report]]                                                                                                  | 2023-01-20 - 17:56 |
-| [[now\|now]]                                                                                                                      | 2023-01-20 - 17:48 |
