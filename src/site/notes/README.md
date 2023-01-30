@@ -26,20 +26,20 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 ## Recently modified notes
 
-| File                                                                                                                                 | Last modified      |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [[notes/Aprenda Rust - Bruno Rocha\|Aprenda Rust - Bruno Rocha]]                                                                  | 2023-01-25 - 18:29 |
-| [[notes/Rust\|Rust]]                                                                                                              | 2023-01-25 - 17:13 |
-| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                           | 2023-01-25 - 16:40 |
-| [[notes/cross-browser testing tool\|cross-browser testing tool]]                                                                  | 2023-01-25 - 16:14 |
-| [[notes/ChatGPT\|ChatGPT]]                                                                                                        | 2023-01-24 - 19:10 |
-| [[notes/pubsub\|pubsub]]                                                                                                          | 2023-01-23 - 12:00 |
-| [[repos/meleu.sh/TODO\|TODO]]                                                                                                     | 2023-01-23 - 09:34 |
-| [[notes/bash-ideas\|bash-ideas]]                                                                                                  | 2023-01-23 - 09:21 |
-| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]                                                                | 2023-01-21 - 21:56 |
-| [[notes/4 fases da aprendizagem\|4 fases da aprendizagem]]                                                                        | 2023-01-21 - 21:18 |
-| [[notes/learning/desenho para principiantes nivel -1 - puno - domestika\|desenho para principiantes nivel -1 - puno - domestika]] | 2023-01-21 - 21:13 |
-| [[log/2023-01\|2023-01]]                                                                                                          | 2023-01-21 - 21:10 |
-| [[log/2022-12\|2022-12]]                                                                                                          | 2023-01-21 - 21:09 |
-| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]                                                        | 2023-01-21 - 20:56 |
-| [[notes/bug-report\|bug-report]]                                                                                                  | 2023-01-20 - 17:56 |
+| File                                                                                                                                     | Last modified      |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[notes/learning/Rust Crash Course\|Rust Crash Course]]                                                                               | 2023-01-30 - 17:39 |
+| [[notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente\|Habito Eficaz 2 - Comece com o objetivo em mente]] | 2023-01-30 - 14:21 |
+| [[notes/Rust\|Rust]]                                                                                                                  | 2023-01-30 - 14:14 |
+| [[repos/meleu.sh/TODO\|TODO]]                                                                                                         | 2023-01-30 - 14:12 |
+| [[notes/books/Personal Kanban\|Personal Kanban]]                                                                                      | 2023-01-30 - 14:07 |
+| [[notes/git tricks\|git tricks]]                                                                                                      | 2023-01-30 - 12:27 |
+| [[notes/git\|git]]                                                                                                                    | 2023-01-30 - 11:40 |
+| [[notes/books/O Programador Apaixonado\|O Programador Apaixonado]]                                                                    | 2023-01-29 - 23:18 |
+| [[notes/TDD-Refactoring literature\|TDD-Refactoring literature]]                                                                      | 2023-01-28 - 07:56 |
+| [[notes/Aprenda Rust - Bruno Rocha\|Aprenda Rust - Bruno Rocha]]                                                                      | 2023-01-27 - 18:16 |
+| [[notes/Assembly com SNES e MegaDrive\|Assembly com SNES e MegaDrive]]                                                                | 2023-01-27 - 18:01 |
+| [[notes/vim\|vim]]                                                                                                                    | 2023-01-27 - 09:16 |
+| [[notes/books/Bom Demais Para Ser Ignorado\|Bom Demais Para Ser Ignorado]]                                                            | 2023-01-26 - 20:14 |
+| [[notes/bash\|bash]]                                                                                                                  | 2023-01-26 - 11:38 |
+| [[notes/cross-browser testing tool\|cross-browser testing tool]]                                                                      | 2023-01-25 - 16:14 |
