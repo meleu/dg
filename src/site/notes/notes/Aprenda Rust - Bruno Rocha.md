@@ -101,3 +101,129 @@ Observações sobre constantes:
 
 - precisa definir o tipo
 - não pode ser definida novamente
+
+
+## Tipos Primitivos em Rust
+
+<https://youtu.be/IEFrj4znVIU>
+
+Tipos primitivos são divididos em dois tipos:
+
+- Escalares
+- Compostos
+
+Detalhando:
+
+- Escalares
+    - representam um único valor contido dentro de uma escala conhecida
+    - permitem a comparação direta entre valores.
+    - são eles:
+        - inteiro
+        - ponto flutuante
+        - booleano
+        - caractere
+- Compostos
+    - servem para agregar multiplos valores
+    - são eles:
+        - matriz (array)
+            - Coleção de tipos iguais
+            - ex.: `[1, 2, 3, 4, 5]`
+        - tupla (tuple)
+            - Coleção de tipos diferentes
+            - ex.: `(5, true, 42.1, 'a')`
+
+### Escalares
+
+#### Inteiros
+
+| bits | signed | unsigned |
+| ---- | ------ | -------- |
+| 8    | i8     | u8       |
+| 16   | i16    | u16      |
+| 32   | i32    | u32      |
+| 64   | i64    | u64      |
+| 128  | i128   | u128     |
+| arch | isize  | usize    |
+
+**Observação**: se não for definido, o compilador irá inferir um inteiro como `i32`.
+
+Existem duas formas de definir o tipo na declaração da variável:
+```rust
+let x: u8 = 5;
+let y = 5_u8;
+```
+
+Também é possível usar `_underline_` para melhorar a legibilidade:
+```rust
+let price = 112_899;
+```
+
+Números em diferentes bases:
+```rust
+let hexadecimal = 0xff;
+let octal = 0o77;
+let binario = 0b1111_0000;
+let byte = b'A'; // NOTA: isso é diferente de char!
+```
+
+
+#### Ponto-flutuante
+
+**Observação**: se não for definido, o compilador irá inferir um ponto-flutuante como `f64`.
+
+
+#### Booleano
+
+```rust
+let isSomething = true;
+let isCorrect: bool = false;
+```
+
+
+#### Caracter
+
+Qualquer caracter Unicode, ou seja, aceita emojis!
+
+
+### Compostos
+
+<https://youtu.be/IEFrj4znVIU?t=920>
+
+#### tupla
+
+- tamanho único
+- tipagem mista
+- acesso aos items com `.` ponto: ex.: `my_tuple.0`
+- útil para desserialização de um objeto
+
+```rust
+// declaração com inferência de tipo
+let numbers = (1, 2, 3);
+let my_stuff = (1, 2.3, false);
+
+// declaração com tipagem explícita
+let numbers: (i32, i32, i32) = (1, 2, 3);
+let my_stuff (i32, f64, bool) = (1, 2.3, false);
+
+// desserialiazação
+let (a, b, c) = numbers;
+```
+
+#### array
+
+- elementos do mesmo tipo
+- acesso aos items igual outras linguagens: `my_array[0]`
+- fazer slice com `&my_array[1..2]`
+    - no intervalo `1..2`, o `1` é inclusive e o `2` é exclusivo.
+    - `..2` se omitir o início, considere `0`
+    - `1..` se omitir o final, considere que é até o fim
+
+```rust
+// inferência de tipo
+let numbers = [1, 2, 3];
+
+// tipagem explícita
+let numbers: [i32:3] = [1, 2, 3];
+```
+
+
