@@ -18,7 +18,11 @@ Esse trecho me lembrou muito o [[notes/books/12-regras/12 Regras Para a Vida\|12
 
 > As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
 
-Daí a importância de termos [[Princípios (Ray Dalio)\|Princípios (Ray Dalio)]].
+Daí a importância de termos:
+
+- [[Princípios (Ray Dalio)\|Princípios (Ray Dalio)]], para guiar nossas decisões.
+- Reserva de Emergência, para que possamos arriscar mais.
+
 
 ### Liderar vs. Gerenciar
 
