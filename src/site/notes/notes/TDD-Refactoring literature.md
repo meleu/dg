@@ -12,7 +12,7 @@ In this note I'm trying to list some fundamental books about these topics.
 
 - my very first contact was with [[notes/ruby minitest\|ruby minitest]]
 - then I went to [[notes/learning/RSpec - udemy\|RSpec - udemy]]
-- and got some interesting insightes from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
+- and got some interesting insights from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
 
 ## must read
 
@@ -33,7 +33,7 @@ In this note I'm trying to list some fundamental books about these topics.
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 
 
-## Refactoring and your tooling
+## Refactoring and its tooling
 
 - I found this very interesting: <https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go#refactoring-and-your-tooling>
 
@@ -46,7 +46,7 @@ You should be familiar enough with your editor to perform the following with a s
 -   **Extract/Inline variable**. Being able to take magic values and give them a name lets you simplify your code quickly.
 -   **Extract method/function**. It is vital to be able to take a section of code and extract functions/methods
 -   **Rename**. You should be able to confidently rename symbols across files.
--   **go fmt**. Go has an opinioned formatter called `go fmt`. Your editor should be running this on every file save.
+-   **go fmt**. Go has an opinionated formatter called `go fmt`. Your editor should be running this on every file save.
 -   **Run tests**. You should be able to do any of the above and then quickly re-run your tests to ensure your refactoring hasn't broken anything.
 
 In addition, to help you work with your code you should be able to:
