@@ -295,7 +295,8 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: ["njk", "md", "11ty.js", "css"],
     htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk",
+    // markdownTemplateEngine: "njk",
+    markdownTemplateEngine: false,
     passthroughFileCopy: true,
   };
 };
